@@ -1,0 +1,4479 @@
+[
+  {
+    "call_no": "01",
+    "audio_file": "1.mp3",
+    "speech_chunks_count": 7,
+    "chinese_transcript": "有没能把专照机拍下来一下，妈怎么了？你说什么装哪一吗。是的，我去抬一下水，两个班组，两个桶，一个班组一桶把把水抬下来要，今天没罐车。那人那个灯笼开那个平板这个在上面的，要么今天拉一桶吧。放点急跑都给直接我要操，去带去打警打车。桶水应该直也差不多吧，要比要比东北一块。坏了吗？你说你说你听着小狗在休息啊，忙着咱哥呃，我心那呀，现在我给你隔个罐车打个水，因为今在有个罐车在底下停着，打了一半，他说搅拌机出毛病了，毛病完了会者说我现在马上给你拿罐车打了一车出去，现在正在接呢，往上上。好的好的，我他那个。大哥这。",
+    "english_translation": "Did you take a picture of the camera? What's wrong with Mom? What are you talking about? Yeah, I'll get the water, two groups, two buckets, one group to lift the water down. There's no truck today. That guy's lamp is opening the tablet up there, or he's gonna pull a bucket today. Let me fuck myself if you want to. Take me to the police car. The buckets should be straighter than the one in the northeast. Is it broken? You said you were listening to the puppies resting, busy with my brother, my heart, and now I'm giving you water from a can-car, because there's a can-car parked under there, and he says there's a mixer, and after that, he says I'm gonna give you a car right now, and now I'm picking it up. All right, all right, all right, all right, all right. Boss.",
+    "ground_truth_translation": "Caller 1 instructed Caller 2 on 01 Dec 25 to send the loader at his location. To this, Caller 2 replied that he is going to bring water. Caller 2 further informed Caller 1 that since the tanker would not arrive at the construction site today he is going with the two barrels for getting water at the worksite. Caller 1 then asked Caller 2 if he could not arrange a pickup truck to bring water.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "罐车 (tanker)"
+    ],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.0,
+        "end": 4.8,
+        "chinese": "有没能把专照机拍下来一下，妈怎么了？你说什么装哪一吗",
+        "english": "Did you take a picture of the camera? What's wrong with Mom? What are you talking about?"
+      },
+      {
+        "start": 4.86,
+        "end": 20.26,
+        "chinese": "是的，我去抬一下水，两个班组，两个桶，一个班组一桶把把水抬下来要，今天没罐车。那人那个灯笼开那个平板这个在上面的，要么今天拉一桶吧",
+        "english": "Yeah, I'll get the water, two groups, two buckets, one group to lift the water down. There's no truck today. That guy's lamp is opening the tablet up there, or he's gonna pull a bucket today."
+      },
+      {
+        "start": 20.35,
+        "end": 24.32,
+        "chinese": "放点急跑都给直接我要操，去带去打警打车",
+        "english": "Let me fuck myself if you want to. Take me to the police car."
+      },
+      {
+        "start": 24.51,
+        "end": 28.64,
+        "chinese": "桶水应该直也差不多吧，要比要比东北一块",
+        "english": "The buckets should be straighter than the one in the northeast."
+      },
+      {
+        "start": 28.74,
+        "end": 51.74,
+        "chinese": "坏了吗？你说你说你听着小狗在休息啊，忙着咱哥呃，我心那呀，现在我给你隔个罐车打个水，因为今在有个罐车在底下停着，打了一半，他说搅拌机出毛病了，毛病完了会者说我现在马上给你拿罐车打了一车出去，现在正在接呢，往上上",
+        "english": "Is it broken? You said you were listening to the puppies resting, busy with my brother, my heart, and now I'm giving you water from a can-car, because there's a can-car parked under there, and he says there's a mixer, and after that, he says I'm gonna give you a car right now, and now I'm picking it up."
+      },
+      {
+        "start": 51.78,
+        "end": 58.75,
+        "chinese": "好的好的，我他那个",
+        "english": "All right, all right, all right, all right, all right."
+      },
+      {
+        "start": 58.85,
+        "end": 61.0,
+        "chinese": "大哥这",
+        "english": "Boss."
+      }
+    ]
+  },
+  {
+    "call_no": "02",
+    "audio_file": "2.mp3",
+    "speech_chunks_count": 10,
+    "chinese_transcript": "去人工人工，看。没。那鱼口到哪里了？我了我到那个来水的后面往那个就是我们那个挖出来的那个打墙边的那个沟里边。好好，知道，然后我下去要装大车里面是吧。呃，就是渣子跟石子稍微拌合一下，别可能你装到车头里边，翻头翻头的扎半头翻头的那个。有。",
+    "english_translation": "Get your hands on it. Look at that. Nope. Where's the fish? I went to the back of the water. That's the one we dug up in the ditch by the wall. All right, I know. I'm gonna go down there and get in the big car, right? Well, it's just a little bit of a mix between the slag and the rock. Yes.",
+    "ground_truth_translation": "Caller 1 informed Caller 2 on 01 Dec 25 that he has reached near a building behind Building No 20. Caller 1 further asked regarding the whereabouts of the workers. Caller 2 reply could not be ascertained due to inaudible conversation. Caller 1 further informed Caller 2 that he has reached near the water accumulation dam. Caller 2 informed Caller 1 that they (Caller 2 and other workers) are inside the ditch which they have recently dug near a big retaining wall. Caller 1 further asked Caller 2 if he (Caller 1) shall load certain material in the vehicles. Caller 2 instructed Caller 1 to load the material at his current location in the heavy vehicle and shift it to another location.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "沟里 (in the ditch)"
+    ],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 15.87,
+        "end": 20.86,
+        "chinese": "去人工人工，看",
+        "english": "Get your hands on it. Look at that."
+      },
+      {
+        "start": 22.14,
+        "end": 22.91,
+        "chinese": "没",
+        "english": "Nope."
+      },
+      {
+        "start": 22.98,
+        "end": 41.6,
+        "chinese": "那鱼口到哪里了？我了我到那个来水的后面往那个就是我们那个挖出来的那个打墙边的那个沟里边",
+        "english": "Where's the fish? I went to the back of the water. That's the one we dug up in the ditch by the wall."
+      },
+      {
+        "start": 41.7,
+        "end": 47.14,
+        "chinese": "好好，知道，然后我下去要装大车里面是吧",
+        "english": "All right, I know. I'm gonna go down there and get in the big car, right?"
+      },
+      {
+        "start": 47.17,
+        "end": 62.85,
+        "chinese": "呃，就是渣子跟石子稍微拌合一下，别可能你装到车头里边，翻头翻头的扎半头翻头的那个",
+        "english": "Well, it's just a little bit of a mix between the slag and the rock."
+      },
+      {
+        "start": 62.88,
+        "end": 63.26,
+        "chinese": "有",
+        "english": "Yes."
+      }
+    ]
+  },
+  {
+    "call_no": "03",
+    "audio_file": "3.mp3",
+    "speech_chunks_count": 29,
+    "chinese_transcript": "是的不说了，你往下面开。50你在这边吧。这我就忘记了办了。就在那个那边推的那个片石往上走。刘桶那里油桶那里把那个小的片子推推一走上来吧。儿子到里面去啊。你把那回头班搞出来，再把其证部好路都整出来。哪里有哪里有好。后本到前面走宽一点的地方，后边重点先走啊，基本都道才道路中间了，道他过不了。说什么事。23号。开小一点的时候。查话再说。早一点的知道吗。我先退我先退点，就退往下面。我听了听了。快管不得钱。我退认。2。小小俺过来都晓得那样小时贷晚了俺几天。喂我来都啱听到嘅就觉得你。好啊，查紧他的我水啊。刹车稍微搞。跑快点啊，那前面跑工都等着呢。他们政红呢。好喂。我要的这个。太多了。宝报老师报报老朱，这上面还有几个人要下来帮作种炸药。",
+    "english_translation": "Yeah, I'm done. You drive down there. You're here, aren't you? That's what I forgot to do. It's the stone that pushed over there. Let's push that little film up the bucket. Son, go inside. You get that back-to-back class out of here, and then you clean up his evidence department. There's nothing good about it. It's a little wider in the front, but it's the back. It's basically the middle of the road, so he can't make it. What's the matter? Number 23. When it's smaller. I'll talk to you later. Did you know earlier? I'll back off. I'll back down. I heard you. Don't worry about the money. I confess. 2 Xiao Xiao Xiao Xiao knew I'd be late for a few days. I thought you were when I came to see you. All right, keep an eye on him. Brake a little bit. Hurry up. The jockey's waiting in the front. Where's Gyeong-hong? Yeah. This is what I want. That's too much. Mr. Treasure reported that there are still a few people coming down here to plant explosives.",
+    "ground_truth_translation": "Caller 1 instructed Caller 2 on 01 Dec 2025 to drive his vehicle/equipment ahead as there are stones at the worksite. \n1.2\tCaller 1 further instructed Caller 3 to deploy the loader to remove the small sized stones existing near the FOL barrel. Caller 1 further instructed Caller 3 to remove certain vehicles from the worksite as the team is waiting to start drilling work.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "油桶 (FOL (fuel/oil/lubricant) barrel)",
+      "片石 (stones / stone blocks)"
+    ],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.67,
+        "end": 2.53,
+        "chinese": "是的不说了，你往下面开",
+        "english": "Yeah, I'm done. You drive down there."
+      },
+      {
+        "start": 2.69,
+        "end": 4.83,
+        "chinese": "50你在这边吧",
+        "english": "You're here, aren't you?"
+      },
+      {
+        "start": 4.86,
+        "end": 6.02,
+        "chinese": "这我就忘记了办了",
+        "english": "That's what I forgot to do."
+      },
+      {
+        "start": 6.05,
+        "end": 9.34,
+        "chinese": "就在那个那边推的那个片石往上走",
+        "english": "It's the stone that pushed over there."
+      },
+      {
+        "start": 9.44,
+        "end": 13.47,
+        "chinese": "刘桶那里油桶那里把那个小的片子推推一走上来吧",
+        "english": "Let's push that little film up the bucket."
+      },
+      {
+        "start": 13.63,
+        "end": 15.49,
+        "chinese": "儿子到里面去啊",
+        "english": "Son, go inside."
+      },
+      {
+        "start": 15.58,
+        "end": 19.26,
+        "chinese": "你把那回头班搞出来，再把其证部好路都整出来",
+        "english": "You get that back-to-back class out of here, and then you clean up his evidence department."
+      },
+      {
+        "start": 19.33,
+        "end": 21.38,
+        "chinese": "哪里有哪里有好",
+        "english": "There's nothing good about it."
+      },
+      {
+        "start": 21.44,
+        "end": 28.22,
+        "chinese": "后本到前面走宽一点的地方，后边重点先走啊，基本都道才道路中间了，道他过不了",
+        "english": "It's a little wider in the front, but it's the back. It's basically the middle of the road, so he can't make it."
+      },
+      {
+        "start": 28.26,
+        "end": 29.18,
+        "chinese": "说什么事",
+        "english": "What's the matter?"
+      },
+      {
+        "start": 29.25,
+        "end": 30.3,
+        "chinese": "23号",
+        "english": "Number 23."
+      },
+      {
+        "start": 30.46,
+        "end": 32.32,
+        "chinese": "开小一点的时候",
+        "english": "When it's smaller."
+      },
+      {
+        "start": 32.35,
+        "end": 33.34,
+        "chinese": "查话再说",
+        "english": "I'll talk to you later."
+      },
+      {
+        "start": 33.5,
+        "end": 34.75,
+        "chinese": "早一点的知道吗",
+        "english": "Did you know earlier?"
+      },
+      {
+        "start": 34.85,
+        "end": 37.44,
+        "chinese": "我先退我先退点，就退往下面",
+        "english": "I'll back off. I'll back down."
+      },
+      {
+        "start": 37.57,
+        "end": 38.43,
+        "chinese": "我听了听了",
+        "english": "I heard you."
+      },
+      {
+        "start": 38.62,
+        "end": 39.62,
+        "chinese": "快管不得钱",
+        "english": "Don't worry about the money."
+      },
+      {
+        "start": 39.81,
+        "end": 40.58,
+        "chinese": "我退认",
+        "english": "I confess."
+      },
+      {
+        "start": 40.8,
+        "end": 41.7,
+        "chinese": "2",
+        "english": "2"
+      },
+      {
+        "start": 41.73,
+        "end": 45.47,
+        "chinese": "小小俺过来都晓得那样小时贷晚了俺几天",
+        "english": "Xiao Xiao Xiao Xiao knew I'd be late for a few days."
+      },
+      {
+        "start": 45.82,
+        "end": 49.18,
+        "chinese": "喂我来都啱听到嘅就觉得你",
+        "english": "I thought you were when I came to see you."
+      },
+      {
+        "start": 49.25,
+        "end": 52.06,
+        "chinese": "好啊，查紧他的我水啊",
+        "english": "All right, keep an eye on him."
+      },
+      {
+        "start": 52.32,
+        "end": 53.41,
+        "chinese": "刹车稍微搞",
+        "english": "Brake a little bit."
+      },
+      {
+        "start": 53.57,
+        "end": 55.68,
+        "chinese": "跑快点啊，那前面跑工都等着呢",
+        "english": "Hurry up. The jockey's waiting in the front."
+      },
+      {
+        "start": 56.0,
+        "end": 56.7,
+        "chinese": "他们政红呢",
+        "english": "Where's Gyeong-hong?"
+      },
+      {
+        "start": 57.12,
+        "end": 57.54,
+        "chinese": "好喂",
+        "english": "Yeah."
+      },
+      {
+        "start": 57.57,
+        "end": 58.3,
+        "chinese": "我要的这个",
+        "english": "This is what I want."
+      },
+      {
+        "start": 58.37,
+        "end": 58.82,
+        "chinese": "太多了",
+        "english": "That's too much."
+      },
+      {
+        "start": 59.04,
+        "end": 63.39,
+        "chinese": "宝报老师报报老朱，这上面还有几个人要下来帮作种炸药",
+        "english": "Mr. Treasure reported that there are still a few people coming down here to plant explosives."
+      }
+    ]
+  },
+  {
+    "call_no": "04",
+    "audio_file": "4.mp3",
+    "speech_chunks_count": 32,
+    "chinese_transcript": "88198819。干嘛干嘛。这个数据线上来那个黑色的。人儿多久。你那里有4据店没有。红色装的军红色装的军，你往后面推。现在对堵车市头，那往以后面倒一点。钱都滚到下面去了。好，不好经下来了，我就。早现都要打就。没在里。找丽天。是。买像合子。要不照加片字那个需是那种哎。哪边打点，我我哪边边打点姑元公务点，我想身边再打一点。还且又有。这。谢谢费有。你别编我，你是咋的。再把钱打开。对有我的40块钱。不段。7392。发出去发出去。西就到这里了。他在这个。那你等一下转下等下转。我。对对。3你呀回走了，走吧，去那里晚上。差不多，都时连80的。交的人无所谓，下午再用嘛，下午要提前要用。",
+    "english_translation": "88198819 What are you doing? The black one on this data line. How long is it? Do you have a 4-year-old shop? The red army, the red army, you push back. Now to the traffic jam, just pour a little back there. The money's going down there. Okay, it's not gonna work. I'm just... We'll have to fight now. It's not in there. Look for Li Ten. Yes. Buy it like Koko. Why don't you take a picture of that one? I'd like to play a little more with you. And there's another one. Here. Thank you. Don't make me up. What's wrong with you? Open the money again. That's 40 bucks for me. Ignoring 7392 Send it out, send it out. That's it for West. He's here. Then wait a minute. Wait a minute. I'm... Yeah, yeah. Come on, let's go there at night. Almost. It's 80 times. It doesn't matter. We'll use it in the afternoon. We'll use it in advance.",
+    "ground_truth_translation": "Caller 1 asked Caller 2 on 01 Dec 2025 to fetch black colored data line (likely a data cable) at his location. Caller 2 response was not clear. Caller 2 further instructed the third person to shift the red colored loader from his location to the rear side. Caller 2 further instructed the workers engaged at the work site to unload the stones and conduct other works",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "数据线 (data line (cable))"
+    ],
+    "detected_codenames": [
+      "8819"
+    ],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.06,
+        "end": 1.44,
+        "chinese": "88198819",
+        "english": "88198819"
+      },
+      {
+        "start": 1.54,
+        "end": 2.78,
+        "chinese": "干嘛干嘛",
+        "english": "What are you doing?"
+      },
+      {
+        "start": 2.85,
+        "end": 5.79,
+        "chinese": "这个数据线上来那个黑色的",
+        "english": "The black one on this data line."
+      },
+      {
+        "start": 6.08,
+        "end": 7.1,
+        "chinese": "人儿多久",
+        "english": "How long is it?"
+      },
+      {
+        "start": 7.14,
+        "end": 9.31,
+        "chinese": "你那里有4据店没有",
+        "english": "Do you have a 4-year-old shop?"
+      },
+      {
+        "start": 9.63,
+        "end": 11.62,
+        "chinese": "红色装的军红色装的军，你往后面推",
+        "english": "The red army, the red army, you push back."
+      },
+      {
+        "start": 11.87,
+        "end": 15.2,
+        "chinese": "现在对堵车市头，那往以后面倒一点",
+        "english": "Now to the traffic jam, just pour a little back there."
+      },
+      {
+        "start": 15.46,
+        "end": 18.02,
+        "chinese": "钱都滚到下面去了。好，不好经下来了，我就",
+        "english": "The money's going down there. Okay, it's not gonna work. I'm just..."
+      },
+      {
+        "start": 18.56,
+        "end": 19.68,
+        "chinese": "早现都要打就",
+        "english": "We'll have to fight now."
+      },
+      {
+        "start": 19.78,
+        "end": 20.22,
+        "chinese": "没在里",
+        "english": "It's not in there."
+      },
+      {
+        "start": 20.35,
+        "end": 20.9,
+        "chinese": "找丽天",
+        "english": "Look for Li Ten."
+      },
+      {
+        "start": 21.12,
+        "end": 21.73,
+        "chinese": "是",
+        "english": "Yes."
+      },
+      {
+        "start": 21.76,
+        "end": 22.56,
+        "chinese": "买像合子",
+        "english": "Buy it like Koko."
+      },
+      {
+        "start": 22.62,
+        "end": 26.02,
+        "chinese": "要不照加片字那个需是那种哎",
+        "english": "Why don't you take a picture of that one?"
+      },
+      {
+        "start": 26.27,
+        "end": 31.55,
+        "chinese": "哪边打点，我我哪边边打点姑元公务点，我想身边再打一点",
+        "english": "I'd like to play a little more with you."
+      },
+      {
+        "start": 32.29,
+        "end": 32.9,
+        "chinese": "还且又有",
+        "english": "And there's another one."
+      },
+      {
+        "start": 32.99,
+        "end": 33.73,
+        "chinese": "这",
+        "english": "Here."
+      },
+      {
+        "start": 33.95,
+        "end": 34.56,
+        "chinese": "谢谢费有",
+        "english": "Thank you."
+      },
+      {
+        "start": 35.39,
+        "end": 36.58,
+        "chinese": "你别编我，你是咋的",
+        "english": "Don't make me up. What's wrong with you?"
+      },
+      {
+        "start": 36.64,
+        "end": 38.08,
+        "chinese": "再把钱打开",
+        "english": "Open the money again."
+      },
+      {
+        "start": 38.5,
+        "end": 39.94,
+        "chinese": "对有我的40块钱",
+        "english": "That's 40 bucks for me."
+      },
+      {
+        "start": 39.97,
+        "end": 40.67,
+        "chinese": "不段",
+        "english": "Ignoring"
+      },
+      {
+        "start": 40.93,
+        "end": 41.63,
+        "chinese": "7392",
+        "english": "7392"
+      },
+      {
+        "start": 42.14,
+        "end": 43.2,
+        "chinese": "发出去发出去",
+        "english": "Send it out, send it out."
+      },
+      {
+        "start": 43.62,
+        "end": 44.58,
+        "chinese": "西就到这里了",
+        "english": "That's it for West."
+      },
+      {
+        "start": 44.64,
+        "end": 45.22,
+        "chinese": "他在这个",
+        "english": "He's here."
+      },
+      {
+        "start": 46.05,
+        "end": 48.22,
+        "chinese": "那你等一下转下等下转",
+        "english": "Then wait a minute. Wait a minute."
+      },
+      {
+        "start": 48.26,
+        "end": 49.06,
+        "chinese": "我",
+        "english": "I'm..."
+      },
+      {
+        "start": 49.09,
+        "end": 49.38,
+        "chinese": "对对",
+        "english": "Yeah, yeah."
+      },
+      {
+        "start": 49.7,
+        "end": 53.44,
+        "chinese": "3你呀回走了，走吧，去那里晚上",
+        "english": "Come on, let's go there at night."
+      },
+      {
+        "start": 53.5,
+        "end": 55.07,
+        "chinese": "差不多，都时连80的",
+        "english": "Almost. It's 80 times."
+      },
+      {
+        "start": 55.1,
+        "end": 58.27,
+        "chinese": "交的人无所谓，下午再用嘛，下午要提前要用",
+        "english": "It doesn't matter. We'll use it in the afternoon. We'll use it in advance."
+      }
+    ]
+  },
+  {
+    "call_no": "05",
+    "audio_file": "5.mp3",
+    "speech_chunks_count": 15,
+    "chinese_transcript": "这路车了要往这上面了，不下去了不下去。我。哎。到这儿。拐嘛，等一下过来了的时候，我看到的话，我就叫你们去路吧。你这个法鱼没办法。等是等是这里有一个地方下去了，等是他上上来的时候。我才跑来跑去，刚刚上去了又下来了，我操。谁证明别往外边去证明。再玩点边先玩一点。1。多急，说的就是你啊，检查的来了，我请你注意一点啊。到约了。我信你个鬼，我日你鬼，你再己推一点啊呢。我今天开卡，把这个把这个个。",
+    "english_translation": "This train's going up here. I can't go down. I'm... Hey. Come here. Come on, when I see you coming, I'll tell you where to go. There's nothing you can do about it. Wait till there's a place down here. When he comes up. I just ran around. I just went up and down. Fuck me. Who's going to prove that you're not going out there? Let's play a little more. One. You're the one I'm talking about. I'm here for the check. I need your attention. It's an appointment. I believe in you, damn it, you push it a little bit. I'll open this card today. I'll take this one.",
+    "ground_truth_translation": "1.\tCaller 1 informed Caller 2 on 01 Dec 25 that 01 x Tipper Truck has returned to his location instead of moving to a lower location. \n\n1.2\tCaller 3 informed Caller 4 (named Dorjee) about the movement of 01 x Pickup Vehicle towards a lower location and instructed Caller 4 to pay attention of safety of the vehicle as when it comes over there and asked Caller 4 to send the photographs of of an unspecified item/location.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 2.91,
+        "end": 8.48,
+        "chinese": "这路车了要往这上面了，不下去了不下去",
+        "english": "This train's going up here. I can't go down."
+      },
+      {
+        "start": 11.81,
+        "end": 13.63,
+        "chinese": "我",
+        "english": "I'm..."
+      },
+      {
+        "start": 17.09,
+        "end": 17.82,
+        "chinese": "哎",
+        "english": "Hey."
+      },
+      {
+        "start": 18.88,
+        "end": 19.94,
+        "chinese": "到这儿",
+        "english": "Come here."
+      },
+      {
+        "start": 21.38,
+        "end": 25.57,
+        "chinese": "拐嘛，等一下过来了的时候，我看到的话，我就叫你们去路吧",
+        "english": "Come on, when I see you coming, I'll tell you where to go."
+      },
+      {
+        "start": 26.02,
+        "end": 28.16,
+        "chinese": "你这个法鱼没办法",
+        "english": "There's nothing you can do about it."
+      },
+      {
+        "start": 31.33,
+        "end": 36.77,
+        "chinese": "等是等是这里有一个地方下去了，等是他上上来的时候",
+        "english": "Wait till there's a place down here. When he comes up."
+      },
+      {
+        "start": 37.18,
+        "end": 42.75,
+        "chinese": "我才跑来跑去，刚刚上去了又下来了，我操",
+        "english": "I just ran around. I just went up and down. Fuck me."
+      },
+      {
+        "start": 46.08,
+        "end": 49.47,
+        "chinese": "谁证明别往外边去证明",
+        "english": "Who's going to prove that you're not going out there?"
+      },
+      {
+        "start": 52.8,
+        "end": 54.43,
+        "chinese": "再玩点边先玩一点",
+        "english": "Let's play a little more."
+      },
+      {
+        "start": 57.82,
+        "end": 58.66,
+        "chinese": "1",
+        "english": "One."
+      },
+      {
+        "start": 59.62,
+        "end": 67.9,
+        "chinese": "多急，说的就是你啊，检查的来了，我请你注意一点啊",
+        "english": "You're the one I'm talking about. I'm here for the check. I need your attention."
+      },
+      {
+        "start": 68.61,
+        "end": 71.42,
+        "chinese": "到约了",
+        "english": "It's an appointment."
+      },
+      {
+        "start": 71.9,
+        "end": 76.9,
+        "chinese": "我信你个鬼，我日你鬼，你再己推一点啊呢",
+        "english": "I believe in you, damn it, you push it a little bit."
+      },
+      {
+        "start": 80.22,
+        "end": 82.31,
+        "chinese": "我今天开卡，把这个把这个个",
+        "english": "I'll open this card today. I'll take this one."
+      }
+    ]
+  },
+  {
+    "call_no": "06",
+    "audio_file": "6.mp3",
+    "speech_chunks_count": 21,
+    "chinese_transcript": "退。联系一下联系那个。在。我没有你。他们们。不用。开始四这里了，还有600米差不多。10。轮胎的我也拿不过去嘛，他们那边不是路没通嘛。要要。要要放在放炮这边吗。滑机过不去，人家王总叫。叫挖机放在放在放在路这边，明天明天早上。明天早上带着那着卡上336去。一条一台挖机开漏，一条一台挖机铺。过路宽。把路给他弄出来。看吧，到时候看吧，如果说过不来的话呢，等路通了，我帮你，我帮你把把把它呆着下来吧，晚点东西。对，挖机挖机要放在K4加600这里。刚才他们说了嘛，放在。K4加600挡桥，这里前面过不去，太危险了。明天跟着查到336，一条太漏，一一台挖机太漏，一台挖机破路，知道吧。明天等明天路通了，我下来的时候，我帮你保证他带着下来吧。",
+    "english_translation": "Fall back. Get in touch with that one. Yes. I don't have you. They're-- they're-- they're-- they're-- they're-- they're-- they're-- they're-- they're-- they're-- they're-- they're-- No, I'm fine. It's starting here. 600 meters to go. 10 I can't get the tires. They don't have access. Yes. Do you want to put it on the side of the gun? I can't get over it. Tell the excavator to put it on the side of the road. Tomorrow morning. Tomorrow morning, take that card and put it on 336. An excavator leaks, an excavator shop. It's wide. Get him out of here. Look, if you can't come, I'll help you. I'll help you with it. I'll help you with something later. Yeah, the excavator's gonna be at K4 plus 600. They just said, \"Put it on.\" K4 plus 600 block the bridge. It's too dangerous to cross. We'll find 336, one leak, an excavator leak, an excavator break the road, okay? Tomorrow, when the road opens, I'll make sure he takes it with me when I get down.",
+    "ground_truth_translation": "Caller 1 informed Caller 2 on 02 Dec 2025 that it is approximately 600 meters more. Caller 1 informed that he cannot carry the tire as the road is not open and blasting is going to be conducted. Caller 1 further informed that the Excavator cannot drag it and Supervisor Wang wants the Excavator to be on this side of the road and instructed Caller 2 to check 336 [likely landmark] tomorrow morning and send 01 x Excavator to open the road. Caller 1 instructed that the Excavator is required to be placed here by the Retaining Wall at K14 + 600 as it is dangerous ahead so the Excavator cannot move ahead. Caller 1 further instructed Caller 2 to check 336 tomorrow as 01 x Excavator will tear [likely road] and another Excavator will break [likely road]. Caller 1 informed that he will bring the tire down after the road is open tomorrow.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "放炮 (blasting)",
+      "挖机 (excavator)",
+      "王总 (Supervisor Wang)"
+    ],
+    "detected_codenames": [
+      "10",
+      "336",
+      "K4"
+    ],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.32,
+        "end": 1.6,
+        "chinese": "退",
+        "english": "Fall back."
+      },
+      {
+        "start": 1.63,
+        "end": 3.04,
+        "chinese": "联系一下联系那个",
+        "english": "Get in touch with that one."
+      },
+      {
+        "start": 3.52,
+        "end": 3.84,
+        "chinese": "在",
+        "english": "Yes."
+      },
+      {
+        "start": 4.1,
+        "end": 4.99,
+        "chinese": "我没有你",
+        "english": "I don't have you."
+      },
+      {
+        "start": 5.02,
+        "end": 5.76,
+        "chinese": "他们们",
+        "english": "They're-- they're-- they're-- they're-- they're-- they're-- they're-- they're-- they're-- they're-- they're-- they're--"
+      },
+      {
+        "start": 5.86,
+        "end": 6.18,
+        "chinese": "不用",
+        "english": "No, I'm fine."
+      },
+      {
+        "start": 6.53,
+        "end": 9.54,
+        "chinese": "开始四这里了，还有600米差不多",
+        "english": "It's starting here. 600 meters to go."
+      },
+      {
+        "start": 9.73,
+        "end": 10.56,
+        "chinese": "10",
+        "english": "10"
+      },
+      {
+        "start": 11.17,
+        "end": 14.43,
+        "chinese": "轮胎的我也拿不过去嘛，他们那边不是路没通嘛",
+        "english": "I can't get the tires. They don't have access."
+      },
+      {
+        "start": 14.56,
+        "end": 15.07,
+        "chinese": "要要",
+        "english": "Yes."
+      },
+      {
+        "start": 15.23,
+        "end": 16.8,
+        "chinese": "要要放在放炮这边吗",
+        "english": "Do you want to put it on the side of the gun?"
+      },
+      {
+        "start": 17.38,
+        "end": 20.1,
+        "chinese": "滑机过不去，人家王总叫",
+        "english": "I can't get over it."
+      },
+      {
+        "start": 20.22,
+        "end": 23.52,
+        "chinese": "叫挖机放在放在放在路这边，明天明天早上",
+        "english": "Tell the excavator to put it on the side of the road. Tomorrow morning."
+      },
+      {
+        "start": 23.58,
+        "end": 26.02,
+        "chinese": "明天早上带着那着卡上336去",
+        "english": "Tomorrow morning, take that card and put it on 336."
+      },
+      {
+        "start": 26.34,
+        "end": 28.96,
+        "chinese": "一条一台挖机开漏，一条一台挖机铺",
+        "english": "An excavator leaks, an excavator shop."
+      },
+      {
+        "start": 29.06,
+        "end": 29.73,
+        "chinese": "过路宽",
+        "english": "It's wide."
+      },
+      {
+        "start": 29.98,
+        "end": 31.3,
+        "chinese": "把路给他弄出来",
+        "english": "Get him out of here."
+      },
+      {
+        "start": 31.81,
+        "end": 39.3,
+        "chinese": "看吧，到时候看吧，如果说过不来的话呢，等路通了，我帮你，我帮你把把把它呆着下来吧，晚点东西",
+        "english": "Look, if you can't come, I'll help you. I'll help you with it. I'll help you with something later."
+      },
+      {
+        "start": 39.49,
+        "end": 44.22,
+        "chinese": "对，挖机挖机要放在K4加600这里。刚才他们说了嘛，放在",
+        "english": "Yeah, the excavator's gonna be at K4 plus 600. They just said, \"Put it on.\""
+      },
+      {
+        "start": 44.26,
+        "end": 52.51,
+        "chinese": "K4加600挡桥，这里前面过不去，太危险了。明天跟着查到336，一条太漏，一一台挖机太漏，一台挖机破路，知道吧",
+        "english": "K4 plus 600 block the bridge. It's too dangerous to cross. We'll find 336, one leak, an excavator leak, an excavator break the road, okay?"
+      },
+      {
+        "start": 52.9,
+        "end": 56.26,
+        "chinese": "明天等明天路通了，我下来的时候，我帮你保证他带着下来吧",
+        "english": "Tomorrow, when the road opens, I'll make sure he takes it with me when I get down."
+      }
+    ]
+  },
+  {
+    "call_no": "07",
+    "audio_file": "7.mp3",
+    "speech_chunks_count": 20,
+    "chinese_transcript": "他过来就是嘛，过来给他子。你在哪里电油学到这个路西。嗯。20320。回先不要报发啊，这路这里有石头路上过不去。不我啥呀。不要不要这前的多钱。要不要给照片呀。320320。hel林4林。44，家里那个前面那个路好像不通，你刚刚下来的时候，那个有石头。到天气几。说一下。火车公。我。在20那里20那里。",
+    "english_translation": "He's just here. Come and give him his son. Where'd you learn that about Luthor? Yeah. 20320. Don't report it back. There's a rock road here. No, I don't what? Don't forget the money. Do you want a picture? 320320. Hellin 4 lin. 44, that road in front of the house doesn't seem to work. What's the weather? Say it. Trainman. I'm... Twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty.",
+    "ground_truth_translation": "1.1\tCaller 1 asked Caller 2, a person codenamed as 420 on 02 Dec 25 to remove the stones at certain site (likely a road segment). Caller 1 further \n\n1.2\tCaller 1 further instructed Caller 3 to not to conduct blasting at No 5 and No 6 lane (roads) as stone removing work has to be conducted there. \n\n1.3\tCaller 1 again informed Caller 2, a person, codenamed as 420 that a road segment near certain location is blocked by the stones which has to be cleared.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "石头 (stones / rocks)"
+    ],
+    "detected_codenames": [
+      "20"
+    ],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.93,
+        "end": 3.81,
+        "chinese": "他过来就是嘛，过来给他子",
+        "english": "He's just here. Come and give him his son."
+      },
+      {
+        "start": 7.3,
+        "end": 11.17,
+        "chinese": "你在哪里电油学到这个路西",
+        "english": "Where'd you learn that about Luthor?"
+      },
+      {
+        "start": 14.59,
+        "end": 15.65,
+        "chinese": "嗯",
+        "english": "Yeah."
+      },
+      {
+        "start": 18.66,
+        "end": 20.45,
+        "chinese": "20320",
+        "english": "20320."
+      },
+      {
+        "start": 23.68,
+        "end": 29.25,
+        "chinese": "回先不要报发啊，这路这里有石头路上过不去",
+        "english": "Don't report it back. There's a rock road here."
+      },
+      {
+        "start": 33.15,
+        "end": 34.14,
+        "chinese": "不我啥呀",
+        "english": "No, I don't what?"
+      },
+      {
+        "start": 35.97,
+        "end": 39.1,
+        "chinese": "不要不要这前的多钱",
+        "english": "Don't forget the money."
+      },
+      {
+        "start": 42.56,
+        "end": 44.61,
+        "chinese": "要不要给照片呀",
+        "english": "Do you want a picture?"
+      },
+      {
+        "start": 46.5,
+        "end": 48.86,
+        "chinese": "320320",
+        "english": "320320."
+      },
+      {
+        "start": 52.35,
+        "end": 53.79,
+        "chinese": "hel林4林",
+        "english": "Hellin 4 lin."
+      },
+      {
+        "start": 57.15,
+        "end": 64.42,
+        "chinese": "44，家里那个前面那个路好像不通，你刚刚下来的时候，那个有石头",
+        "english": "44, that road in front of the house doesn't seem to work."
+      },
+      {
+        "start": 67.81,
+        "end": 70.11,
+        "chinese": "到天气几",
+        "english": "What's the weather?"
+      },
+      {
+        "start": 70.3,
+        "end": 71.36,
+        "chinese": "说一下",
+        "english": "Say it."
+      },
+      {
+        "start": 73.98,
+        "end": 77.15,
+        "chinese": "火车公",
+        "english": "Trainman."
+      },
+      {
+        "start": 80.74,
+        "end": 81.92,
+        "chinese": "我",
+        "english": "I'm..."
+      },
+      {
+        "start": 84.32,
+        "end": 87.42,
+        "chinese": "在20那里20那里",
+        "english": "Twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty."
+      }
+    ]
+  },
+  {
+    "call_no": "08",
+    "audio_file": "8.mp3",
+    "speech_chunks_count": 12,
+    "chinese_transcript": "张说去去。去了，要放完了去了，还老大聊大火你都。开下来。大哥。啊。我把对的你拿给你用半天，你晚上回来的时候还他就完了。喂喂。小呀小呀。",
+    "english_translation": "Zhang said go. I'm going. It's over. You're talking about fire. Take it off. Boss! Aah! I'll give you the right one for half a day and you'll pay him back when you get back at night. Hello? Little! Little!",
+    "ground_truth_translation": "Caller 1 informed Caller 2 on 02 Dec 25 regarding sending of concrete at the construction site. Caller 1 further informed Caller 2 that he is sending the HHRS for Caller 2. Caller 1 further instructed Caller 2 to return the HHRS set by evening after using it during the whole day.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 3.2,
+        "end": 4.96,
+        "chinese": "张说去去",
+        "english": "Zhang said go."
+      },
+      {
+        "start": 8.67,
+        "end": 13.38,
+        "chinese": "去了，要放完了去了，还老大聊大火你都",
+        "english": "I'm going. It's over. You're talking about fire."
+      },
+      {
+        "start": 16.83,
+        "end": 18.78,
+        "chinese": "开下来",
+        "english": "Take it off."
+      },
+      {
+        "start": 20.51,
+        "end": 21.34,
+        "chinese": "大哥",
+        "english": "Boss!"
+      },
+      {
+        "start": 21.89,
+        "end": 23.14,
+        "chinese": "啊",
+        "english": "Aah!"
+      },
+      {
+        "start": 31.65,
+        "end": 36.0,
+        "chinese": "我把对的你拿给你用半天，你晚上回来的时候还他就完了",
+        "english": "I'll give you the right one for half a day and you'll pay him back when you get back at night."
+      },
+      {
+        "start": 39.39,
+        "end": 40.03,
+        "chinese": "喂喂",
+        "english": "Hello?"
+      },
+      {
+        "start": 43.94,
+        "end": 44.7,
+        "chinese": "小呀小呀",
+        "english": "Little! Little!"
+      }
+    ]
+  },
+  {
+    "call_no": "09",
+    "audio_file": "9.mp3",
+    "speech_chunks_count": 14,
+    "chinese_transcript": "开个。抓下行了。对。排在前面的他到那里等他了马到那边发泡了。啊，往，这就走。到人民家来哈人家来。回不到美安回不道美安跑到哪了家。打电话没电了，没有电了。电没有电给他打电话，挖机是不是化断了。好好好，没带就停在那里好好。",
+    "english_translation": "Open it. We're good. Yeah. He's in front. He's waiting for his horse to burst over there. Ah, come on, let's go. Come to the people's house. I can't go back to Mi-Ann and where I went. There's no power on the phone. There's no power on the phone. The power didn't call him. Did the excavator go out? All right, all right, all right, all right, all right, all right, all right, all right, all right, all right.",
+    "ground_truth_translation": "1.1\tCaller 1 informed Caller 2 on 02 Dec 25 that blasting is scheduled to be conducted soon near the duct/channel (likely in inside the duct/channel). In this regard Caller 1 instructed Caller 2 to ask the workers engaged inside the duct to move away.  \n\n1.2\tCaller 3 informed Caller 4 that there is power outage at the worksite. Caller 3 further asked Caller 4 if he shall ask the excavator operator to continue digging.  Caller 3 instructed Caller 4 to stop digging is there is power outage.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "挖机 (excavator)"
+    ],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 2.21,
+        "end": 4.93,
+        "chinese": "开个",
+        "english": "Open it."
+      },
+      {
+        "start": 8.13,
+        "end": 9.5,
+        "chinese": "抓下行了",
+        "english": "We're good."
+      },
+      {
+        "start": 12.9,
+        "end": 13.79,
+        "chinese": "对",
+        "english": "Yeah."
+      },
+      {
+        "start": 31.23,
+        "end": 34.91,
+        "chinese": "排在前面的他到那里等他了马到那边发泡了",
+        "english": "He's in front. He's waiting for his horse to burst over there."
+      },
+      {
+        "start": 35.46,
+        "end": 37.7,
+        "chinese": "啊，往，这就走",
+        "english": "Ah, come on, let's go."
+      },
+      {
+        "start": 41.06,
+        "end": 43.23,
+        "chinese": "到人民家来哈人家来",
+        "english": "Come to the people's house."
+      },
+      {
+        "start": 44.54,
+        "end": 48.0,
+        "chinese": "回不到美安回不道美安跑到哪了家",
+        "english": "I can't go back to Mi-Ann and where I went."
+      },
+      {
+        "start": 51.46,
+        "end": 55.9,
+        "chinese": "打电话没电了，没有电了",
+        "english": "There's no power on the phone. There's no power on the phone."
+      },
+      {
+        "start": 61.25,
+        "end": 65.7,
+        "chinese": "电没有电给他打电话，挖机是不是化断了",
+        "english": "The power didn't call him. Did the excavator go out?"
+      },
+      {
+        "start": 66.02,
+        "end": 70.94,
+        "chinese": "好好好，没带就停在那里好好",
+        "english": "All right, all right, all right, all right, all right, all right, all right, all right, all right, all right."
+      }
+    ]
+  },
+  {
+    "call_no": "10",
+    "audio_file": "10.mp3",
+    "speech_chunks_count": 16,
+    "chinese_transcript": "配没呀。导打一的人区，那个搞起来，他那个给他了，后开那个给他了。你要干干嘛了。这手撞一。我都在说一下，什么。工工，你看卡口是不是一个一个车了。在哪里啊？没有看到。告诉一个白颜色的一个呃北京吉普的是搞电力的，在那边把电然器给一个树字掉下来，跳闸了，人家进去要检修的。回到这里。我这里人。到下面卡点了，你到群里面问一下8369这个车，有车的话，咱也放进去。他是在那个上达那块要看看那个压，不从这边。",
+    "english_translation": "Is it okay? He's got one. He's got one for him. He's got one for him. What are you doing? This hand hit one. I'm talking about it. What? I'll take a look at the truck. Where is it? I don't see it. Tell a white-coloured, uh, Beijing Jeep that he's electric, drops the ecstasy off a tree, jumps the gate, goes in to check it out. Come back here. I'm from here. We'll put it in there if we have it. He's at the end of the block to look at the pressure, not this way.",
+    "ground_truth_translation": "1.1\tCaller 1 instructed Caller 2 on 02 Dec 25 to shift/load the stones at the construction site.  \n\n1.2\tCaller 3 informed Caller 4 that a white colored BJC Jeep (A Jeep manufactured by the Beijing Jeep Corporation) has arrived near the construction site for maintenance of the Power transformer.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "北京吉普 (BJC Jeep)"
+    ],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 14.75,
+        "end": 16.58,
+        "chinese": "配没呀",
+        "english": "Is it okay?"
+      },
+      {
+        "start": 18.43,
+        "end": 28.93,
+        "chinese": "导打一的人区，那个搞起来，他那个给他了，后开那个给他了",
+        "english": "He's got one. He's got one for him. He's got one for him."
+      },
+      {
+        "start": 29.63,
+        "end": 30.88,
+        "chinese": "你要干干嘛了",
+        "english": "What are you doing?"
+      },
+      {
+        "start": 34.72,
+        "end": 35.39,
+        "chinese": "这手撞一",
+        "english": "This hand hit one."
+      },
+      {
+        "start": 39.74,
+        "end": 41.92,
+        "chinese": "我都在说一下，什么",
+        "english": "I'm talking about it. What?"
+      },
+      {
+        "start": 45.98,
+        "end": 56.22,
+        "chinese": "工工，你看卡口是不是一个一个车了",
+        "english": "I'll take a look at the truck."
+      },
+      {
+        "start": 59.55,
+        "end": 62.27,
+        "chinese": "在哪里啊？没有看到",
+        "english": "Where is it? I don't see it."
+      },
+      {
+        "start": 64.0,
+        "end": 75.49,
+        "chinese": "告诉一个白颜色的一个呃北京吉普的是搞电力的，在那边把电然器给一个树字掉下来，跳闸了，人家进去要检修的",
+        "english": "Tell a white-coloured, uh, Beijing Jeep that he's electric, drops the ecstasy off a tree, jumps the gate, goes in to check it out."
+      },
+      {
+        "start": 75.58,
+        "end": 76.64,
+        "chinese": "回到这里",
+        "english": "Come back here."
+      },
+      {
+        "start": 76.86,
+        "end": 78.59,
+        "chinese": "我这里人",
+        "english": "I'm from here."
+      },
+      {
+        "start": 81.92,
+        "end": 93.06,
+        "chinese": "到下面卡点了，你到群里面问一下8369这个车，有车的话，咱也放进去。他是在那个上达那块要看看那个压，不从这边",
+        "english": "We'll put it in there if we have it. He's at the end of the block to look at the pressure, not this way."
+      }
+    ]
+  },
+  {
+    "call_no": "11",
+    "audio_file": "11.mp3",
+    "speech_chunks_count": 35,
+    "chinese_transcript": "外工老工。你帮慢联系下，看可不可以开跑了，跑跑。是。你好话报警。继续打吧。为么你打。在个。对对，我在这边跑晚。到。好好。没有了。嗯。嗯嗯。收到收到。快哪。是我就开到旺那个弯旺这里嘛。在。好的好的。要块石家湾子火去站。要哥要我谁电话。还个。在。那好的，我等一下马上到了。开网吧。查。可以了可以了。好点啊。二楼宝。不狗。继续导航。80哟8个6哟。晓得什道。",
+    "english_translation": "I'm a migrant worker. If you'll excuse me, you can run away. Run. Yes. Call the police if you want. Go ahead. Why did you fight? I'm on one. Yeah, yeah, I'm running late here. Present. Okay. It's gone. Yeah. Mm-hmm. Copy that. Copy that. Come on. I'm the one who drove to the bending place. Yes. Okay. Okay. I'll need a stone from the Bayfire to stand up. Who do you want me to call? Give it back. Yes. Okay, I'll be there in a minute. Open the net. Chai. That's enough. That's enough. It's better. Second floor treasure. No dog. Continue navigation. 80-Yo, 8-Yo, 6-Yo. I don't know what you're talking about.",
+    "ground_truth_translation": "Caller 1 asked Caller 2 if blasting is scheduled soon. Caller 2 acknowledged. Caller 1 then replied that he would move away towards the bend/turn (likely of the road) from his current position.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.93,
+        "end": 1.76,
+        "chinese": "外工老工",
+        "english": "I'm a migrant worker."
+      },
+      {
+        "start": 1.89,
+        "end": 4.7,
+        "chinese": "你帮慢联系下，看可不可以开跑了，跑跑",
+        "english": "If you'll excuse me, you can run away. Run."
+      },
+      {
+        "start": 4.77,
+        "end": 5.54,
+        "chinese": "是",
+        "english": "Yes."
+      },
+      {
+        "start": 7.58,
+        "end": 11.1,
+        "chinese": "你好话报警",
+        "english": "Call the police if you want."
+      },
+      {
+        "start": 12.48,
+        "end": 13.31,
+        "chinese": "继续打吧",
+        "english": "Go ahead."
+      },
+      {
+        "start": 13.38,
+        "end": 14.18,
+        "chinese": "为么你打",
+        "english": "Why did you fight?"
+      },
+      {
+        "start": 14.24,
+        "end": 15.23,
+        "chinese": "在个",
+        "english": "I'm on one."
+      },
+      {
+        "start": 18.72,
+        "end": 20.22,
+        "chinese": "对对，我在这边跑晚",
+        "english": "Yeah, yeah, I'm running late here."
+      },
+      {
+        "start": 23.52,
+        "end": 25.44,
+        "chinese": "到",
+        "english": "Present."
+      },
+      {
+        "start": 26.14,
+        "end": 26.62,
+        "chinese": "好好",
+        "english": "Okay."
+      },
+      {
+        "start": 28.77,
+        "end": 29.47,
+        "chinese": "没有了",
+        "english": "It's gone."
+      },
+      {
+        "start": 29.54,
+        "end": 29.92,
+        "chinese": "嗯",
+        "english": "Yeah."
+      },
+      {
+        "start": 31.17,
+        "end": 32.0,
+        "chinese": "嗯嗯",
+        "english": "Mm-hmm."
+      },
+      {
+        "start": 33.54,
+        "end": 34.88,
+        "chinese": "收到收到",
+        "english": "Copy that. Copy that."
+      },
+      {
+        "start": 35.81,
+        "end": 40.58,
+        "chinese": "快哪",
+        "english": "Come on."
+      },
+      {
+        "start": 41.22,
+        "end": 43.39,
+        "chinese": "是我就开到旺那个弯旺这里嘛",
+        "english": "I'm the one who drove to the bending place."
+      },
+      {
+        "start": 43.52,
+        "end": 43.78,
+        "chinese": "在",
+        "english": "Yes."
+      },
+      {
+        "start": 44.58,
+        "end": 45.15,
+        "chinese": "好的好的",
+        "english": "Okay. Okay."
+      },
+      {
+        "start": 46.21,
+        "end": 47.58,
+        "chinese": "要块石家湾子火去站",
+        "english": "I'll need a stone from the Bayfire to stand up."
+      },
+      {
+        "start": 48.38,
+        "end": 49.89,
+        "chinese": "要哥要我谁电话",
+        "english": "Who do you want me to call?"
+      },
+      {
+        "start": 49.95,
+        "end": 50.94,
+        "chinese": "还个",
+        "english": "Give it back."
+      },
+      {
+        "start": 51.01,
+        "end": 51.39,
+        "chinese": "在",
+        "english": "Yes."
+      },
+      {
+        "start": 51.9,
+        "end": 54.02,
+        "chinese": "那好的，我等一下马上到了",
+        "english": "Okay, I'll be there in a minute."
+      },
+      {
+        "start": 55.1,
+        "end": 56.29,
+        "chinese": "开网吧",
+        "english": "Open the net."
+      },
+      {
+        "start": 56.45,
+        "end": 56.7,
+        "chinese": "查",
+        "english": "Chai."
+      },
+      {
+        "start": 57.34,
+        "end": 58.4,
+        "chinese": "可以了可以了",
+        "english": "That's enough. That's enough."
+      },
+      {
+        "start": 59.49,
+        "end": 60.19,
+        "chinese": "好点啊",
+        "english": "It's better."
+      },
+      {
+        "start": 60.22,
+        "end": 64.0,
+        "chinese": "二楼宝",
+        "english": "Second floor treasure."
+      },
+      {
+        "start": 64.67,
+        "end": 66.14,
+        "chinese": "不狗",
+        "english": "No dog."
+      },
+      {
+        "start": 66.27,
+        "end": 68.45,
+        "chinese": "继续导航",
+        "english": "Continue navigation."
+      },
+      {
+        "start": 68.99,
+        "end": 70.08,
+        "chinese": "80哟8个6哟",
+        "english": "80-Yo, 8-Yo, 6-Yo."
+      },
+      {
+        "start": 71.62,
+        "end": 72.99,
+        "chinese": "晓得什道",
+        "english": "I don't know what you're talking about."
+      }
+    ]
+  },
+  {
+    "call_no": "12",
+    "audio_file": "12.mp3",
+    "speech_chunks_count": 39,
+    "chinese_transcript": "没的话。嗯。要不来。所以。有。在。啊。126。好。搞不你那个懒人要拿。对。这人。对。没。坦克说。抓到。把拉过去。啊，如果。这人来。好。我的。那就。呃，12点左右发炮。18-18个管。啊，12点左右放炮。要不要。哎，那样上学。好啦。没有就说他们。这个。不就可。就会。帮我带着麦。上来把抓上网了。好久回来可以开关车了。杀开了。对。管这么多。",
+    "english_translation": "If you don't. Yeah. Why don't you come? So... Yes. Yes. Aah! 126 Okay. I don't think you're gonna have to take it. Yeah. This guy. Yeah. Nope. The tank said... Gotcha. Pull it over. Ah, if... This guy's here. Okay. Mine. Then... Uh, fire around 12:00. 18-18 tubes Ah, fire around midnight. Do you want it or not? Hey, that's how you go to school. Okay. No, just say them. Here. No, you don't. Yes. Take the wheat for me. Get up here and catch the Internet. It's been a long time since I've been back to turn the car off. It's gone. Yeah. I don't care.",
+    "ground_truth_translation": "Caller 1 informed Caller 2 that blasting is scheduled to be conducted at certain construction site at 1200 hrs. Caller 1 further asked Caller 2 if he required 18 x unspecified items. Caller 1 finally instructed Caller 2 to send the tanker at the construction site.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "放炮 (blasting)"
+    ],
+    "detected_codenames": [
+      "12",
+      "18"
+    ],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.7,
+        "end": 1.28,
+        "chinese": "没的话",
+        "english": "If you don't."
+      },
+      {
+        "start": 1.92,
+        "end": 2.21,
+        "chinese": "嗯",
+        "english": "Yeah."
+      },
+      {
+        "start": 3.49,
+        "end": 3.87,
+        "chinese": "要不来",
+        "english": "Why don't you come?"
+      },
+      {
+        "start": 4.7,
+        "end": 5.25,
+        "chinese": "所以",
+        "english": "So..."
+      },
+      {
+        "start": 5.7,
+        "end": 5.98,
+        "chinese": "有",
+        "english": "Yes."
+      },
+      {
+        "start": 7.39,
+        "end": 7.65,
+        "chinese": "在",
+        "english": "Yes."
+      },
+      {
+        "start": 8.67,
+        "end": 8.93,
+        "chinese": "啊",
+        "english": "Aah!"
+      },
+      {
+        "start": 11.65,
+        "end": 12.19,
+        "chinese": "126",
+        "english": "126"
+      },
+      {
+        "start": 12.26,
+        "end": 12.51,
+        "chinese": "好",
+        "english": "Okay."
+      },
+      {
+        "start": 12.64,
+        "end": 14.24,
+        "chinese": "搞不你那个懒人要拿",
+        "english": "I don't think you're gonna have to take it."
+      },
+      {
+        "start": 14.27,
+        "end": 14.66,
+        "chinese": "对",
+        "english": "Yeah."
+      },
+      {
+        "start": 14.75,
+        "end": 15.17,
+        "chinese": "这人",
+        "english": "This guy."
+      },
+      {
+        "start": 15.52,
+        "end": 15.78,
+        "chinese": "对",
+        "english": "Yeah."
+      },
+      {
+        "start": 15.97,
+        "end": 16.67,
+        "chinese": "没",
+        "english": "Nope."
+      },
+      {
+        "start": 16.77,
+        "end": 17.31,
+        "chinese": "坦克说",
+        "english": "The tank said..."
+      },
+      {
+        "start": 17.63,
+        "end": 18.05,
+        "chinese": "抓到",
+        "english": "Gotcha."
+      },
+      {
+        "start": 20.06,
+        "end": 20.9,
+        "chinese": "把拉过去",
+        "english": "Pull it over."
+      },
+      {
+        "start": 21.89,
+        "end": 22.3,
+        "chinese": "啊，如果",
+        "english": "Ah, if..."
+      },
+      {
+        "start": 22.34,
+        "end": 22.75,
+        "chinese": "这人来",
+        "english": "This guy's here."
+      },
+      {
+        "start": 23.49,
+        "end": 23.78,
+        "chinese": "好",
+        "english": "Okay."
+      },
+      {
+        "start": 24.93,
+        "end": 25.25,
+        "chinese": "我的",
+        "english": "Mine."
+      },
+      {
+        "start": 28.48,
+        "end": 28.77,
+        "chinese": "那就",
+        "english": "Then..."
+      },
+      {
+        "start": 29.73,
+        "end": 31.94,
+        "chinese": "呃，12点左右发炮",
+        "english": "Uh, fire around 12:00."
+      },
+      {
+        "start": 33.38,
+        "end": 35.14,
+        "chinese": "18-18个管",
+        "english": "18-18 tubes"
+      },
+      {
+        "start": 35.49,
+        "end": 36.99,
+        "chinese": "啊，12点左右放炮",
+        "english": "Ah, fire around midnight."
+      },
+      {
+        "start": 37.18,
+        "end": 37.92,
+        "chinese": "要不要",
+        "english": "Do you want it or not?"
+      },
+      {
+        "start": 38.94,
+        "end": 39.9,
+        "chinese": "哎，那样上学",
+        "english": "Hey, that's how you go to school."
+      },
+      {
+        "start": 41.06,
+        "end": 41.6,
+        "chinese": "好啦",
+        "english": "Okay."
+      },
+      {
+        "start": 43.55,
+        "end": 44.64,
+        "chinese": "没有就说他们",
+        "english": "No, just say them."
+      },
+      {
+        "start": 44.77,
+        "end": 45.06,
+        "chinese": "这个",
+        "english": "Here."
+      },
+      {
+        "start": 45.12,
+        "end": 45.63,
+        "chinese": "不就可",
+        "english": "No, you don't."
+      },
+      {
+        "start": 45.7,
+        "end": 46.05,
+        "chinese": "就会",
+        "english": "Yes."
+      },
+      {
+        "start": 46.11,
+        "end": 47.01,
+        "chinese": "帮我带着麦",
+        "english": "Take the wheat for me."
+      },
+      {
+        "start": 47.3,
+        "end": 48.42,
+        "chinese": "上来把抓上网了",
+        "english": "Get up here and catch the Internet."
+      },
+      {
+        "start": 51.14,
+        "end": 53.38,
+        "chinese": "好久回来可以开关车了",
+        "english": "It's been a long time since I've been back to turn the car off."
+      },
+      {
+        "start": 53.41,
+        "end": 54.11,
+        "chinese": "杀开了",
+        "english": "It's gone."
+      },
+      {
+        "start": 54.14,
+        "end": 54.43,
+        "chinese": "对",
+        "english": "Yeah."
+      },
+      {
+        "start": 56.9,
+        "end": 57.54,
+        "chinese": "管这么多",
+        "english": "I don't care."
+      }
+    ]
+  },
+  {
+    "call_no": "13",
+    "audio_file": "13.mp3",
+    "speech_chunks_count": 17,
+    "chinese_transcript": "王鹏王姓。我呀，明天再过去吧。你说啥。被。我就是说那个修理工啊，他说今天还有点事情。啊。他现在还在拉萨呢，他说明天他过来吧。对呀，他说还有点那边还有点活没干完，好。我。啊。你要不说。第二的。那你给他打个电话。那好吧。黄鹏黄鹏，还有一个绿色的车子在哪。老狼老狼老狼老狼来这里来这里来一下办号站。来帮马上拉一下。",
+    "english_translation": "Wang Peng's last name I'll come back tomorrow. What are you talking about? By I'm talking about the mechanic. He said there's something else today. Aah! He's still in Lhasa. He said he'd come tomorrow. Yeah, he said there's a little bit of work going on over there. Okay. I'm... Aah! If you don't tell me, Second. Then give him a call. All right, then. Where's the green car? Old wolf. Old wolf. Old wolf. Give me a hand with that.",
+    "ground_truth_translation": "Caller 1 (Wang peng) asked Caller 2 located on 31 Dec 25 about repair of unspecified thing. In response, Caller 2 replied that repair worker/technician may repair today or some other days. Caller 2 further informed that he presently at Lhasa and he (said person) will reach worksite by tomorrow (01 Dec 26). Caller 2 further added that he (repair worker) is engaged in some other work also. Caller 1 informed Caller 2 to contact over No 07 number. Caller 2 further queried from Caller 1 about location of green colored vehicle. In response, Caller 1 reported that vehicle has arrived recently. Caller 2 confirmed that Vehicle has arrived near mixing plant.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "王鹏 (Wang Peng)",
+      "拉萨 (Lhasa)"
+    ],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.0,
+        "end": 6.56,
+        "chinese": "王鹏王姓",
+        "english": "Wang Peng's last name"
+      },
+      {
+        "start": 6.72,
+        "end": 9.06,
+        "chinese": "我呀，明天再过去吧",
+        "english": "I'll come back tomorrow."
+      },
+      {
+        "start": 9.12,
+        "end": 10.59,
+        "chinese": "你说啥",
+        "english": "What are you talking about?"
+      },
+      {
+        "start": 10.62,
+        "end": 14.02,
+        "chinese": "被",
+        "english": "By"
+      },
+      {
+        "start": 14.08,
+        "end": 17.57,
+        "chinese": "我就是说那个修理工啊，他说今天还有点事情",
+        "english": "I'm talking about the mechanic. He said there's something else today."
+      },
+      {
+        "start": 17.7,
+        "end": 18.98,
+        "chinese": "啊",
+        "english": "Aah!"
+      },
+      {
+        "start": 19.1,
+        "end": 24.32,
+        "chinese": "他现在还在拉萨呢，他说明天他过来吧",
+        "english": "He's still in Lhasa. He said he'd come tomorrow."
+      },
+      {
+        "start": 24.35,
+        "end": 31.62,
+        "chinese": "对呀，他说还有点那边还有点活没干完，好",
+        "english": "Yeah, he said there's a little bit of work going on over there. Okay."
+      },
+      {
+        "start": 31.71,
+        "end": 34.08,
+        "chinese": "我",
+        "english": "I'm..."
+      },
+      {
+        "start": 34.11,
+        "end": 36.61,
+        "chinese": "啊",
+        "english": "Aah!"
+      },
+      {
+        "start": 36.67,
+        "end": 37.89,
+        "chinese": "你要不说",
+        "english": "If you don't tell me,"
+      },
+      {
+        "start": 37.92,
+        "end": 39.01,
+        "chinese": "第二的",
+        "english": "Second."
+      },
+      {
+        "start": 39.1,
+        "end": 40.45,
+        "chinese": "那你给他打个电话",
+        "english": "Then give him a call."
+      },
+      {
+        "start": 40.51,
+        "end": 45.09,
+        "chinese": "那好吧",
+        "english": "All right, then."
+      },
+      {
+        "start": 45.12,
+        "end": 49.09,
+        "chinese": "黄鹏黄鹏，还有一个绿色的车子在哪",
+        "english": "Where's the green car?"
+      },
+      {
+        "start": 49.12,
+        "end": 57.31,
+        "chinese": "老狼老狼老狼老狼来这里来这里来一下办号站",
+        "english": "Old wolf. Old wolf. Old wolf."
+      },
+      {
+        "start": 57.38,
+        "end": 58.85,
+        "chinese": "来帮马上拉一下",
+        "english": "Give me a hand with that."
+      }
+    ]
+  },
+  {
+    "call_no": "14",
+    "audio_file": "14.mp3",
+    "speech_chunks_count": 13,
+    "chinese_transcript": "当的时候。不在人修啊。再掉下去个300多分就可以了。好了。回来回来行回来回来。那个舒客，你看着到你看着到这个11点半了，不行，你开上车上一把这个装边枪和这个老街新下来。中我别让那个忘机回来。当时就回了。就是。让他中午回来的时候坐上大车回来，那也行，过去下午让他上去的时候，开上那个开上那黑色飞跑上去吧。的车上去也行，让临头早点下，现在补开了，补完快就让他拉你一下就行了。",
+    "english_translation": "In the middle of the day. It's not fixed. Just another 300 cents down. Okay. Come back, come back, come back. You're looking at this at 11:30. No, you're gonna get in the car with this gun and this old street coming down. I won't let that get out of my way. I'll be right back. That's right. Let him come back at noon in a big car. That's fine. When he gets up in the afternoon, take the black one and run it up. You can go in the car. Let the head start early. Now it's open. Just let him pull you out.",
+    "ground_truth_translation": "Caller 1 asked Caller 2 that he (Caller 2) that he no need to send the return of excavator. Caller 1 further asked Caller 2 to send the truck and pickup vehicle at the worksite by afternoon.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [
+      "11"
+    ],
+    "turn_by_turn_segments": [
+      {
+        "start": 3.68,
+        "end": 4.48,
+        "chinese": "当的时候",
+        "english": "In the middle of the day."
+      },
+      {
+        "start": 5.38,
+        "end": 6.27,
+        "chinese": "不在人修啊",
+        "english": "It's not fixed."
+      },
+      {
+        "start": 6.3,
+        "end": 9.34,
+        "chinese": "再掉下去个300多分就可以了",
+        "english": "Just another 300 cents down."
+      },
+      {
+        "start": 12.77,
+        "end": 14.46,
+        "chinese": "好了",
+        "english": "Okay."
+      },
+      {
+        "start": 17.79,
+        "end": 19.55,
+        "chinese": "回来回来行回来回来",
+        "english": "Come back, come back, come back."
+      },
+      {
+        "start": 23.04,
+        "end": 35.78,
+        "chinese": "那个舒客，你看着到你看着到这个11点半了，不行，你开上车上一把这个装边枪和这个老街新下来",
+        "english": "You're looking at this at 11:30. No, you're gonna get in the car with this gun and this old street coming down."
+      },
+      {
+        "start": 37.02,
+        "end": 40.8,
+        "chinese": "中我别让那个忘机回来",
+        "english": "I won't let that get out of my way."
+      },
+      {
+        "start": 43.01,
+        "end": 44.0,
+        "chinese": "当时就回了",
+        "english": "I'll be right back."
+      },
+      {
+        "start": 44.13,
+        "end": 46.72,
+        "chinese": "就是",
+        "english": "That's right."
+      },
+      {
+        "start": 50.02,
+        "end": 59.74,
+        "chinese": "让他中午回来的时候坐上大车回来，那也行，过去下午让他上去的时候，开上那个开上那黑色飞跑上去吧",
+        "english": "Let him come back at noon in a big car. That's fine. When he gets up in the afternoon, take the black one and run it up."
+      },
+      {
+        "start": 63.17,
+        "end": 68.93,
+        "chinese": "的车上去也行，让临头早点下，现在补开了，补完快就让他拉你一下就行了",
+        "english": "You can go in the car. Let the head start early. Now it's open. Just let him pull you out."
+      }
+    ]
+  },
+  {
+    "call_no": "15",
+    "audio_file": "15.mp3",
+    "speech_chunks_count": 15,
+    "chinese_transcript": "回家。我给你发过去，他这个法片是88个的，他去去了。再过来。的马兰。想告诉他时候给带12个月的12个月的管理那个到咱用。12个演的我。不一定能行嗯。好那一下子就先流了。不要人。行不呀，不行了，就得在这边换。嗯。我给你发过去了，你看一下。2。",
+    "english_translation": "Home. I sent it to you. He's got 88 of them. He's gone. Come back here. Marlan. I want to tell him we'll use the guy who took 12 months to run it. Twelve of me. - Not necessarily. - Mm-hmm. All right, then we'll have to go first. No one. I can't do that. I have to change over here. Yeah. I sent it to you. Take a look. 2",
+    "ground_truth_translation": "Caller 1 informed Caller 2 that he (Caller 1) has already dispatched the Optical Fiber Cable (OFC). Caller 2 acknowledged.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [
+      "12"
+    ],
+    "turn_by_turn_segments": [
+      {
+        "start": 3.23,
+        "end": 5.18,
+        "chinese": "回家",
+        "english": "Home."
+      },
+      {
+        "start": 9.09,
+        "end": 17.18,
+        "chinese": "我给你发过去，他这个法片是88个的，他去去了",
+        "english": "I sent it to you. He's got 88 of them. He's gone."
+      },
+      {
+        "start": 18.34,
+        "end": 19.46,
+        "chinese": "再过来",
+        "english": "Come back here."
+      },
+      {
+        "start": 19.97,
+        "end": 22.78,
+        "chinese": "的马兰",
+        "english": "Marlan."
+      },
+      {
+        "start": 25.25,
+        "end": 30.62,
+        "chinese": "想告诉他时候给带12个月的12个月的管理那个到咱用",
+        "english": "I want to tell him we'll use the guy who took 12 months to run it."
+      },
+      {
+        "start": 30.78,
+        "end": 32.32,
+        "chinese": "12个演的我",
+        "english": "Twelve of me."
+      },
+      {
+        "start": 32.38,
+        "end": 35.2,
+        "chinese": "不一定能行嗯",
+        "english": "- Not necessarily. - Mm-hmm."
+      },
+      {
+        "start": 38.56,
+        "end": 39.9,
+        "chinese": "好那一下子就先流了",
+        "english": "All right, then we'll have to go first."
+      },
+      {
+        "start": 40.1,
+        "end": 41.18,
+        "chinese": "不要人",
+        "english": "No one."
+      },
+      {
+        "start": 41.22,
+        "end": 43.74,
+        "chinese": "行不呀，不行了，就得在这边换",
+        "english": "I can't do that. I have to change over here."
+      },
+      {
+        "start": 43.84,
+        "end": 44.48,
+        "chinese": "嗯",
+        "english": "Yeah."
+      },
+      {
+        "start": 46.08,
+        "end": 48.51,
+        "chinese": "我给你发过去了，你看一下",
+        "english": "I sent it to you. Take a look."
+      },
+      {
+        "start": 51.97,
+        "end": 53.25,
+        "chinese": "2",
+        "english": "2"
+      }
+    ]
+  },
+  {
+    "call_no": "16",
+    "audio_file": "16.mp3",
+    "speech_chunks_count": 4,
+    "chinese_transcript": "没。就是中午不停了啊，中午不停了，不行，我是一直开始说让老张挂和咱几个人带饭嘞。你不行，把那个发斗车C的三个人的饭也给他带上饭了，不那三个人的饭，咱中午不停了。听到了没有。对我说的意思，本来给老张说的，咱咱咱带5个，我这个意思不行把3个三个发11万以带上去，别让停，咱白白整啊。",
+    "english_translation": "Nope. It's just noon, noon, no. I've been talking about having Jang hang out with us. You can't, you can't, you can't, you can't, you can't, you can't, you can't, you can't, you can't, you can't, you can't, you can't, you can't, you can't, you can't, you can't, you can't, you know. Do you hear me? I mean, let's take five of them. I mean, I can't take three or three of them for $110,000. Don't stop. Let's go.",
+    "ground_truth_translation": "Caller 1 instructed Caller 2 to send 03 x workers, 01 driver and 03 x tipper trucks at the construction site for loading of certain material. Caller 1 also informed Caller 2 that work would continue at the construction site today afternoon.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [
+      "11"
+    ],
+    "turn_by_turn_segments": [
+      {
+        "start": 3.23,
+        "end": 4.0,
+        "chinese": "没",
+        "english": "Nope."
+      },
+      {
+        "start": 7.3,
+        "end": 26.24,
+        "chinese": "就是中午不停了啊，中午不停了，不行，我是一直开始说让老张挂和咱几个人带饭嘞。你不行，把那个发斗车C的三个人的饭也给他带上饭了，不那三个人的饭，咱中午不停了",
+        "english": "It's just noon, noon, no. I've been talking about having Jang hang out with us. You can't, you can't, you can't, you can't, you can't, you can't, you can't, you can't, you can't, you can't, you can't, you can't, you can't, you can't, you can't, you can't, you can't, you know."
+      },
+      {
+        "start": 29.7,
+        "end": 32.42,
+        "chinese": "听到了没有",
+        "english": "Do you hear me?"
+      },
+      {
+        "start": 35.81,
+        "end": 50.27,
+        "chinese": "对我说的意思，本来给老张说的，咱咱咱带5个，我这个意思不行把3个三个发11万以带上去，别让停，咱白白整啊",
+        "english": "I mean, let's take five of them. I mean, I can't take three or three of them for $110,000. Don't stop. Let's go."
+      }
+    ]
+  },
+  {
+    "call_no": "17",
+    "audio_file": "17.mp3",
+    "speech_chunks_count": 15,
+    "chinese_transcript": "有没问题的。来后。找了人。哎呦，我靠。电话。叫我玩的好好，我们不知道，你开。给模仿这个地方，哎，这回小王就回家了真的下去了。今天晚上直点把这的录一下，停行看到了听到了。老张老张，你快给我再注意一下，一都别下去，下面人干活，没有没有我这没有下去，我还有一个人在这里吗，我在下面。嗯。行行行，注意一下。",
+    "english_translation": "There's no problem. When we get here, I've got someone. Oh, shit. Telephone Tell me to have a good time. We don't know. You drive. I'm going to mimic this place, but I'm going to go home now. Get this tape straight tonight. Stop and see it. Zhang Chang, pay attention. Don't go down there. I'm not going down here without me. I'm still here, I'm down there. Yeah. All right, all right, all right. Watch it.",
+    "ground_truth_translation": "Caller 1 informed Caller 2 that he has carried out digging work near a place where molding plates have dumped and small excavator machine has moved downside. Caller 1 further asked Caller 2 to conduct certain work pertaining to stones.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "小王 (Xiao Wang)"
+    ],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 2.11,
+        "end": 3.78,
+        "chinese": "有没问题的",
+        "english": "There's no problem."
+      },
+      {
+        "start": 10.34,
+        "end": 11.36,
+        "chinese": "来后",
+        "english": "When we get here,"
+      },
+      {
+        "start": 11.52,
+        "end": 12.06,
+        "chinese": "找了人",
+        "english": "I've got someone."
+      },
+      {
+        "start": 15.42,
+        "end": 17.34,
+        "chinese": "哎呦，我靠",
+        "english": "Oh, shit."
+      },
+      {
+        "start": 24.83,
+        "end": 26.11,
+        "chinese": "电话",
+        "english": "Telephone"
+      },
+      {
+        "start": 29.38,
+        "end": 34.02,
+        "chinese": "叫我玩的好好，我们不知道，你开",
+        "english": "Tell me to have a good time. We don't know. You drive."
+      },
+      {
+        "start": 37.34,
+        "end": 43.42,
+        "chinese": "给模仿这个地方，哎，这回小王就回家了真的下去了",
+        "english": "I'm going to mimic this place, but I'm going to go home now."
+      },
+      {
+        "start": 46.91,
+        "end": 51.33,
+        "chinese": "今天晚上直点把这的录一下，停行看到了听到了",
+        "english": "Get this tape straight tonight. Stop and see it."
+      },
+      {
+        "start": 52.16,
+        "end": 62.66,
+        "chinese": "老张老张，你快给我再注意一下，一都别下去，下面人干活，没有没有我这没有下去，我还有一个人在这里吗，我在下面",
+        "english": "Zhang Chang, pay attention. Don't go down there. I'm not going down here without me. I'm still here, I'm down there."
+      },
+      {
+        "start": 62.72,
+        "end": 63.81,
+        "chinese": "嗯",
+        "english": "Yeah."
+      },
+      {
+        "start": 64.58,
+        "end": 66.82,
+        "chinese": "行行行，注意一下",
+        "english": "All right, all right, all right. Watch it."
+      }
+    ]
+  },
+  {
+    "call_no": "18",
+    "audio_file": "18.mp3",
+    "speech_chunks_count": 7,
+    "chinese_transcript": "一下。好了好的，大家换一下。社会的。一个你帮你帮挖掘个产品调一下，让车过去。把这个石头大石头这边里边弄一下，写完以后再把你过去，我说。",
+    "english_translation": "One moment. All right, all right, let's change. Social One of you to help you dig up a product and get the car over there. Let's get this rock inside. We'll get you there when we're done. I'll tell you what.",
+    "ground_truth_translation": "Caller 1 instructed Caller 2 to send the small excavator machine to downside for digging the heavy stones.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "石头 (stones / rocks)"
+    ],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 7.26,
+        "end": 8.83,
+        "chinese": "一下",
+        "english": "One moment."
+      },
+      {
+        "start": 15.62,
+        "end": 19.04,
+        "chinese": "好了好的，大家换一下",
+        "english": "All right, all right, let's change."
+      },
+      {
+        "start": 22.24,
+        "end": 23.68,
+        "chinese": "社会的",
+        "english": "Social"
+      },
+      {
+        "start": 27.42,
+        "end": 33.92,
+        "chinese": "一个你帮你帮挖掘个产品调一下，让车过去",
+        "english": "One of you to help you dig up a product and get the car over there."
+      },
+      {
+        "start": 34.3,
+        "end": 41.86,
+        "chinese": "把这个石头大石头这边里边弄一下，写完以后再把你过去，我说",
+        "english": "Let's get this rock inside. We'll get you there when we're done. I'll tell you what."
+      }
+    ]
+  },
+  {
+    "call_no": "19",
+    "audio_file": "19.mp3",
+    "speech_chunks_count": 17,
+    "chinese_transcript": "等一下老板等一下做饭做饭的小王小王，你在哪个位什么位思。做饭的做饭的小王小王，你在哪个位置汇报一下，汇报一下，我K26加100度要放炮，要放炮。我。被告人开庭。对对没有。我。好的。我。下我在这修好挖井。我。我。等我下子。个电。",
+    "english_translation": "Wait till the boss cooks, Wang Xiao Wang, where do you think you are? King of cooks, where do you report to? I'm going to fire at K26 and 100 degrees. I'm... Trial of the accused Yeah, no. I'm... Okay. I'm... I'll fix the wells here. I'm... I'm... Wait for me. It's a power.",
+    "ground_truth_translation": "Caller 1 asked Caller 2 (Xiao Wang) located whether he (Caller 2) facing any problem at his (Caller 2) location. Caller 1 further asked Caller 2 about his (Caller 2’s) location and also instructed caller 2 to confirm his (Caller 2) location and engagement. Caller 1 further informed that he (Caller 1) will start the blasting at K26+100 road section shortly.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "放炮 (blasting)",
+      "小王 (Xiao Wang)"
+    ],
+    "detected_codenames": [
+      "10",
+      "K26"
+    ],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.0,
+        "end": 5.98,
+        "chinese": "等一下老板等一下做饭做饭的小王小王，你在哪个位什么位思",
+        "english": "Wait till the boss cooks, Wang Xiao Wang, where do you think you are?"
+      },
+      {
+        "start": 6.05,
+        "end": 15.81,
+        "chinese": "做饭的做饭的小王小王，你在哪个位置汇报一下，汇报一下，我K26加100度要放炮，要放炮",
+        "english": "King of cooks, where do you report to? I'm going to fire at K26 and 100 degrees."
+      },
+      {
+        "start": 15.84,
+        "end": 17.18,
+        "chinese": "我",
+        "english": "I'm..."
+      },
+      {
+        "start": 17.54,
+        "end": 19.14,
+        "chinese": "被告人开庭",
+        "english": "Trial of the accused"
+      },
+      {
+        "start": 19.17,
+        "end": 19.9,
+        "chinese": "对对没有",
+        "english": "Yeah, no."
+      },
+      {
+        "start": 21.12,
+        "end": 24.1,
+        "chinese": "我",
+        "english": "I'm..."
+      },
+      {
+        "start": 24.26,
+        "end": 25.31,
+        "chinese": "好的",
+        "english": "Okay."
+      },
+      {
+        "start": 25.41,
+        "end": 26.3,
+        "chinese": "我",
+        "english": "I'm..."
+      },
+      {
+        "start": 26.4,
+        "end": 28.61,
+        "chinese": "下我在这修好挖井",
+        "english": "I'll fix the wells here."
+      },
+      {
+        "start": 30.08,
+        "end": 31.36,
+        "chinese": "我",
+        "english": "I'm..."
+      },
+      {
+        "start": 31.42,
+        "end": 32.19,
+        "chinese": "我",
+        "english": "I'm..."
+      },
+      {
+        "start": 32.26,
+        "end": 56.45,
+        "chinese": "等我下子",
+        "english": "Wait for me."
+      },
+      {
+        "start": 57.25,
+        "end": 59.56,
+        "chinese": "个电",
+        "english": "It's a power."
+      }
+    ]
+  },
+  {
+    "call_no": "20",
+    "audio_file": "20.mp3",
+    "speech_chunks_count": 8,
+    "chinese_transcript": "走。这消。笨蛋滚蛋一蛋。这边这个坡你不开可以给他刷缓一点啊。呃呃在你保证你这是安全的情况下，尽量把这个坡刷缓一点啊。这个再说我话我就真这不去。呃，到时候你看嘛，你尽量抓缓一点，你然后再下去个两三米的话，你基本上挖就可以你前在屏蔽在在上面了，就不用那个呃拍那个如果刷的太的话，到时候这边还又又会滑，知道吧。这个我不是这么说的话，我一直不外面转的，我在外面转，这边都开了，我知道你那个意思呃，我说这个意思，就是说。",
+    "english_translation": "Let's go. That's enough. Fuck off, you idiot! If you don't open this slope, you can slow it down a little bit. Uh, if you make sure you're safe, try to slow it down a little bit. I'm not going to be here if I'm not telling you this. Well, look, if you try to slow it down, you go two or three meters down, you can basically dig it up, and you don't have to shoot it if it's too much, and it'll slide again, okay? That's not what I'm saying. I'm not going out. I'm going out. It's all open.",
+    "ground_truth_translation": "Caller 1 instructed Caller 2 to drive his excavator towards the slope at certain construction site and make slope little slower keeping in view the safety. Caller 2 replied that excavator is unable to move at the slope as it is too steep. Caller 1 instructed Caller 2 drive the excavator at least up to 2-3 mtr at the slope and try to mend is otherwise it would become slippery.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 1.44,
+        "end": 3.87,
+        "chinese": "走",
+        "english": "Let's go."
+      },
+      {
+        "start": 7.74,
+        "end": 12.29,
+        "chinese": "这消",
+        "english": "That's enough."
+      },
+      {
+        "start": 15.74,
+        "end": 21.25,
+        "chinese": "笨蛋滚蛋一蛋",
+        "english": "Fuck off, you idiot!"
+      },
+      {
+        "start": 24.58,
+        "end": 36.16,
+        "chinese": "这边这个坡你不开可以给他刷缓一点啊。呃呃在你保证你这是安全的情况下，尽量把这个坡刷缓一点啊",
+        "english": "If you don't open this slope, you can slow it down a little bit. Uh, if you make sure you're safe, try to slow it down a little bit."
+      },
+      {
+        "start": 36.74,
+        "end": 40.77,
+        "chinese": "这个再说我话我就真这不去",
+        "english": "I'm not going to be here if I'm not telling you this."
+      },
+      {
+        "start": 41.12,
+        "end": 57.92,
+        "chinese": "呃，到时候你看嘛，你尽量抓缓一点，你然后再下去个两三米的话，你基本上挖就可以你前在屏蔽在在上面了，就不用那个呃拍那个如果刷的太的话，到时候这边还又又会滑，知道吧",
+        "english": "Well, look, if you try to slow it down, you go two or three meters down, you can basically dig it up, and you don't have to shoot it if it's too much, and it'll slide again, okay?"
+      },
+      {
+        "start": 61.31,
+        "end": 73.98,
+        "chinese": "这个我不是这么说的话，我一直不外面转的，我在外面转，这边都开了，我知道你那个意思呃，我说这个意思，就是说",
+        "english": "That's not what I'm saying. I'm not going out. I'm going out. It's all open."
+      }
+    ]
+  },
+  {
+    "call_no": "21",
+    "audio_file": "21.mp3",
+    "speech_chunks_count": 9,
+    "chinese_transcript": "嗯。就出来打呀。100多。往家。你挖机屁股后面的那一台弄过来，来，你就要开始留台留留留游台了哦。对对对，哎，你不你那你然后那边你注意了不要让挖太矮了啊。好。那个手上没签完了，你能看见当是我管子上把沙子盖着都可以签管子上连盖刷子不签。",
+    "english_translation": "Yeah. Let's fight! Over 100 Home. The one behind the dredger's ass gets here. Come on, you're gonna have to leave it. Yeah, yeah, you're gonna have to do it and you're gonna be careful not to dig too short. Okay. You can see if I'm wearing sand over my pipe, and I don't even have a brush on it.",
+    "ground_truth_translation": "Caller 1 informed Caller 2 that  a excavator has reached rear location and further instructed Caller 2 to start the caterpillar/crawler excavator for certain work. Caller 1 also instructed Caller 2 to pay attention while working at his (Caller 1) section. Caller 2 also informed that he (Caller 2) will remove the pipes from certain sand covered location.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "挖机 (excavator)"
+    ],
+    "detected_codenames": [
+      "10"
+    ],
+    "turn_by_turn_segments": [
+      {
+        "start": 3.2,
+        "end": 3.49,
+        "chinese": "嗯",
+        "english": "Yeah."
+      },
+      {
+        "start": 4.54,
+        "end": 5.73,
+        "chinese": "就出来打呀",
+        "english": "Let's fight!"
+      },
+      {
+        "start": 9.15,
+        "end": 10.02,
+        "chinese": "100多",
+        "english": "Over 100"
+      },
+      {
+        "start": 10.08,
+        "end": 11.87,
+        "chinese": "往家",
+        "english": "Home."
+      },
+      {
+        "start": 23.26,
+        "end": 37.31,
+        "chinese": "你挖机屁股后面的那一台弄过来，来，你就要开始留台留留留游台了哦。对对对，哎，你不你那你然后那边你注意了不要让挖太矮了啊",
+        "english": "The one behind the dredger's ass gets here. Come on, you're gonna have to leave it. Yeah, yeah, you're gonna have to do it and you're gonna be careful not to dig too short."
+      },
+      {
+        "start": 37.73,
+        "end": 38.91,
+        "chinese": "好",
+        "english": "Okay."
+      },
+      {
+        "start": 42.3,
+        "end": 53.92,
+        "chinese": "那个手上没签完了，你能看见当是我管子上把沙子盖着都可以签管子上连盖刷子不签",
+        "english": "You can see if I'm wearing sand over my pipe, and I don't even have a brush on it."
+      }
+    ]
+  },
+  {
+    "call_no": "22",
+    "audio_file": "22.mp3",
+    "speech_chunks_count": 8,
+    "chinese_transcript": "们。老袁，两个三斗车过来了啊。他刚才就过来了，等一会两个大手就过来，他们差不汉兰达停上面那那里带着一个小孩的小孩把应9。我。我。",
+    "english_translation": "Guys. Yuan, two three cars are coming! He's just here. He'll be here in a minute with two big hands. They'll have to stop out there with a kid. I'm... I'm...",
+    "ground_truth_translation": "Caller 1 asked Caller 2 on 27 Dec 25 whether they (Caller 2 and his party) have digging at right side of the certain work site. In response Caller 2 asked if he (Caller 1) engaged in culvert digging work and further queried from Caller 1, if Laoyuan has engaged in culvert site. To this, Caller 1 replied in negative. Caller 2 informed that he (Caller 2) will move to water drainage worksite and didn’t seen the movement of dump truck during the day. Caller 2 informed that he (Caller 2) has noticed the movement of Two dump trucks at his (Caller 2) work site.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.03,
+        "end": 41.98,
+        "chinese": "们",
+        "english": "Guys."
+      },
+      {
+        "start": 42.02,
+        "end": 51.46,
+        "chinese": "老袁，两个三斗车过来了啊",
+        "english": "Yuan, two three cars are coming!"
+      },
+      {
+        "start": 51.49,
+        "end": 73.92,
+        "chinese": "他刚才就过来了，等一会两个大手就过来，他们差不汉兰达停上面那那里带着一个小孩的小孩把应9",
+        "english": "He's just here. He'll be here in a minute with two big hands. They'll have to stop out there with a kid."
+      },
+      {
+        "start": 74.94,
+        "end": 75.65,
+        "chinese": "我",
+        "english": "I'm..."
+      },
+      {
+        "start": 77.06,
+        "end": 78.58,
+        "chinese": "我",
+        "english": "I'm..."
+      }
+    ]
+  },
+  {
+    "call_no": "23",
+    "audio_file": "23.mp3",
+    "speech_chunks_count": 8,
+    "chinese_transcript": "打是你到了面吗打是你到了没吗。大球在大球在外，昨天晚上哪里了呀。那天话是另外一个他们的嘛，我们就是你记得一没。你用呀，那了，你发了吗。.。欢迎应该。",
+    "english_translation": "Are you there? Are you there? The ball's outside. Where was it last night? That was another one of them. Do we remember you? Use it. Did you send it? I'm not sure what I'm talking about. Welcome.",
+    "ground_truth_translation": "Caller 1 asked Caller 2 on 28 Dec 25 that he (Caller 2) has dispatched the cement to digging work site. Caller 2 replied in affirmative. Caller 2 further informed Caller 1 about arrival of excavator at retaining wall location.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 7.74,
+        "end": 12.0,
+        "chinese": "打是你到了面吗打是你到了没吗",
+        "english": "Are you there? Are you there?"
+      },
+      {
+        "start": 13.47,
+        "end": 17.18,
+        "chinese": "大球在大球在外，昨天晚上哪里了呀",
+        "english": "The ball's outside. Where was it last night?"
+      },
+      {
+        "start": 20.54,
+        "end": 25.92,
+        "chinese": "那天话是另外一个他们的嘛，我们就是你记得一没",
+        "english": "That was another one of them. Do we remember you?"
+      },
+      {
+        "start": 31.33,
+        "end": 36.64,
+        "chinese": "你用呀，那了，你发了吗",
+        "english": "Use it. Did you send it?"
+      },
+      {
+        "start": 38.02,
+        "end": 40.99,
+        "chinese": ".",
+        "english": "I'm not sure what I'm talking about."
+      },
+      {
+        "start": 41.28,
+        "end": 43.01,
+        "chinese": "欢迎应该",
+        "english": "Welcome."
+      }
+    ]
+  },
+  {
+    "call_no": "24",
+    "audio_file": "24.mp3",
+    "speech_chunks_count": 1,
+    "chinese_transcript": "边边马边边边边边。",
+    "english_translation": "On the side of the horse. On the side of the horse.",
+    "ground_truth_translation": ".     Caller 1 asked Caller 2 (namely Bianbai) about inspection of certain work site. In response, Caller 2 replied that a big loader vehicle and mixing station have arrived at (Caller 2) location. Caller 2 further informed that some materials have also arrived recently",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.0,
+        "end": 50.53,
+        "chinese": "边边马边边边边边",
+        "english": "On the side of the horse. On the side of the horse."
+      }
+    ]
+  },
+  {
+    "call_no": "25",
+    "audio_file": "25.mp3",
+    "speech_chunks_count": 6,
+    "chinese_transcript": "师还后你那个呃下午吃中午吃完饭的时候，你把这里弄完了，把这个坡这个坡把这个我把抓一下，抓松一点。然后你是看上面他不是那个的嘛，然上面插土嘛，你就站站到这个位置，把它推上去，把弄到坡修好看一点啊。好好好。啊这个。去一下。让我过去一下。",
+    "english_translation": "After you had lunch this afternoon, you finished this place, and I'll grab this slope and grab it looser. Then you'll see if he's not there, then you'll put dirt in it, and you'll stand there, push it up, and you'll fix the slope. Okay, okay, okay. Ah, this. Let's go. Let me pass.",
+    "ground_truth_translation": "Caller 1 instructed Caller 2 repair the slope and add some sand at the upper side of the slope after lunch. Caller 2 acknowledged",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 3.2,
+        "end": 24.58,
+        "chinese": "师还后你那个呃下午吃中午吃完饭的时候，你把这里弄完了，把这个坡这个坡把这个我把抓一下，抓松一点。然后你是看上面他不是那个的嘛，然上面插土嘛，你就站站到这个位置，把它推上去，把弄到坡修好看一点啊",
+        "english": "After you had lunch this afternoon, you finished this place, and I'll grab this slope and grab it looser. Then you'll see if he's not there, then you'll put dirt in it, and you'll stand there, push it up, and you'll fix the slope."
+      },
+      {
+        "start": 25.31,
+        "end": 27.9,
+        "chinese": "好好好",
+        "english": "Okay, okay, okay."
+      },
+      {
+        "start": 35.23,
+        "end": 36.51,
+        "chinese": "啊这个",
+        "english": "Ah, this."
+      },
+      {
+        "start": 39.78,
+        "end": 40.77,
+        "chinese": "去一下",
+        "english": "Let's go."
+      },
+      {
+        "start": 43.87,
+        "end": 45.86,
+        "chinese": "让我过去一下",
+        "english": "Let me pass."
+      }
+    ]
+  },
+  {
+    "call_no": "26",
+    "audio_file": "26.mp3",
+    "speech_chunks_count": 24,
+    "chinese_transcript": "哎。这查车呢。开就帮跑了啊。全球防跑了。hello.。哇。你月回定。大刚琴刚琴来。以。那还。这时候要打。第谢见。走啊。这个我可不了对样。好帮我。你在0闪这呢，他比多上电话。哎过来。稍微带练的小不过玩过了了。",
+    "english_translation": "Hey. What about the car? We're running away. The world's gone. Hello. Wow. You'll be back in a month. Congregation. By That's it. It's time to fight. Thank you very much. Let's go. I don't know what to do with this. To help me. You're on the phone. He's on the phone. Come here. It's just a little bit of practice, but it's over.",
+    "ground_truth_translation": "Caller 1 informed Caller 2 that the blasting is scheduled to be conducted at K-9 site. Caller 2 acknowledged.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.67,
+        "end": 1.22,
+        "chinese": "哎",
+        "english": "Hey."
+      },
+      {
+        "start": 2.21,
+        "end": 3.14,
+        "chinese": "这查车呢",
+        "english": "What about the car?"
+      },
+      {
+        "start": 4.67,
+        "end": 5.66,
+        "chinese": "开就帮跑了啊",
+        "english": "We're running away."
+      },
+      {
+        "start": 6.05,
+        "end": 7.1,
+        "chinese": "全球防跑了",
+        "english": "The world's gone."
+      },
+      {
+        "start": 8.35,
+        "end": 8.7,
+        "chinese": "hello.",
+        "english": "Hello."
+      },
+      {
+        "start": 9.47,
+        "end": 9.86,
+        "chinese": "哇",
+        "english": "Wow."
+      },
+      {
+        "start": 11.49,
+        "end": 12.42,
+        "chinese": "你月回定",
+        "english": "You'll be back in a month."
+      },
+      {
+        "start": 13.79,
+        "end": 15.3,
+        "chinese": "大刚琴刚琴来",
+        "english": "Congregation."
+      },
+      {
+        "start": 15.49,
+        "end": 16.48,
+        "chinese": "以",
+        "english": "By"
+      },
+      {
+        "start": 17.89,
+        "end": 18.24,
+        "chinese": "那还",
+        "english": "That's it."
+      },
+      {
+        "start": 18.37,
+        "end": 19.17,
+        "chinese": "这时候要打",
+        "english": "It's time to fight."
+      },
+      {
+        "start": 20.45,
+        "end": 22.18,
+        "chinese": "第谢见",
+        "english": "Thank you very much."
+      },
+      {
+        "start": 24.19,
+        "end": 24.51,
+        "chinese": "走啊",
+        "english": "Let's go."
+      },
+      {
+        "start": 25.66,
+        "end": 27.33,
+        "chinese": "这个我可不了对样",
+        "english": "I don't know what to do with this."
+      },
+      {
+        "start": 29.06,
+        "end": 29.5,
+        "chinese": "好帮我",
+        "english": "To help me."
+      },
+      {
+        "start": 32.64,
+        "end": 34.82,
+        "chinese": "你在0闪这呢，他比多上电话",
+        "english": "You're on the phone. He's on the phone."
+      },
+      {
+        "start": 39.84,
+        "end": 40.38,
+        "chinese": "哎过来",
+        "english": "Come here."
+      },
+      {
+        "start": 40.42,
+        "end": 42.18,
+        "chinese": "稍微带练的小不过玩过了了",
+        "english": "It's just a little bit of practice, but it's over."
+      }
+    ]
+  },
+  {
+    "call_no": "27",
+    "audio_file": "27.mp3",
+    "speech_chunks_count": 1,
+    "chinese_transcript": "没看到没看到我拍了个照片，我下去再研究研究，我这边没看到有明显的冲沟，那我回去先先等一下啊，等一下等一下啊等一下。",
+    "english_translation": "I don't see a picture of me, I'll go down and study it. I don't see a clear ditch. I'll go back and wait.",
+    "ground_truth_translation": "Caller 1 reported Caller 2 on 21 Dec 25 that he (Caller 1) not noticed the survey/research (yanjiu) certain road section in the K series. Caller 1 also informed that nothing clear at his (Caller 1) side.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.0,
+        "end": 15.7,
+        "chinese": "没看到没看到我拍了个照片，我下去再研究研究，我这边没看到有明显的冲沟，那我回去先先等一下啊，等一下等一下啊等一下",
+        "english": "I don't see a picture of me, I'll go down and study it. I don't see a clear ditch. I'll go back and wait."
+      }
+    ]
+  },
+  {
+    "call_no": "28",
+    "audio_file": "28.mp3",
+    "speech_chunks_count": 13,
+    "chinese_transcript": "第一下7北。王鹏王鹏王鹏，那你在下面的话，麻烦把陈聪帮忙带着上来，帮忙带路。那你下不下去，那就我。老刘老刘，尽快把珍装棒拿回来，收到收到师傅师傅车往后倒一点，往后倒一点。发短接感了要让。老个老个老个那个大中了，你中了，就是头宽咯，老个老个。老哥老哥。收到收到关了关了关了关了啊，现在可以冲了。直接让他浪完。老婆老婆关了没有。",
+    "english_translation": "7th North. Wang Peng, if you're down there, please bring Chen Seong up and lead the way. Then you can't go down, so I'm... Old Liu, bring back Jane's stick as soon as you can. I need to get a sense of how short it's gonna be. The old man's in the middle of it. You're in the middle of it. You're in the middle of it. Brother! Brother! I got it. I got it. I got it. I got it. Let's just get him out of here. Is the wife closed yet?",
+    "ground_truth_translation": "Caller 1 asked Caller 2 on 22 Dec 25 whether some items have brought at digging and blasting work site located at lower side of the caller 2 location. Caller 1 further queried about arrival of meal at said location. To this, caller 2 confirmed the same. Caller 1 further instructed Caller 2 to start the certain activity after the meal. The duo also discussed about shifting of certain constr machinery.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "王鹏 (Wang Peng)"
+    ],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.0,
+        "end": 2.91,
+        "chinese": "第一下7北",
+        "english": "7th North."
+      },
+      {
+        "start": 2.94,
+        "end": 13.89,
+        "chinese": "王鹏王鹏王鹏，那你在下面的话，麻烦把陈聪帮忙带着上来，帮忙带路",
+        "english": "Wang Peng, if you're down there, please bring Chen Seong up and lead the way."
+      },
+      {
+        "start": 15.01,
+        "end": 17.73,
+        "chinese": "那你下不下去，那就我",
+        "english": "Then you can't go down, so I'm..."
+      },
+      {
+        "start": 17.82,
+        "end": 30.5,
+        "chinese": "老刘老刘，尽快把珍装棒拿回来，收到收到师傅师傅车往后倒一点，往后倒一点",
+        "english": "Old Liu, bring back Jane's stick as soon as you can."
+      },
+      {
+        "start": 30.53,
+        "end": 32.54,
+        "chinese": "发短接感了要让",
+        "english": "I need to get a sense of how short it's gonna be."
+      },
+      {
+        "start": 32.58,
+        "end": 43.36,
+        "chinese": "老个老个老个那个大中了，你中了，就是头宽咯，老个老个",
+        "english": "The old man's in the middle of it. You're in the middle of it. You're in the middle of it."
+      },
+      {
+        "start": 44.16,
+        "end": 47.36,
+        "chinese": "老哥老哥",
+        "english": "Brother! Brother!"
+      },
+      {
+        "start": 47.39,
+        "end": 54.43,
+        "chinese": "收到收到关了关了关了关了啊，现在可以冲了",
+        "english": "I got it. I got it. I got it. I got it."
+      },
+      {
+        "start": 54.59,
+        "end": 56.0,
+        "chinese": "直接让他浪完",
+        "english": "Let's just get him out of here."
+      },
+      {
+        "start": 57.54,
+        "end": 59.77,
+        "chinese": "老婆老婆关了没有",
+        "english": "Is the wife closed yet?"
+      }
+    ]
+  },
+  {
+    "call_no": "29",
+    "audio_file": "29.mp3",
+    "speech_chunks_count": 2,
+    "chinese_transcript": "收到啊，过来见吧，你们在哪个位置，他们这边这个变更报了讲警嘛，这个他们管啥也交。交不了，前。",
+    "english_translation": "Copy that. Come see me. Where are you? No, I can't.",
+    "ground_truth_translation": "Caller 1 asked Caller 2 on 22 Dec 25 about delivery of certain item and further asked the current location of the Caller 2. To this, Caller replied that he (Caller 2) is delay in arrival and further informed that he (Caller 2) has collected the pipes. Caller 1 further instructed Caller 2 to drive the vehicle towards forward location and allow other vehicles to move properly.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.0,
+        "end": 17.63,
+        "chinese": "收到啊，过来见吧，你们在哪个位置，他们这边这个变更报了讲警嘛，这个他们管啥也交",
+        "english": "Copy that. Come see me. Where are you?"
+      },
+      {
+        "start": 17.66,
+        "end": 59.61,
+        "chinese": "交不了，前",
+        "english": "No, I can't."
+      }
+    ]
+  },
+  {
+    "call_no": "30",
+    "audio_file": "30.mp3",
+    "speech_chunks_count": 15,
+    "chinese_transcript": "东西。回司。们收lo收lo，他们马上要放炮了，就这。注意安全啊。在高燕山。不要来老黄老黄。我还没有。K就花了。没。收头收头。好，跟他们说了。",
+    "english_translation": "Something. Back to Division. They're going to fire the cannons. That's it. Be safe. In the mountain of Goren. Don't come to Old Wong. I haven't. That's what I'm talking about. Nope. Close your head. All right, tell them.",
+    "ground_truth_translation": "Caller 1 informed Caller 2  on 21 Dec 25 that blasting is scheduled to be conducted at the worksite soon. In this regard, Caller 1 further asked Caller 2 to instruct all the workers to pay attention on safety.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "放炮 (blasting)"
+    ],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 4.42,
+        "end": 5.28,
+        "chinese": "东西",
+        "english": "Something."
+      },
+      {
+        "start": 9.76,
+        "end": 11.62,
+        "chinese": "回司",
+        "english": "Back to Division."
+      },
+      {
+        "start": 15.01,
+        "end": 19.78,
+        "chinese": "们收lo收lo，他们马上要放炮了，就这",
+        "english": "They're going to fire the cannons. That's it."
+      },
+      {
+        "start": 20.0,
+        "end": 21.95,
+        "chinese": "注意安全啊",
+        "english": "Be safe."
+      },
+      {
+        "start": 25.22,
+        "end": 26.94,
+        "chinese": "在高燕山",
+        "english": "In the mountain of Goren."
+      },
+      {
+        "start": 30.24,
+        "end": 31.68,
+        "chinese": "不要来老黄老黄",
+        "english": "Don't come to Old Wong."
+      },
+      {
+        "start": 31.71,
+        "end": 32.38,
+        "chinese": "我还没有",
+        "english": "I haven't."
+      },
+      {
+        "start": 32.45,
+        "end": 33.63,
+        "chinese": "K就花了",
+        "english": "That's what I'm talking about."
+      },
+      {
+        "start": 33.66,
+        "end": 34.27,
+        "chinese": "没",
+        "english": "Nope."
+      },
+      {
+        "start": 34.94,
+        "end": 36.61,
+        "chinese": "收头收头",
+        "english": "Close your head."
+      },
+      {
+        "start": 36.8,
+        "end": 37.89,
+        "chinese": "好，跟他们说了",
+        "english": "All right, tell them."
+      }
+    ]
+  },
+  {
+    "call_no": "31",
+    "audio_file": "31.mp3",
+    "speech_chunks_count": 1,
+    "chinese_transcript": "那个挖机已经在挖喽，他已经挖了，他已经在挖了，等我走路上去停鸡巴都挖完了，那个都已经挖了有七八分钟那边这个边边个一开问你们你们又说打这边这个打过打那个我这边老老收了收了有。",
+    "english_translation": "He's digging, he's digging, he's digging, he's digging, he's digging, he's digging, he's digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, you've been asking, he's beating, he's beating, he's beating, he's taking, he's taking,",
+    "ground_truth_translation": "Caller 1 informed Caller 2 on 22 Dec 25 that an excavator has completed digging at higher side main road location and further reported that excavation will complete within seven to eight minute at another location. Caller 2 asked Caller 1 to confirm with third person regarding start of digging work at some other location.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "挖机 (excavator)"
+    ],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.0,
+        "end": 53.02,
+        "chinese": "那个挖机已经在挖喽，他已经挖了，他已经在挖了，等我走路上去停鸡巴都挖完了，那个都已经挖了有七八分钟那边这个边边个一开问你们你们又说打这边这个打过打那个我这边老老收了收了有",
+        "english": "He's digging, he's digging, he's digging, he's digging, he's digging, he's digging, he's digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, he's been digging, you've been asking, he's beating, he's beating, he's beating, he's taking, he's taking,"
+      }
+    ]
+  },
+  {
+    "call_no": "32",
+    "audio_file": "32.mp3",
+    "speech_chunks_count": 11,
+    "chinese_transcript": "家桥过去。放在那个路口那里，把电话电话给他怼一线啊。二认。路路还lo一县。哦。哎，老帅老帅，刘，你给胖子说吧，我先别拉下去，他们检查的车要上来了。李老板，你。往上走走到我这有个宽的地方。我们过吧操。我在你分说。检查队要上来了。那边那个掉下那边有人。",
+    "english_translation": "Jiabashi, over there. Put it at that intersection and give him the phone number. Secondment Luan-Yu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu, Lu-Lu-Lu, Lu-Lu-Lu-Lu, Lu-Lu-Lu-Lu-Lu-Lu, Lu-Lu-Lu, Lu-Lu-Lu-Lu-Lu, Lu-Lu, Lu-Lu-Lu, Lu-Lu-Lu, Lu-Lu-Lu, Lu-L-Lu, Lu-L-L-L-Lu, Lu-L-L-L-L-L-L-L... Ooh. Hey, good-looking old man, Lau, tell the fatty I'm not pulling down. The car they're checking is coming up. You, Mr. Lee. Walk up to me. There's a wide area. Let's go fuck ourselves. I'll tell you what. The inspection team's coming up. There's someone down there.",
+    "ground_truth_translation": "Caller 1 informed Caller 2 on 22 Dec 25 that the vehicle of inspection team is scheduled to arrive at the construction site. In this regard, Caller 1 further instructed Caller 2 to park the vehicle at certain spacious place and keep road clear.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 3.2,
+        "end": 5.47,
+        "chinese": "家桥过去",
+        "english": "Jiabashi, over there."
+      },
+      {
+        "start": 8.67,
+        "end": 12.8,
+        "chinese": "放在那个路口那里，把电话电话给他怼一线啊",
+        "english": "Put it at that intersection and give him the phone number."
+      },
+      {
+        "start": 16.19,
+        "end": 17.38,
+        "chinese": "二认",
+        "english": "Secondment"
+      },
+      {
+        "start": 20.74,
+        "end": 25.25,
+        "chinese": "路路还lo一县",
+        "english": "Luan-Yu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu-Lu, Lu-Lu-Lu, Lu-Lu-Lu-Lu, Lu-Lu-Lu-Lu-Lu-Lu, Lu-Lu-Lu, Lu-Lu-Lu-Lu-Lu, Lu-Lu, Lu-Lu-Lu, Lu-Lu-Lu, Lu-Lu-Lu, Lu-L-Lu, Lu-L-L-L-Lu, Lu-L-L-L-L-L-L-L..."
+      },
+      {
+        "start": 25.6,
+        "end": 26.62,
+        "chinese": "哦",
+        "english": "Ooh."
+      },
+      {
+        "start": 29.82,
+        "end": 39.78,
+        "chinese": "哎，老帅老帅，刘，你给胖子说吧，我先别拉下去，他们检查的车要上来了。李老板，你",
+        "english": "Hey, good-looking old man, Lau, tell the fatty I'm not pulling down. The car they're checking is coming up. You, Mr. Lee."
+      },
+      {
+        "start": 40.22,
+        "end": 42.66,
+        "chinese": "往上走走到我这有个宽的地方",
+        "english": "Walk up to me. There's a wide area."
+      },
+      {
+        "start": 43.26,
+        "end": 44.86,
+        "chinese": "我们过吧操",
+        "english": "Let's go fuck ourselves."
+      },
+      {
+        "start": 48.22,
+        "end": 49.63,
+        "chinese": "我在你分说",
+        "english": "I'll tell you what."
+      },
+      {
+        "start": 50.82,
+        "end": 53.79,
+        "chinese": "检查队要上来了",
+        "english": "The inspection team's coming up."
+      },
+      {
+        "start": 57.25,
+        "end": 61.63,
+        "chinese": "那边那个掉下那边有人",
+        "english": "There's someone down there."
+      }
+    ]
+  },
+  {
+    "call_no": "33",
+    "audio_file": "33.mp3",
+    "speech_chunks_count": 18,
+    "chinese_transcript": "他刚进来了，带着两个工人下来给个转。啊。在哪里赚钱的吗。下边堆水泥了。啊回去。出来。范围。让他们走就下来是走要接他们吗。当是有两辆。等一下等下把这两个情动交了，你再过去吧，把这两个情动交了。奥奇玛克。先在这个地方先等一下啊，先在这个地方先等一下，先不要开进了。",
+    "english_translation": "He just came in. He brought two workers down for a spin. Aah! Where'd you get the money? There's cement on the bottom. Ah, go back. Come out. Scope You want to pick them up when you let them go? I think there's two of them. Wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute. Otchmack. Wait here. Wait here. Don't go in there.",
+    "ground_truth_translation": "Caller 1 informed Caller 2 on 20 Dec 25 that 02 x workers are arriving near the cement dump at the construction site. Caller 2 said ok and further asked Caller 1 to send reinforcement steel bars at the construction site.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 15.26,
+        "end": 18.02,
+        "chinese": "他刚进来了，带着两个工人下来给个转",
+        "english": "He just came in. He brought two workers down for a spin."
+      },
+      {
+        "start": 18.34,
+        "end": 19.04,
+        "chinese": "啊",
+        "english": "Aah!"
+      },
+      {
+        "start": 21.92,
+        "end": 23.49,
+        "chinese": "在哪里赚钱的吗",
+        "english": "Where'd you get the money?"
+      },
+      {
+        "start": 24.67,
+        "end": 28.51,
+        "chinese": "下边堆水泥了",
+        "english": "There's cement on the bottom."
+      },
+      {
+        "start": 31.87,
+        "end": 33.82,
+        "chinese": "啊回去",
+        "english": "Ah, go back."
+      },
+      {
+        "start": 34.72,
+        "end": 35.65,
+        "chinese": "出来",
+        "english": "Come out."
+      },
+      {
+        "start": 36.58,
+        "end": 37.12,
+        "chinese": "范围",
+        "english": "Scope"
+      },
+      {
+        "start": 37.7,
+        "end": 41.47,
+        "chinese": "让他们走就下来是走要接他们吗",
+        "english": "You want to pick them up when you let them go?"
+      },
+      {
+        "start": 53.18,
+        "end": 54.72,
+        "chinese": "当是有两辆",
+        "english": "I think there's two of them."
+      },
+      {
+        "start": 66.21,
+        "end": 70.75,
+        "chinese": "等一下等下把这两个情动交了，你再过去吧，把这两个情动交了",
+        "english": "Wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute."
+      },
+      {
+        "start": 73.95,
+        "end": 75.62,
+        "chinese": "奥奇玛克",
+        "english": "Otchmack."
+      },
+      {
+        "start": 78.98,
+        "end": 84.06,
+        "chinese": "先在这个地方先等一下啊，先在这个地方先等一下，先不要开进了",
+        "english": "Wait here. Wait here. Don't go in there."
+      }
+    ]
+  },
+  {
+    "call_no": "34",
+    "audio_file": "34.mp3",
+    "speech_chunks_count": 12,
+    "chinese_transcript": "给他交下去。我到后面钢衣场队这里掉个钢筋。一以搬。对。我。在那个字上面把的。全不队掉下来，胡老林郭老林。们。",
+    "english_translation": "Give it to him. I'll drop a band at the back of the steel field. I'll move it. Yeah. I'm... It's on that word. The whole team fell down, Ho-Ling-Ling-Ling-Ling-Ling-Ling-Ling-Ling-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li. Guys.",
+    "ground_truth_translation": "Caller 1 instructed Caller 2 on 20 Dec 25 to send reinforcement steel bars near No 10 building (likely under construction building).",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "钢筋 (reinforcement steel bars)"
+    ],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 7.33,
+        "end": 9.31,
+        "chinese": "给他交下去",
+        "english": "Give it to him."
+      },
+      {
+        "start": 14.21,
+        "end": 17.12,
+        "chinese": "我到后面钢衣场队这里掉个钢筋",
+        "english": "I'll drop a band at the back of the steel field."
+      },
+      {
+        "start": 21.6,
+        "end": 22.11,
+        "chinese": "一以搬",
+        "english": "I'll move it."
+      },
+      {
+        "start": 27.1,
+        "end": 27.87,
+        "chinese": "对",
+        "english": "Yeah."
+      },
+      {
+        "start": 27.9,
+        "end": 29.12,
+        "chinese": "我",
+        "english": "I'm..."
+      },
+      {
+        "start": 33.06,
+        "end": 35.55,
+        "chinese": "在那个字上面把的",
+        "english": "It's on that word."
+      },
+      {
+        "start": 39.17,
+        "end": 42.88,
+        "chinese": "全不队掉下来，胡老林郭老林",
+        "english": "The whole team fell down, Ho-Ling-Ling-Ling-Ling-Ling-Ling-Ling-Ling-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li-Li."
+      },
+      {
+        "start": 46.21,
+        "end": 54.02,
+        "chinese": "们",
+        "english": "Guys."
+      }
+    ]
+  },
+  {
+    "call_no": "35",
+    "audio_file": "35.mp3",
+    "speech_chunks_count": 11,
+    "chinese_transcript": "叮猫叮猫再铲一铲1头下来嘞。不起来就躺谈不起来就从下边躺了。要在这里转干心。变哪老爷我都搁外头了啊。他掉来的前头来的。是混凝度按楼那个。还有什出来话。这个。",
+    "english_translation": "Ding-Cing-Cing-Cing-Chee-Chee-Chee-Chee-Chee-Chee-Chee-Chee-Chou! If you don't get up, you can't talk, you can lie down. We're going to have to turn our minds around here. I've left my husband behind. He fell in front of me. It's the one in the condensation building. What else did you say? Here.",
+    "ground_truth_translation": "Caller 1 instructed Caller 2 on 20 Dec 25 to make one trip of vehicle to deliver stones at the construction site. Caller 1 further demanded reinforcement steel bars.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 3.2,
+        "end": 7.52,
+        "chinese": "叮猫叮猫再铲一铲1头下来嘞",
+        "english": "Ding-Cing-Cing-Cing-Chee-Chee-Chee-Chee-Chee-Chee-Chee-Chee-Chou!"
+      },
+      {
+        "start": 10.98,
+        "end": 15.65,
+        "chinese": "不起来就躺谈不起来就从下边躺了",
+        "english": "If you don't get up, you can't talk, you can lie down."
+      },
+      {
+        "start": 16.77,
+        "end": 19.01,
+        "chinese": "要在这里转干心",
+        "english": "We're going to have to turn our minds around here."
+      },
+      {
+        "start": 25.6,
+        "end": 28.16,
+        "chinese": "变哪老爷我都搁外头了啊",
+        "english": "I've left my husband behind."
+      },
+      {
+        "start": 28.83,
+        "end": 31.49,
+        "chinese": "他掉来的前头来的",
+        "english": "He fell in front of me."
+      },
+      {
+        "start": 34.94,
+        "end": 37.63,
+        "chinese": "是混凝度按楼那个",
+        "english": "It's the one in the condensation building."
+      },
+      {
+        "start": 41.5,
+        "end": 42.98,
+        "chinese": "还有什出来话",
+        "english": "What else did you say?"
+      },
+      {
+        "start": 46.53,
+        "end": 48.03,
+        "chinese": "这个",
+        "english": "Here."
+      }
+    ]
+  },
+  {
+    "call_no": "36",
+    "audio_file": "36.mp3",
+    "speech_chunks_count": 7,
+    "chinese_transcript": "屁屁股抬起来了。社区。他倒游。你，你在这等几分钟，他你李老板把这烧浆扫一下，你再上来。一石扑再。",
+    "english_translation": "Your ass is up. Community He swims backwards. You, wait here for a few minutes, he's your boss, clean up the burner and you come up. One stone at a time.",
+    "ground_truth_translation": "Caller 1 instructed Caller 2, a person named Bina Ba on 20 Dec 25 to wait for few minutes as person is coming to deliver concrete and stones at the site.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 3.2,
+        "end": 5.54,
+        "chinese": "屁屁股抬起来了",
+        "english": "Your ass is up."
+      },
+      {
+        "start": 9.15,
+        "end": 12.48,
+        "chinese": "社区",
+        "english": "Community"
+      },
+      {
+        "start": 15.74,
+        "end": 16.29,
+        "chinese": "他倒游",
+        "english": "He swims backwards."
+      },
+      {
+        "start": 20.51,
+        "end": 26.75,
+        "chinese": "你，你在这等几分钟，他你李老板把这烧浆扫一下，你再上来",
+        "english": "You, wait here for a few minutes, he's your boss, clean up the burner and you come up."
+      },
+      {
+        "start": 32.74,
+        "end": 39.74,
+        "chinese": "一石扑再",
+        "english": "One stone at a time."
+      }
+    ]
+  },
+  {
+    "call_no": "37",
+    "audio_file": "37.mp3",
+    "speech_chunks_count": 16,
+    "chinese_transcript": "我。对。我。",
+    "english_translation": "I'm... Yeah. I'm...",
+    "ground_truth_translation": "Caller 1 instructed Caller 2 on 15 Dec 2025 to shift the stones from the construction site. Caller 1 further discussed with Caller 2 about movement of a vehicles and excavator machine to the construction site.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 14.14,
+        "end": 15.68,
+        "chinese": "我",
+        "english": "I'm..."
+      },
+      {
+        "start": 50.4,
+        "end": 51.52,
+        "chinese": "对",
+        "english": "Yeah."
+      },
+      {
+        "start": 51.74,
+        "end": 59.58,
+        "chinese": "我",
+        "english": "I'm..."
+      }
+    ]
+  },
+  {
+    "call_no": "38",
+    "audio_file": "38.mp3",
+    "speech_chunks_count": 7,
+    "chinese_transcript": "11。那个那个塑手那些塑料袋，塑料袋，那些水晶塑袋，尽量的把买一袋下面啊，不要尽量不要让他裸在外面了。2汤儿。康康康康。我。挖那个标，他今天打到人行道电视了，到时候。还有快。",
+    "english_translation": "11 The plastic bag, the plastic bag, the crystal bag, buy as much as you can. Don't try to keep him naked. Two soups. Hong Kong. I'm... Dig the sign. He hit the sidewalk TV today. It's time. And fast.",
+    "ground_truth_translation": "Caller 1 instructed Caller 2 on 14 Dec 25 to bury the plastic bags of cement under the ground and don’t leave them naked outside. Caller 1 further instructed Caller 2 to carryout digging work at the construction site.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "塑料袋 (plastic bags)"
+    ],
+    "detected_codenames": [
+      "11"
+    ],
+    "turn_by_turn_segments": [
+      {
+        "start": 3.2,
+        "end": 5.09,
+        "chinese": "11",
+        "english": "11"
+      },
+      {
+        "start": 5.63,
+        "end": 15.74,
+        "chinese": "那个那个塑手那些塑料袋，塑料袋，那些水晶塑袋，尽量的把买一袋下面啊，不要尽量不要让他裸在外面了",
+        "english": "The plastic bag, the plastic bag, the crystal bag, buy as much as you can. Don't try to keep him naked."
+      },
+      {
+        "start": 19.1,
+        "end": 21.38,
+        "chinese": "2汤儿",
+        "english": "Two soups."
+      },
+      {
+        "start": 24.58,
+        "end": 27.04,
+        "chinese": "康康康康",
+        "english": "Hong Kong."
+      },
+      {
+        "start": 28.54,
+        "end": 29.41,
+        "chinese": "我",
+        "english": "I'm..."
+      },
+      {
+        "start": 30.08,
+        "end": 40.03,
+        "chinese": "挖那个标，他今天打到人行道电视了，到时候",
+        "english": "Dig the sign. He hit the sidewalk TV today. It's time."
+      },
+      {
+        "start": 42.88,
+        "end": 46.56,
+        "chinese": "还有快",
+        "english": "And fast."
+      }
+    ]
+  },
+  {
+    "call_no": "39",
+    "audio_file": "39.mp3",
+    "speech_chunks_count": 16,
+    "chinese_transcript": "平点屏等他们车往里边走，我们挖了就好多远。好的啦。大站。这个白色的围把这围挡下边来啊。这不是放了这个板房，刚调下这个板板房，然后放到板房的侧边。确上。你把那油放车子上面那个一件油，你把那管拿上来，上不来，你把车子叫他停在下面，就停在下面，就停在那块，他马上吃饭就到我子面我爸下来了，我帮你带上去下面有油。你就行了。个就行了，多时间才。我。下午再说吧下午再说，你电视就停了那个。小度啊，你。",
+    "english_translation": "The flat screen waits for their car to go inside. We dig a lot of miles. Okay. The main station. This white circle is blocking the lower side of the fence. This isn't the panel room. I just pulled it down and put it on the side of it. Yes, it is. You put that oil on the car, you take that pipe up, you don't come up, you tell him to park down there, he'll park down there, he'll eat immediately and my dad will come down. I'll take the oil down there. You're good. Just one. Just give me a minute. I'm... We'll talk about it in the afternoon. You'll stop the TV. Hey, Doo.",
+    "ground_truth_translation": "Caller 1 instructed Caller 2 on 14 Dec 25 to asked the third person to send vehicle inside at the construction site as digging work has been completed there. Caller 2 acknowledged. Caller 2 further instructed Caller 1 to send a pipe and FOL at his location. Caller 2 further informed Caller 1 that he is moving to certain worksite to conduct blasting.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 3.2,
+        "end": 7.97,
+        "chinese": "平点屏等他们车往里边走，我们挖了就好多远",
+        "english": "The flat screen waits for their car to go inside. We dig a lot of miles."
+      },
+      {
+        "start": 19.1,
+        "end": 21.06,
+        "chinese": "好的啦",
+        "english": "Okay."
+      },
+      {
+        "start": 33.95,
+        "end": 36.58,
+        "chinese": "大站",
+        "english": "The main station."
+      },
+      {
+        "start": 40.1,
+        "end": 43.26,
+        "chinese": "这个白色的围把这围挡下边来啊",
+        "english": "This white circle is blocking the lower side of the fence."
+      },
+      {
+        "start": 46.69,
+        "end": 52.0,
+        "chinese": "这不是放了这个板房，刚调下这个板板房，然后放到板房的侧边",
+        "english": "This isn't the panel room. I just pulled it down and put it on the side of it."
+      },
+      {
+        "start": 57.15,
+        "end": 59.23,
+        "chinese": "确上",
+        "english": "Yes, it is."
+      },
+      {
+        "start": 60.03,
+        "end": 76.22,
+        "chinese": "你把那油放车子上面那个一件油，你把那管拿上来，上不来，你把车子叫他停在下面，就停在下面，就停在那块，他马上吃饭就到我子面我爸下来了，我帮你带上去下面有油",
+        "english": "You put that oil on the car, you take that pipe up, you don't come up, you tell him to park down there, he'll park down there, he'll eat immediately and my dad will come down. I'll take the oil down there."
+      },
+      {
+        "start": 79.55,
+        "end": 85.12,
+        "chinese": "你就行了",
+        "english": "You're good."
+      },
+      {
+        "start": 86.66,
+        "end": 88.83,
+        "chinese": "个就行了，多时间才",
+        "english": "Just one. Just give me a minute."
+      },
+      {
+        "start": 88.86,
+        "end": 90.46,
+        "chinese": "我",
+        "english": "I'm..."
+      },
+      {
+        "start": 93.86,
+        "end": 99.07,
+        "chinese": "下午再说吧下午再说，你电视就停了那个",
+        "english": "We'll talk about it in the afternoon. You'll stop the TV."
+      },
+      {
+        "start": 102.4,
+        "end": 105.57,
+        "chinese": "小度啊，你",
+        "english": "Hey, Doo."
+      }
+    ]
+  },
+  {
+    "call_no": "40",
+    "audio_file": "40.mp3",
+    "speech_chunks_count": 35,
+    "chinese_transcript": "赵着钱交着钱。20钱。他知道了，我来把这边手机收了，收了，把那删，你给他办起。呃，算了算了。这个好个人说一下。先把这两。在。哦我对。好的好的。叫刘工司弟刘工司弟。确。干凡，我们就都上个教时我只任交警。就干山。到舅舅。后面那个墙上有有那个飘高线啊，那可能钱都多。就把钱倒过来就41块钱。倒过来倒过来。到货来的到货来的。随下么上费。是。赵志天赵志天，你看你这有手机不是万的，一给我收回来，收到来肯要家过去啊。把有些退出去羊肉肉个责我把他出出去。中间中间有两个十包包嘛。包包就按照那个。包包的那个标高填后去就可以了。包包我。测了一下。有。拿过来。喂对。20天20天你定还有鸡把收银机，把你鸡把手机给了送过来。查。只要我前面那个地方封成面就可以了，这样搞薄一点。",
+    "english_translation": "Chiu paid for it. Twenty bucks. He knows. I'll take this cell phone. I'll take it. Well, forget it. That's a nice guy to say. Take these two first. Yes. Oh, I'm right. Okay. Okay. His name is Liu Ji-dee. Liu Jie-dee. Yes. I'll be the only traffic cop when we're all in the past. It's a mountain. To Uncle. There's that high line on the wall back there. It's probably a lot of money. Just pour the money over for 41 bucks. Turn it upside down. It's coming from here. You're gonna have to pay for it. Yes. Zhao Chi Tian Chi Tian, you have a cell phone I'm gonna get him out of here and get some of them out of here. There are two ten bags in the middle. That's the one for the bag. Just fill in the top of the bag and go. Give me the bag. Check it out. Yes. Give it to me. Yeah. 20 days, you'll still have the chicken to send your phone to me. Chai. As long as the place in front of me is covered, it's a little thinner.",
+    "ground_truth_translation": "Caller 1 instructed Caller 2, a person named Zhao Dejian on 14 Dec 2025 to receive the consignment of cement and send to the construction site. Caller 2 replied that there is sufficient cement at the construction site currently.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [
+      "20"
+    ],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.03,
+        "end": 0.96,
+        "chinese": "赵着钱交着钱",
+        "english": "Chiu paid for it."
+      },
+      {
+        "start": 1.92,
+        "end": 2.56,
+        "chinese": "20钱",
+        "english": "Twenty bucks."
+      },
+      {
+        "start": 3.01,
+        "end": 5.73,
+        "chinese": "他知道了，我来把这边手机收了，收了，把那删，你给他办起",
+        "english": "He knows. I'll take this cell phone. I'll take it."
+      },
+      {
+        "start": 6.75,
+        "end": 7.74,
+        "chinese": "呃，算了算了",
+        "english": "Well, forget it."
+      },
+      {
+        "start": 7.84,
+        "end": 9.66,
+        "chinese": "这个好个人说一下",
+        "english": "That's a nice guy to say."
+      },
+      {
+        "start": 9.73,
+        "end": 10.3,
+        "chinese": "先把这两",
+        "english": "Take these two first."
+      },
+      {
+        "start": 11.07,
+        "end": 11.33,
+        "chinese": "在",
+        "english": "Yes."
+      },
+      {
+        "start": 11.42,
+        "end": 12.42,
+        "chinese": "哦我对",
+        "english": "Oh, I'm right."
+      },
+      {
+        "start": 13.82,
+        "end": 14.53,
+        "chinese": "好的好的",
+        "english": "Okay. Okay."
+      },
+      {
+        "start": 15.36,
+        "end": 18.11,
+        "chinese": "叫刘工司弟刘工司弟",
+        "english": "His name is Liu Ji-dee. Liu Jie-dee."
+      },
+      {
+        "start": 18.24,
+        "end": 18.5,
+        "chinese": "确",
+        "english": "Yes."
+      },
+      {
+        "start": 18.85,
+        "end": 21.66,
+        "chinese": "干凡，我们就都上个教时我只任交警",
+        "english": "I'll be the only traffic cop when we're all in the past."
+      },
+      {
+        "start": 21.7,
+        "end": 22.66,
+        "chinese": "就干山",
+        "english": "It's a mountain."
+      },
+      {
+        "start": 23.46,
+        "end": 25.18,
+        "chinese": "到舅舅",
+        "english": "To Uncle."
+      },
+      {
+        "start": 25.38,
+        "end": 29.34,
+        "chinese": "后面那个墙上有有那个飘高线啊，那可能钱都多",
+        "english": "There's that high line on the wall back there. It's probably a lot of money."
+      },
+      {
+        "start": 29.47,
+        "end": 32.77,
+        "chinese": "就把钱倒过来就41块钱",
+        "english": "Just pour the money over for 41 bucks."
+      },
+      {
+        "start": 33.66,
+        "end": 34.66,
+        "chinese": "倒过来倒过来",
+        "english": "Turn it upside down."
+      },
+      {
+        "start": 35.04,
+        "end": 36.96,
+        "chinese": "到货来的到货来的",
+        "english": "It's coming from here."
+      },
+      {
+        "start": 37.09,
+        "end": 38.14,
+        "chinese": "随下么上费",
+        "english": "You're gonna have to pay for it."
+      },
+      {
+        "start": 38.21,
+        "end": 38.66,
+        "chinese": "是",
+        "english": "Yes."
+      },
+      {
+        "start": 38.78,
+        "end": 43.68,
+        "chinese": "赵志天赵志天，你看你这有手机不是万的，一给我收回来，收到来肯要家过去啊",
+        "english": "Zhao Chi Tian Chi Tian, you have a cell phone"
+      },
+      {
+        "start": 43.81,
+        "end": 47.55,
+        "chinese": "把有些退出去羊肉肉个责我把他出出去",
+        "english": "I'm gonna get him out of here and get some of them out of here."
+      },
+      {
+        "start": 47.94,
+        "end": 50.18,
+        "chinese": "中间中间有两个十包包嘛",
+        "english": "There are two ten bags in the middle."
+      },
+      {
+        "start": 50.34,
+        "end": 51.36,
+        "chinese": "包包就按照那个",
+        "english": "That's the one for the bag."
+      },
+      {
+        "start": 51.39,
+        "end": 53.28,
+        "chinese": "包包的那个标高填后去就可以了",
+        "english": "Just fill in the top of the bag and go."
+      },
+      {
+        "start": 53.79,
+        "end": 54.27,
+        "chinese": "包包我",
+        "english": "Give me the bag."
+      },
+      {
+        "start": 54.3,
+        "end": 54.75,
+        "chinese": "测了一下",
+        "english": "Check it out."
+      },
+      {
+        "start": 54.82,
+        "end": 55.74,
+        "chinese": "有",
+        "english": "Yes."
+      },
+      {
+        "start": 55.87,
+        "end": 56.77,
+        "chinese": "拿过来",
+        "english": "Give it to me."
+      },
+      {
+        "start": 57.28,
+        "end": 58.27,
+        "chinese": "喂对",
+        "english": "Yeah."
+      },
+      {
+        "start": 58.56,
+        "end": 61.6,
+        "chinese": "20天20天你定还有鸡把收银机，把你鸡把手机给了送过来",
+        "english": "20 days, you'll still have the chicken to send your phone to me."
+      },
+      {
+        "start": 61.66,
+        "end": 62.05,
+        "chinese": "查",
+        "english": "Chai."
+      },
+      {
+        "start": 62.62,
+        "end": 66.4,
+        "chinese": "只要我前面那个地方封成面就可以了，这样搞薄一点",
+        "english": "As long as the place in front of me is covered, it's a little thinner."
+      }
+    ]
+  },
+  {
+    "call_no": "41",
+    "audio_file": "41.mp3",
+    "speech_chunks_count": 4,
+    "chinese_transcript": "自己在人中路。现在拿你那个这么的，你等一下崔帅，你让那边配一下人啊，你让崔帅跟他谈啊，我问一下啊，我先你问一下，我现在还在还没走啊，如果要自己带人的话，我要带你个人下去就行了。行行行行，你来一下催便啊啊，你让他在那边。帅让他帅跟他谈王总王总说说说什么说非常得带一个人下去两个人嘛，我帮个我我我送一个嘛，然后我还要带一个人，要两个人行啊行啊，我给你送过来啊，送一个，我在这任。",
+    "english_translation": "I'm in the middle of a man. Hold on a minute, Choi, let's get him to talk to him. Let me ask you something. I'm not leaving yet. If you want to take someone with me, I'll take you out myself. Come on, let's hurry. You let him be over there. I'll take one for you. I'll send one for you. I'll send one for you. I'll send one for you.",
+    "ground_truth_translation": "Caller 1 instructed Caller 2 on 12 Dec 25 to send the water tanker and two workers at K3 construction site. Caller 1 further added that he has arranged one worker for an unspecified task and two more workers are needed for it.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "王总 (Supervisor Wang)"
+    ],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.48,
+        "end": 1.79,
+        "chinese": "自己在人中路",
+        "english": "I'm in the middle of a man."
+      },
+      {
+        "start": 1.86,
+        "end": 14.56,
+        "chinese": "现在拿你那个这么的，你等一下崔帅，你让那边配一下人啊，你让崔帅跟他谈啊，我问一下啊，我先你问一下，我现在还在还没走啊，如果要自己带人的话，我要带你个人下去就行了",
+        "english": "Hold on a minute, Choi, let's get him to talk to him. Let me ask you something. I'm not leaving yet. If you want to take someone with me, I'll take you out myself."
+      },
+      {
+        "start": 14.59,
+        "end": 18.53,
+        "chinese": "行行行行，你来一下催便啊啊，你让他在那边",
+        "english": "Come on, let's hurry. You let him be over there."
+      },
+      {
+        "start": 18.59,
+        "end": 42.61,
+        "chinese": "帅让他帅跟他谈王总王总说说说什么说非常得带一个人下去两个人嘛，我帮个我我我送一个嘛，然后我还要带一个人，要两个人行啊行啊，我给你送过来啊，送一个，我在这任",
+        "english": "I'll take one for you. I'll send one for you. I'll send one for you. I'll send one for you."
+      }
+    ]
+  },
+  {
+    "call_no": "42",
+    "audio_file": "42.mp3",
+    "speech_chunks_count": 6,
+    "chinese_transcript": "那你那个石头能不能分开，等下上面也有石头呢。我说你现在挖西那里，能不能把那个石口山挖的青山，人家三轮车能过来，人家上面也要石口呢。我往后是，但是等一下那个石头也要下来了吗。好消换堵电龙。",
+    "english_translation": "Can't that rock split up? There's rocks on it. I said, \"Can you dig the west side of the mountain?\" I'll be back, but will that rock come down later? So we can replace the C.E.L.D.s.",
+    "ground_truth_translation": "Caller 1 instructed Caller 2 on 11 Dec 25 to dispatch the excavator machine at the site near the retaining wall and clear/dig the stone so that (the likely blocked road could get clear) and the tipper truck could pass through.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "石头 (stones / rocks)"
+    ],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 6.69,
+        "end": 12.42,
+        "chinese": "那你那个石头能不能分开，等下上面也有石头呢",
+        "english": "Can't that rock split up? There's rocks on it."
+      },
+      {
+        "start": 15.87,
+        "end": 27.36,
+        "chinese": "我说你现在挖西那里，能不能把那个石口山挖的青山，人家三轮车能过来，人家上面也要石口呢",
+        "english": "I said, \"Can you dig the west side of the mountain?\""
+      },
+      {
+        "start": 30.62,
+        "end": 36.8,
+        "chinese": "我往后是，但是等一下那个石头也要下来了吗",
+        "english": "I'll be back, but will that rock come down later?"
+      },
+      {
+        "start": 40.19,
+        "end": 42.34,
+        "chinese": "好消换堵电龙",
+        "english": "So we can replace the C.E.L.D.s."
+      }
+    ]
+  },
+  {
+    "call_no": "43",
+    "audio_file": "43.mp3",
+    "speech_chunks_count": 19,
+    "chinese_transcript": "不好。这个说打王警车，你帮他找一下模板。好好好，你到时候很过来了，就到这个桥这里吧，他们那里有人。对。7个7个。嗯。对。那我的。可以可以。对以。",
+    "english_translation": "Not good. This means hit the police car. You find the template for him. Good, good, good. You'll be here by then. Let's go to the bridge. Yeah. Seven. Seven. Yeah. Yeah. Mine. Yeah, yeah, yeah, yeah, yeah, yeah. Yes.",
+    "ground_truth_translation": "Caller 1 instructed Caller 2 on 11 Dec 25 to help a person named Wen Jing to shift the molding plates at the construction site. Caller 1 further instructed Caller 2 to send the workers to the site near bridge (likely the under-construction bridge) when they would arrive at Caller 2’s location.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 3.2,
+        "end": 4.16,
+        "chinese": "不好",
+        "english": "Not good."
+      },
+      {
+        "start": 10.72,
+        "end": 15.33,
+        "chinese": "这个说打王警车，你帮他找一下模板",
+        "english": "This means hit the police car. You find the template for him."
+      },
+      {
+        "start": 18.85,
+        "end": 23.78,
+        "chinese": "好好好，你到时候很过来了，就到这个桥这里吧，他们那里有人",
+        "english": "Good, good, good. You'll be here by then. Let's go to the bridge."
+      },
+      {
+        "start": 27.01,
+        "end": 27.62,
+        "chinese": "对",
+        "english": "Yeah."
+      },
+      {
+        "start": 33.12,
+        "end": 34.37,
+        "chinese": "7个7个",
+        "english": "Seven. Seven."
+      },
+      {
+        "start": 37.66,
+        "end": 38.27,
+        "chinese": "嗯",
+        "english": "Yeah."
+      },
+      {
+        "start": 44.77,
+        "end": 45.28,
+        "chinese": "对",
+        "english": "Yeah."
+      },
+      {
+        "start": 45.79,
+        "end": 46.3,
+        "chinese": "那我的",
+        "english": "Mine."
+      },
+      {
+        "start": 53.18,
+        "end": 54.56,
+        "chinese": "可以可以",
+        "english": "Yeah, yeah, yeah, yeah, yeah, yeah."
+      },
+      {
+        "start": 61.89,
+        "end": 63.87,
+        "chinese": "对以",
+        "english": "Yes."
+      }
+    ]
+  },
+  {
+    "call_no": "44",
+    "audio_file": "44.mp3",
+    "speech_chunks_count": 42,
+    "chinese_transcript": "退有。没有。哦。在。你说你说。你后面那个皮卡。你的。司机在不在上面。真的吗。来了。行，那我就不下来了，你让他上来。好个送人我送了。查。好的。320。在。我看这个石头缝里是不是是不是有一桶炸一掉，没炸掉的。是不是。要看一下。在。喂包喂包。你喊那个炮工过来看看，这里是不是有点大呀，没炸嘞，一些火腿肠。是。所以。接。这个牙。嗯。我吧。他所。查余。我想。其他的。这这里面。家人。假。我答。把来咬。原那告不得。没。28192819车过了是吧。",
+    "english_translation": "Yes. Nothing. Ooh. Yes. You say it, you say it. The pickup that's behind you. Yours. Is the driver up there? Really? I'm coming. Well, then I won't come down. You let him up. I'll give it to you. Chai. Okay. 320. Yes. Let's see if there's a barrel in this rock's stitch that didn't blow up. Isn't that right? Let's have a look. Yes. Hey, hey, hey, hey, hey. Why don't you call the gunman and see if it's a little big. Yes. So... Answer. This tooth. Yeah. I'll do it. His place. Chau. I think... Other It's in here. Family. False I'll do it. Bite it. I can't tell you that. Nope. Car 28192819 passed, didn't it?",
+    "ground_truth_translation": "Caller 1 instructed Caller 2, on 11 Dec 2025 to send the pickup truck from rear location to his (Caller 1’s) location. Caller 1 further instructed to explode the rocks/stone at the construction site. Caller 1 finally asked Caller 2 to send the excavator machine at the construction site for digging work.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "石头 (stones / rocks)",
+      "皮卡 (pickup truck)"
+    ],
+    "detected_codenames": [
+      "19",
+      "20"
+    ],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.0,
+        "end": 0.51,
+        "chinese": "退有",
+        "english": "Yes."
+      },
+      {
+        "start": 0.54,
+        "end": 0.99,
+        "chinese": "没有",
+        "english": "Nothing."
+      },
+      {
+        "start": 1.31,
+        "end": 1.66,
+        "chinese": "哦",
+        "english": "Ooh."
+      },
+      {
+        "start": 1.89,
+        "end": 2.56,
+        "chinese": "在",
+        "english": "Yes."
+      },
+      {
+        "start": 4.42,
+        "end": 5.7,
+        "chinese": "你说你说",
+        "english": "You say it, you say it."
+      },
+      {
+        "start": 6.85,
+        "end": 8.64,
+        "chinese": "你后面那个皮卡",
+        "english": "The pickup that's behind you."
+      },
+      {
+        "start": 8.77,
+        "end": 9.06,
+        "chinese": "你的",
+        "english": "Yours."
+      },
+      {
+        "start": 9.09,
+        "end": 10.02,
+        "chinese": "司机在不在上面",
+        "english": "Is the driver up there?"
+      },
+      {
+        "start": 11.2,
+        "end": 11.9,
+        "chinese": "真的吗",
+        "english": "Really?"
+      },
+      {
+        "start": 11.94,
+        "end": 12.51,
+        "chinese": "来了",
+        "english": "I'm coming."
+      },
+      {
+        "start": 12.64,
+        "end": 14.53,
+        "chinese": "行，那我就不下来了，你让他上来",
+        "english": "Well, then I won't come down. You let him up."
+      },
+      {
+        "start": 15.01,
+        "end": 16.45,
+        "chinese": "好个送人我送了",
+        "english": "I'll give it to you."
+      },
+      {
+        "start": 16.51,
+        "end": 16.83,
+        "chinese": "查",
+        "english": "Chai."
+      },
+      {
+        "start": 16.96,
+        "end": 18.27,
+        "chinese": "好的",
+        "english": "Okay."
+      },
+      {
+        "start": 18.59,
+        "end": 19.04,
+        "chinese": "320",
+        "english": "320."
+      },
+      {
+        "start": 19.07,
+        "end": 19.65,
+        "chinese": "在",
+        "english": "Yes."
+      },
+      {
+        "start": 22.11,
+        "end": 26.27,
+        "chinese": "我看这个石头缝里是不是是不是有一桶炸一掉，没炸掉的",
+        "english": "Let's see if there's a barrel in this rock's stitch that didn't blow up."
+      },
+      {
+        "start": 27.23,
+        "end": 27.9,
+        "chinese": "是不是",
+        "english": "Isn't that right?"
+      },
+      {
+        "start": 29.38,
+        "end": 30.56,
+        "chinese": "要看一下",
+        "english": "Let's have a look."
+      },
+      {
+        "start": 30.88,
+        "end": 31.2,
+        "chinese": "在",
+        "english": "Yes."
+      },
+      {
+        "start": 34.18,
+        "end": 35.01,
+        "chinese": "喂包喂包",
+        "english": "Hey, hey, hey, hey, hey."
+      },
+      {
+        "start": 36.06,
+        "end": 39.71,
+        "chinese": "你喊那个炮工过来看看，这里是不是有点大呀，没炸嘞，一些火腿肠",
+        "english": "Why don't you call the gunman and see if it's a little big."
+      },
+      {
+        "start": 40.22,
+        "end": 40.8,
+        "chinese": "是",
+        "english": "Yes."
+      },
+      {
+        "start": 43.68,
+        "end": 43.97,
+        "chinese": "所以",
+        "english": "So..."
+      },
+      {
+        "start": 44.0,
+        "end": 44.61,
+        "chinese": "接",
+        "english": "Answer."
+      },
+      {
+        "start": 45.06,
+        "end": 45.47,
+        "chinese": "这个牙",
+        "english": "This tooth."
+      },
+      {
+        "start": 45.54,
+        "end": 45.92,
+        "chinese": "嗯",
+        "english": "Yeah."
+      },
+      {
+        "start": 46.37,
+        "end": 46.66,
+        "chinese": "我吧",
+        "english": "I'll do it."
+      },
+      {
+        "start": 47.84,
+        "end": 48.67,
+        "chinese": "他所",
+        "english": "His place."
+      },
+      {
+        "start": 49.38,
+        "end": 49.73,
+        "chinese": "查余",
+        "english": "Chau."
+      },
+      {
+        "start": 50.11,
+        "end": 50.37,
+        "chinese": "我想",
+        "english": "I think..."
+      },
+      {
+        "start": 52.06,
+        "end": 52.42,
+        "chinese": "其他的",
+        "english": "Other"
+      },
+      {
+        "start": 52.45,
+        "end": 53.12,
+        "chinese": "这这里面",
+        "english": "It's in here."
+      },
+      {
+        "start": 53.28,
+        "end": 53.57,
+        "chinese": "家人",
+        "english": "Family."
+      },
+      {
+        "start": 53.66,
+        "end": 53.92,
+        "chinese": "假",
+        "english": "False"
+      },
+      {
+        "start": 54.34,
+        "end": 54.59,
+        "chinese": "我答",
+        "english": "I'll do it."
+      },
+      {
+        "start": 55.23,
+        "end": 55.58,
+        "chinese": "把来咬",
+        "english": "Bite it."
+      },
+      {
+        "start": 55.68,
+        "end": 56.51,
+        "chinese": "原那告不得",
+        "english": "I can't tell you that."
+      },
+      {
+        "start": 57.25,
+        "end": 58.02,
+        "chinese": "没",
+        "english": "Nope."
+      },
+      {
+        "start": 58.21,
+        "end": 61.02,
+        "chinese": "28192819车过了是吧",
+        "english": "Car 28192819 passed, didn't it?"
+      }
+    ]
+  },
+  {
+    "call_no": "45",
+    "audio_file": "45.mp3",
+    "speech_chunks_count": 21,
+    "chinese_transcript": "那里面就说呢，你。嗯。老张啊，你把这蓝板都给顶出来了。这是的技术。咱们这绕过去你。宝安的地铁。嗯。",
+    "english_translation": "That's what it says, you. Yeah. Zhang, you've got the blue board up. It's technology. Let's go around you. Bo Ann's subway. Yeah.",
+    "ground_truth_translation": "Caller 1 instructed Caller 2 on 10 Dec 25 to fix/replace the backboard (of the basketball court) at Caller 2’s location.  Caller 2 then informed Caller 1 that they (Caller 2 and other person) are moving to the lower side location.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 1.38,
+        "end": 3.14,
+        "chinese": "那里面就说呢，你",
+        "english": "That's what it says, you."
+      },
+      {
+        "start": 3.49,
+        "end": 4.9,
+        "chinese": "嗯",
+        "english": "Yeah."
+      },
+      {
+        "start": 8.16,
+        "end": 12.48,
+        "chinese": "老张啊，你把这蓝板都给顶出来了",
+        "english": "Zhang, you've got the blue board up."
+      },
+      {
+        "start": 20.16,
+        "end": 21.15,
+        "chinese": "这是的技术",
+        "english": "It's technology."
+      },
+      {
+        "start": 25.95,
+        "end": 28.13,
+        "chinese": "咱们这绕过去你",
+        "english": "Let's go around you."
+      },
+      {
+        "start": 32.16,
+        "end": 35.49,
+        "chinese": "宝安的地铁",
+        "english": "Bo Ann's subway."
+      },
+      {
+        "start": 58.27,
+        "end": 58.56,
+        "chinese": "嗯",
+        "english": "Yeah."
+      }
+    ]
+  },
+  {
+    "call_no": "46",
+    "audio_file": "46.mp3",
+    "speech_chunks_count": 30,
+    "chinese_transcript": "阿妈阿妈。不。可。发歉多歉，往前面走远你让一下。哦，那个车在上边装小张挖机开上去还装波纹管往下边拉的，只有第一个。到家我就不管了。肇庆高庆。我。第个。对对对。小度老婆。来听好吗，大扰。等一下我去找一下他妈的。好。啊我。不用。打火酒嘛。发县。觉。给他打电话是吗。",
+    "english_translation": "Grandma! Oh, no. Yeah. I'm so sorry. Go far ahead and make way. Oh, it's got a little excavator up there and a beam pipe down there. It's only the first one. I don't care if I get home. Zhao Qing Gao Qing I'm... Number one. Yeah, yeah, yeah. Doo's wife. Would you listen to me, big trouble? Wait a minute. I'll go find the fuck. Okay. Ah, me. No, I'm fine. It's a turkey. Fat Chau. I'm sorry. Call him, right?",
+    "ground_truth_translation": "Caller 1 inquired Caller 2 on 10 Dec 2025 that a vehicle loaded with unspecified material and an excavator has moved towards the retaining wall construction site.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "挖机 (excavator)"
+    ],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 1.5,
+        "end": 2.34,
+        "chinese": "阿妈阿妈",
+        "english": "Grandma!"
+      },
+      {
+        "start": 2.46,
+        "end": 7.2,
+        "chinese": "不",
+        "english": "Oh, no."
+      },
+      {
+        "start": 8.03,
+        "end": 8.93,
+        "chinese": "可",
+        "english": "Yeah."
+      },
+      {
+        "start": 19.2,
+        "end": 22.11,
+        "chinese": "发歉多歉，往前面走远你让一下",
+        "english": "I'm so sorry. Go far ahead and make way."
+      },
+      {
+        "start": 22.56,
+        "end": 29.06,
+        "chinese": "哦，那个车在上边装小张挖机开上去还装波纹管往下边拉的，只有第一个",
+        "english": "Oh, it's got a little excavator up there and a beam pipe down there. It's only the first one."
+      },
+      {
+        "start": 30.08,
+        "end": 32.9,
+        "chinese": "到家我就不管了",
+        "english": "I don't care if I get home."
+      },
+      {
+        "start": 33.09,
+        "end": 34.98,
+        "chinese": "肇庆高庆",
+        "english": "Zhao Qing Gao Qing"
+      },
+      {
+        "start": 35.07,
+        "end": 36.19,
+        "chinese": "我",
+        "english": "I'm..."
+      },
+      {
+        "start": 36.22,
+        "end": 38.02,
+        "chinese": "第个",
+        "english": "Number one."
+      },
+      {
+        "start": 38.21,
+        "end": 39.04,
+        "chinese": "对对对",
+        "english": "Yeah, yeah, yeah."
+      },
+      {
+        "start": 39.97,
+        "end": 41.82,
+        "chinese": "小度老婆",
+        "english": "Doo's wife."
+      },
+      {
+        "start": 42.62,
+        "end": 44.13,
+        "chinese": "来听好吗，大扰",
+        "english": "Would you listen to me, big trouble?"
+      },
+      {
+        "start": 44.45,
+        "end": 48.22,
+        "chinese": "等一下我去找一下他妈的",
+        "english": "Wait a minute. I'll go find the fuck."
+      },
+      {
+        "start": 48.51,
+        "end": 49.47,
+        "chinese": "好",
+        "english": "Okay."
+      },
+      {
+        "start": 49.6,
+        "end": 50.11,
+        "chinese": "啊我",
+        "english": "Ah, me."
+      },
+      {
+        "start": 50.27,
+        "end": 50.82,
+        "chinese": "不用",
+        "english": "No, I'm fine."
+      },
+      {
+        "start": 50.85,
+        "end": 52.54,
+        "chinese": "打火酒嘛",
+        "english": "It's a turkey."
+      },
+      {
+        "start": 53.73,
+        "end": 55.55,
+        "chinese": "发县",
+        "english": "Fat Chau."
+      },
+      {
+        "start": 56.06,
+        "end": 56.93,
+        "chinese": "觉",
+        "english": "I'm sorry."
+      },
+      {
+        "start": 57.06,
+        "end": 58.98,
+        "chinese": "给他打电话是吗",
+        "english": "Call him, right?"
+      }
+    ]
+  },
+  {
+    "call_no": "47",
+    "audio_file": "47.mp3",
+    "speech_chunks_count": 21,
+    "chinese_transcript": "啊，地便宜点。好钱了好钱一点不要再好钱。号。对对对。好好好好。到达高。2。有。不用站使用水。州城阳市。被告。到。到到。找。不没有。不对。我都走了都要走。打完了吧，打完了下去把车打一下。",
+    "english_translation": "Ah, it's cheaper. Good money, good money, no more good money. No. No. Yeah, yeah, yeah. All right, all right, all right. High 2 Yes. You don't have to stand up and use water. State of Yang City. Defendants Present. Here we go. Look. No, it's not. That's not true. I'm leaving. We're done. We're done. Let's hit the car.",
+    "ground_truth_translation": "Caller 1 informed Caller 2 on 10 Dec 2025 about certain task at K13 and K14 sites. Caller 1 further informed caller 2 regarding digging work and requirement of stones at the construction site. Caller 1 further informed Caller 2 that a person named Lao Wang has moved to the retaining wall construction site.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.0,
+        "end": 2.4,
+        "chinese": "啊，地便宜点",
+        "english": "Ah, it's cheaper."
+      },
+      {
+        "start": 2.75,
+        "end": 7.26,
+        "chinese": "好钱了好钱一点不要再好钱",
+        "english": "Good money, good money, no more good money."
+      },
+      {
+        "start": 8.13,
+        "end": 10.75,
+        "chinese": "号",
+        "english": "No. No."
+      },
+      {
+        "start": 11.9,
+        "end": 13.31,
+        "chinese": "对对对",
+        "english": "Yeah, yeah, yeah."
+      },
+      {
+        "start": 13.44,
+        "end": 14.46,
+        "chinese": "好好好好",
+        "english": "All right, all right, all right."
+      },
+      {
+        "start": 15.55,
+        "end": 17.41,
+        "chinese": "到达高",
+        "english": "High"
+      },
+      {
+        "start": 17.5,
+        "end": 18.5,
+        "chinese": "2",
+        "english": "2"
+      },
+      {
+        "start": 18.66,
+        "end": 21.15,
+        "chinese": "有",
+        "english": "Yes."
+      },
+      {
+        "start": 21.63,
+        "end": 23.68,
+        "chinese": "不用站使用水",
+        "english": "You don't have to stand up and use water."
+      },
+      {
+        "start": 23.84,
+        "end": 26.18,
+        "chinese": "州城阳市",
+        "english": "State of Yang City."
+      },
+      {
+        "start": 26.46,
+        "end": 27.87,
+        "chinese": "被告",
+        "english": "Defendants"
+      },
+      {
+        "start": 27.97,
+        "end": 28.74,
+        "chinese": "到",
+        "english": "Present."
+      },
+      {
+        "start": 28.93,
+        "end": 29.92,
+        "chinese": "到到",
+        "english": "Here we go."
+      },
+      {
+        "start": 29.98,
+        "end": 33.89,
+        "chinese": "找",
+        "english": "Look."
+      },
+      {
+        "start": 42.18,
+        "end": 45.66,
+        "chinese": "不没有",
+        "english": "No, it's not."
+      },
+      {
+        "start": 45.82,
+        "end": 49.73,
+        "chinese": "不对",
+        "english": "That's not true."
+      },
+      {
+        "start": 50.11,
+        "end": 52.96,
+        "chinese": "我都走了都要走",
+        "english": "I'm leaving."
+      },
+      {
+        "start": 53.95,
+        "end": 59.26,
+        "chinese": "打完了吧，打完了下去把车打一下",
+        "english": "We're done. We're done. Let's hit the car."
+      }
+    ]
+  },
+  {
+    "call_no": "48",
+    "audio_file": "48.mp3",
+    "speech_chunks_count": 35,
+    "chinese_transcript": "对。好，那个好好。咱有需要在。否则就就。我也是。这弄子么，我都。找菜照菜不不锅。好嘞。我叫你过来呀，老陈。还有那个。8819819。老板小宝。这午能过来不。我不能。这个报不到我。我问你说什么。二中10多号6号。收到收到。好好好。是哪里。体销售这会没看到那啥多。才怎么久的。不行那种显示器就是动车安全。就是。谢谢。对。就。查流你东西。我记上面我那就没意见。稍等一下啊，个。忘。看现在哪装烧浆。好好好。",
+    "english_translation": "Yeah. That's good. That's good. We need it. Or else... Me too. I'll do it myself. It's not like you're looking for a dish or something. Okay. I told you to come over, Chen. And that. 881989 Boss Shoubao. Can you come by this afternoon? I can't. This won't work out for me. Let me ask you something. Ten out of two, number six. Copy that. Copy that. Okay, okay, okay. Where is it? I don't see a lot of that in sales. What took you so long? No, that kind of monitor is safe to move. That's right. Thank you. Yeah. Just... Check your stuff. I don't mind if I write it up. Hold on a second, man. I forgot. Look who's got the burner now. Okay, okay, okay.",
+    "ground_truth_translation": "Caller 1 informed Caller 2, code named as 8819 on 10 Dec 2025 that the blasting activity would start shortly at his (caller 1) location. Caller 1 further asked Caller 2 if the workers arrived at the worksite. Caller 2 replied workers have not arrived as the vehicle is unable to reach at his location (likely due to road block). \n1.2\tCaller 3 informed Caller 4 to load concrete.",
+    "ground_truth_remarks": "",
+    "detected_entities": [],
+    "detected_codenames": [
+      "10",
+      "19",
+      "8819"
+    ],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.29,
+        "end": 1.34,
+        "chinese": "对",
+        "english": "Yeah."
+      },
+      {
+        "start": 1.54,
+        "end": 3.62,
+        "chinese": "好，那个好好",
+        "english": "That's good. That's good."
+      },
+      {
+        "start": 3.97,
+        "end": 5.18,
+        "chinese": "咱有需要在",
+        "english": "We need it."
+      },
+      {
+        "start": 5.31,
+        "end": 5.92,
+        "chinese": "否则就就",
+        "english": "Or else..."
+      },
+      {
+        "start": 5.95,
+        "end": 6.3,
+        "chinese": "我也是",
+        "english": "Me too."
+      },
+      {
+        "start": 7.68,
+        "end": 9.18,
+        "chinese": "这弄子么，我都",
+        "english": "I'll do it myself."
+      },
+      {
+        "start": 10.46,
+        "end": 12.13,
+        "chinese": "找菜照菜不不锅",
+        "english": "It's not like you're looking for a dish or something."
+      },
+      {
+        "start": 13.12,
+        "end": 14.43,
+        "chinese": "好嘞",
+        "english": "Okay."
+      },
+      {
+        "start": 15.9,
+        "end": 17.7,
+        "chinese": "我叫你过来呀，老陈",
+        "english": "I told you to come over, Chen."
+      },
+      {
+        "start": 17.95,
+        "end": 18.91,
+        "chinese": "还有那个",
+        "english": "And that."
+      },
+      {
+        "start": 20.0,
+        "end": 21.44,
+        "chinese": "8819819",
+        "english": "881989"
+      },
+      {
+        "start": 21.57,
+        "end": 22.4,
+        "chinese": "老板小宝",
+        "english": "Boss Shoubao."
+      },
+      {
+        "start": 22.46,
+        "end": 23.78,
+        "chinese": "这午能过来不",
+        "english": "Can you come by this afternoon?"
+      },
+      {
+        "start": 25.15,
+        "end": 26.69,
+        "chinese": "我不能",
+        "english": "I can't."
+      },
+      {
+        "start": 27.26,
+        "end": 29.5,
+        "chinese": "这个报不到我",
+        "english": "This won't work out for me."
+      },
+      {
+        "start": 30.24,
+        "end": 31.71,
+        "chinese": "我问你说什么",
+        "english": "Let me ask you something."
+      },
+      {
+        "start": 32.58,
+        "end": 36.29,
+        "chinese": "二中10多号6号",
+        "english": "Ten out of two, number six."
+      },
+      {
+        "start": 36.7,
+        "end": 37.6,
+        "chinese": "收到收到",
+        "english": "Copy that. Copy that."
+      },
+      {
+        "start": 38.3,
+        "end": 38.88,
+        "chinese": "好好好",
+        "english": "Okay, okay, okay."
+      },
+      {
+        "start": 39.42,
+        "end": 40.99,
+        "chinese": "是哪里",
+        "english": "Where is it?"
+      },
+      {
+        "start": 41.06,
+        "end": 43.3,
+        "chinese": "体销售这会没看到那啥多",
+        "english": "I don't see a lot of that in sales."
+      },
+      {
+        "start": 44.32,
+        "end": 46.08,
+        "chinese": "才怎么久的",
+        "english": "What took you so long?"
+      },
+      {
+        "start": 46.18,
+        "end": 48.67,
+        "chinese": "不行那种显示器就是动车安全",
+        "english": "No, that kind of monitor is safe to move."
+      },
+      {
+        "start": 49.63,
+        "end": 50.05,
+        "chinese": "就是",
+        "english": "That's right."
+      },
+      {
+        "start": 50.14,
+        "end": 50.66,
+        "chinese": "谢谢",
+        "english": "Thank you."
+      },
+      {
+        "start": 50.75,
+        "end": 51.01,
+        "chinese": "对",
+        "english": "Yeah."
+      },
+      {
+        "start": 51.04,
+        "end": 51.3,
+        "chinese": "就",
+        "english": "Just..."
+      },
+      {
+        "start": 51.33,
+        "end": 54.69,
+        "chinese": "查流你东西",
+        "english": "Check your stuff."
+      },
+      {
+        "start": 54.85,
+        "end": 56.74,
+        "chinese": "我记上面我那就没意见",
+        "english": "I don't mind if I write it up."
+      },
+      {
+        "start": 56.86,
+        "end": 57.98,
+        "chinese": "稍等一下啊，个",
+        "english": "Hold on a second, man."
+      },
+      {
+        "start": 58.37,
+        "end": 58.82,
+        "chinese": "忘",
+        "english": "I forgot."
+      },
+      {
+        "start": 59.2,
+        "end": 60.61,
+        "chinese": "看现在哪装烧浆",
+        "english": "Look who's got the burner now."
+      },
+      {
+        "start": 61.06,
+        "end": 61.82,
+        "chinese": "好好好",
+        "english": "Okay, okay, okay."
+      }
+    ]
+  },
+  {
+    "call_no": "49",
+    "audio_file": "49.mp3",
+    "speech_chunks_count": 16,
+    "chinese_transcript": "今天晚上应该接线嘛，就是。我要报。打的时是我砸。连路都没有。你看着人看着人，光说上面那个滑石头，我房都不动。体验一下，当时他们从K5飞，从K14飞半到K7嘛。上80。要不你后面你找个绳子等上来，我拉你一会，你就不要手这都哇弯掉了。我路取找你了。好吧。那走吧。没做大多查呢？你给王婆建议下，要买一个无人机，200块钱买一个无人机之间的油。又送上来了。",
+    "english_translation": "We should be connected tonight. I want to report it. I hit him when I hit him. There's no way out. You're looking at people, you're just talking about that skater up there. My room doesn't move. Feel it. They flew from K5 and from K14 to K7. Top 80. Why don't you find a rope behind you, and I'll pull you over for a while, and you don't want your hands bent. I've come to get you. Okay. Let's go. Not much? You suggested to Mrs. Wang to buy a drone, $200 for oil between drones. Here we go again.",
+    "ground_truth_translation": "1.1\tCaller 1 instructed Caller 2 on 08 Dec 25 to alert the workers as blasting is being conducted at an area between K4 Site and K7 Site. Caller 1 further instructed Caller 2 to fasten certain thing by rope. \n\n1.2\tCaller 1 further asked Caller 2 to suggest to the third person to procure UAV for the construction site and dispatch it directly at the construction site at Caller 1’s location.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "石头 (stones / rocks)",
+      "滑石 (falling rocks / slide stones)"
+    ],
+    "detected_codenames": [
+      "20",
+      "K14",
+      "K5",
+      "K7"
+    ],
+    "turn_by_turn_segments": [
+      {
+        "start": 7.14,
+        "end": 9.95,
+        "chinese": "今天晚上应该接线嘛，就是",
+        "english": "We should be connected tonight."
+      },
+      {
+        "start": 13.25,
+        "end": 16.06,
+        "chinese": "我要报",
+        "english": "I want to report it."
+      },
+      {
+        "start": 19.49,
+        "end": 21.02,
+        "chinese": "打的时是我砸",
+        "english": "I hit him when I hit him."
+      },
+      {
+        "start": 24.38,
+        "end": 27.1,
+        "chinese": "连路都没有",
+        "english": "There's no way out."
+      },
+      {
+        "start": 27.62,
+        "end": 31.78,
+        "chinese": "你看着人看着人，光说上面那个滑石头，我房都不动",
+        "english": "You're looking at people, you're just talking about that skater up there. My room doesn't move."
+      },
+      {
+        "start": 35.26,
+        "end": 39.9,
+        "chinese": "体验一下，当时他们从K5飞，从K14飞半到K7嘛",
+        "english": "Feel it. They flew from K5 and from K14 to K7."
+      },
+      {
+        "start": 43.42,
+        "end": 47.01,
+        "chinese": "上80",
+        "english": "Top 80."
+      },
+      {
+        "start": 50.46,
+        "end": 56.7,
+        "chinese": "要不你后面你找个绳子等上来，我拉你一会，你就不要手这都哇弯掉了",
+        "english": "Why don't you find a rope behind you, and I'll pull you over for a while, and you don't want your hands bent."
+      },
+      {
+        "start": 59.01,
+        "end": 60.22,
+        "chinese": "我路取找你了",
+        "english": "I've come to get you."
+      },
+      {
+        "start": 60.83,
+        "end": 61.63,
+        "chinese": "好吧",
+        "english": "Okay."
+      },
+      {
+        "start": 63.58,
+        "end": 64.22,
+        "chinese": "那走吧",
+        "english": "Let's go."
+      },
+      {
+        "start": 64.32,
+        "end": 74.4,
+        "chinese": "没做大多查呢？你给王婆建议下，要买一个无人机，200块钱买一个无人机之间的油",
+        "english": "Not much? You suggested to Mrs. Wang to buy a drone, $200 for oil between drones."
+      },
+      {
+        "start": 74.46,
+        "end": 75.94,
+        "chinese": "又送上来了",
+        "english": "Here we go again."
+      }
+    ]
+  },
+  {
+    "call_no": "50",
+    "audio_file": "50.mp3",
+    "speech_chunks_count": 1,
+    "chinese_transcript": "嘞过来过来在帐篷上面那个那里开嘛报报了啊。",
+    "english_translation": "Come over here and open it over the tent.",
+    "ground_truth_translation": "Caller 1 instructed Caller 2 on 08 Dec 25 to come fast toward the tent at K25. Caller 1 further instructed Caller 2, Chong Gong to drive his excavator machines towards the retaining wall. Caller 1 further instructed Caller 2 to pass the instructions to all the workers and excavator operators to be alert as blasting is being conducted at the construction site at K25+900.",
+    "ground_truth_remarks": "",
+    "detected_entities": [
+      "帐篷 (tent)"
+    ],
+    "detected_codenames": [],
+    "turn_by_turn_segments": [
+      {
+        "start": 0.03,
+        "end": 47.71,
+        "chinese": "嘞过来过来在帐篷上面那个那里开嘛报报了啊",
+        "english": "Come over here and open it over the tent."
+      }
+    ]
+  }
+]

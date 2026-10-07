@@ -1,0 +1,824 @@
+# 50 Audio Files - Chinese Transcription & Translation Report
+
+- **Total Audio Files**: 50
+- **Total Processing Time**: 921.29 seconds
+- **ASR Model**: `openai/whisper-large-v3`
+- **Translation Model 1**: Whisper Large-v3 (Direct Speech-to-Text Translation)
+- **Translation Model 2**: `Helsinki-NLP/opus-mt-zh-en` (NMT on Chinese Transcripts)
+
+---
+
+## Call 01: `1.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目广泛的消息显示,大量人员坚强地发声,尤其是网络上的网友和网友团队。网友与网友联系时,网友会在网上提供更多详细的消息。网友们可以在网友网页上搜索网友的网址。请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+准备把装车机抬下来一下,什么呢?你说什么?装奶机吗? 是的,我去抬一下水,两个班组两个桶。 一个班组一桶,把水抬一下来一下,今天没灌车。 那谁那个,登龙看那个平板在上面的,要不要先给他拉一桶啊? 装了一桶好多时间,不然他再给你拿一桶大哥。 拉一栋水应该时间差不多了吧,要比装得一块。 ‎‎‣‣ ‎‣ Thank you for watching and see you in the next video.
+
+### 📖 Neural English Translation (Opus-MT)
+Please be kind enough to subscribe, forward, reward the wide range of messages in support of the mirrors and dots, indicating that a large number of people, especially online and online groups, speak out. When they reach out to them, they provide more detailed information online. They can search their web sites on their web pages. Please be kind, subscribe, forward, reward for the mirror and dots.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 instructed Caller 2 on 01 Dec 25 to send the loader at his location. To this, Caller 2 replied that he is going to bring water. Caller 2 further informed Caller 1 that since the tanker would not arrive at the construction site today he is going with the two barrels for getting water at the worksite. Caller 1 then asked Caller 2 if he could not arrange a pickup truck to bring water.
+
+---
+
+## Call 02: `2.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 广泛发出声音,人物在哪里,我到那栋楼,在徐哥的后面。你跟着他。人物,人物。那鱼头到哪里吗?我到了那边,拦水过的后面。往那个,就是我们挖出来的那个挡墻边的那个沟里面。好,好,知道。然后,我下去又装大神里面,是吧?嗯,就是,杂志跟死死稍微放合一下,别可能。车车转到车头那边,半斗半斗的刹,半断半断的那个车轮。
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+This video is not intended for entertainment purposes. Please do not re-upload this video to your friends or family members. I'm at the back of the blue water tank. Go to the ditch on the wall that we dug out. OK, got it. And then go down and put it in the water, right? It's just a little bit of a mix of sand and pebbles, so you don't have to put it in the head of the car and mix it up with the sand.
+
+### 📖 Neural English Translation (Opus-MT)
+There's a lot of noise, where the characters are, where I'm going to the building, behind Xu's. You follow him. People, people. Where's the fish head? I'm over there, behind the water. That's the ditch by the wall we dug up. Okay, okay, know. And then I went down and I put it in the Great God, right? Well, it was just that the magazine and the dead had a little bit to do with it, so don't do it. The car went to the front of the car, the half-breeded brake, the half-breeding wheel.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 informed Caller 2 on 01 Dec 25 that he has reached near a building behind Building No 20. Caller 1 further asked regarding the whereabouts of the workers. Caller 2 reply could not be ascertained due to inaudible conversation. Caller 1 further informed Caller 2 that he has reached near the water accumulation dam. Caller 2 informed Caller 1 that they (Caller 2 and other workers) are inside the ditch which they have recently dug near a big retaining wall. Caller 1 further asked Caller 2 if he (Caller 1) shall load certain material in the vehicles. Caller 2 instructed Caller 1 to load the material at his current location in the heavy vehicle and shift it to another location.
+
+---
+
+## Call 03: `3.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 车人不动了,请往下面开。560,你给挡一堆麦吧,等会就挖起了山了。就在那边推一朵片石,往上走。油桶那里,把小的片石推上来吧。920,到里面去吗?你帮个肥的班,高出来,帮车路口整出来。301,301。255。560,去旁边的地方。560,先走啊。560,到路中间了。到了他过不了。大车稍微跑快点哦,前面炮轰在等着呢,还没转红呢。在上海还有一几个人要下来放射冲炸药。
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+If you have any questions or other problems, please post them in the comment section below. This is the first time I've seen such a small rock in my life. Is it a small rock? Push forward. Push forward. Push forward. Push forward. Push forward. Push forward. Push forward. Push forward. Push forward. Push forward. Push forward. Push forward. Push forward. Push forward. Push forward. Push forward. Push forward. Push forward. Push forward. Push forward. Push forward. Push forward. Push forward. Push forward. There are still a few people on the roof who fell down and were hit by a bomb.
+
+### 📖 Neural English Translation (Opus-MT)
+Carman's not moving, please drive down. 560, block a pile of wheat, and we'll dig up the hill later. Just push a stone over there and go up. The bucket there, push the little stone up. 920, go inside? You help a fat class, get out, get out of the car. 301,301. 255. 560, go next door. 560, go ahead. 560, in the middle of the road. He won't make it. The bus is running a little faster. The cannon's waiting. It's not red yet. In Shanghai, a few others are coming down to pass out the explosive charge.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 instructed Caller 2 on 01 Dec 2025 to drive his vehicle/equipment ahead as there are stones at the worksite. 
+1.2	Caller 1 further instructed Caller 3 to deploy the loader to remove the small sized stones existing near the FOL barrel. Caller 1 further instructed Caller 3 to remove certain vehicles from the worksite as the team is waiting to start drilling work.
+
+---
+
+## Call 04: `4.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 8819,8819,干嘛干嘛?这个数据线上来,这个新色的。N2是多久?你那里有数据链没有?红色装置机,红色裝置机,你往后面退。现在是,目前是石头,现在往你后面倒一点。点灯滚到下面去了。好吧,已经上来了,我就换一下。点灯都要打下谱子了。找着点。喊着喉头疼。这边走,这边走。路过去要是这种的。那边,那边,往,往这边,往那边。请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+8819, 8819, what are you doing, why are you coming up on this vertical line, this new one, how long is it, where do you have a vertical line, there is no vertical line. Red car, red car, you step back a little bit, you are in front of the stone, you step a little bit to the back, your eyes are rolling down. Okay, I'm coming up, I'll change it. You have to take a picture of your face when you look at the camera. Look at the camera, look at the back of the car. Don't move, don't move, the logo is like this. Where are you looking at, I'm looking at you. This video is not intended to represent the views and opinions of the public. It is intended for entertainment purposes only and does not express the views of the public in any way. If you have any questions or other problems, please post them in the comments section below. This video is not intended to express the views and opinions of the owner, but only the opinion of the owner and his or her own personal opinion.
+
+### 📖 Neural English Translation (Opus-MT)
+8819, 8819, what are you doing? This data line up, this new color. How long is the N2? Do you have a data chain? Red device, red device, back you go. Now, it's a rock, now pour a little behind you. The lights are rolling down there. Well, it's coming up, I'll change it. The lights are going down. Look for it. Shouting larynx. This way, this way. If the road goes this way. That way, that way, that way, this way, that way. Please be kind, subscribe, forward, reward for the mirror and dots.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 asked Caller 2 on 01 Dec 2025 to fetch black colored data line (likely a data cable) at his location. Caller 2 response was not clear. Caller 2 further instructed the third person to shift the red colored loader from his location to the rear side. Caller 2 further instructed the workers engaged at the work site to unload the stones and conduct other works
+
+---
+
+## Call 05: `5.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 大阪市中央医疗卫生网络互联网专项搜索中心,广告中心的网友提供更多详细资讯和证据。车车上来时,车过了它,它跑来跑去,刚刚上去了,又下来了。车轮向外转,轮向左转。轮向右转。请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+This video is not suitable for some audiences. Please do not re-upload it. This is the first time I've ever seen a car like this in my life, and I've never seen anything like it in my life. The first time I saw a car like that was when I was a kid, and I didn't know how to drive. In this video, I will show you how to install and repair a new electric motor in your car. First of all, you need to install the electric motor in the engine bay. The electric motor is connected to the motor. The motor is connected by a cable. The cable is connected by the motor. 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 📖 Neural English Translation (Opus-MT)
+More detailed information and evidence is available from the Internet special search centre for the central health network in Osaka. When the car came, it passed it, it ran around, just went up, came down again. Turn the wheel outward and turn left. Turn right. Please be kind, subscribe, forward, reward for the mirror and dots.
+
+### 🎯 Ground Truth (Translation.docx)
+> 1.	Caller 1 informed Caller 2 on 01 Dec 25 that 01 x Tipper Truck has returned to his location instead of moving to a lower location. 
+
+1.2	Caller 3 informed Caller 4 (named Dorjee) about the movement of 01 x Pickup Vehicle towards a lower location and instructed Caller 4 to pay attention of safety of the vehicle as when it comes over there and asked Caller 4 to send the photographs of of an unspecified item/location.
+
+---
+
+## Call 06: `6.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 广东市河南市河北省河南区河南县河南公寓,河南省的河南坡河南岛河南湾河南山河南河南村河南洞河南川河南庄河南池河南江河南城河南桥河南海岸河南请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+This video is not intended to represent the opinions of the public. Any resemblance to actual persons, living or dead, is purely coincidental and unintentional. If you have any questions or other problems, please post them in the comments section below. Tell the excavator to put the excavator on the road side. Tomorrow morning, we will go to the tower 336 with a excavator to dig a hole and get the road out for him. Look at it. If you can't get through, I'll help you when the road is clear. Yes, the excavator should be placed here at K14 plus 600. They said it just now. Put it here at K 14 plus 600 and block the wall. It's too dangerous if you can't go ahead. Tomorrow I will take you to the 336 station with me, and I will show you the way to the station, and you will see the way out of the station. When I get off the train tomorrow, I will help you to bring down the wheelchairs.
+
+### 📖 Neural English Translation (Opus-MT)
+South Henan County Apartments in Henan, Henan Province, Henan Province, and South River South River South, South River River, South River South, River South, River South, River South, Province of Henan
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 informed Caller 2 on 02 Dec 2025 that it is approximately 600 meters more. Caller 1 informed that he cannot carry the tire as the road is not open and blasting is going to be conducted. Caller 1 further informed that the Excavator cannot drag it and Supervisor Wang wants the Excavator to be on this side of the road and instructed Caller 2 to check 336 [likely landmark] tomorrow morning and send 01 x Excavator to open the road. Caller 1 instructed that the Excavator is required to be placed here by the Retaining Wall at K14 + 600 as it is dangerous ahead so the Excavator cannot move ahead. Caller 1 further instructed Caller 2 to check 336 tomorrow as 01 x Excavator will tear [likely road] and another Excavator will break [likely road]. Caller 1 informed that he will bring the tire down after the road is open tomorrow.
+
+---
+
+## Call 07: `7.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 车车转移,车轮转转,轮轮软软转软,转圈转轰软轰转轱轱软轱轰轱载轱轻软轻轰轻轻轱轮轻载软车软载车轱车载轮车轰轮轰轰车轻轮轱轲轱轩轱轹轱轥轱轷轱轧轱轚轱轵轱轤轱轴轱轶轱轾轱轿轱轣轱转轻转载转轲软轹软轷软轺轰轲轰轷轰轹轰轳轰轭轰轩轰轪轰轵轰载轰轤轰轾轰轔轰轿轰轣轰轟轰轨轰轴轰轼轰轶轰轠轰轸轰轞轰轧轰轢轰轺软轤软轵软轩软轿软轸软轲轲轷轷转轷轲轹轷轹轹转轹轲计算机上显示有4.5毫米的空间,并设置了4.6毫米空间。在这个空间中,设置的空间大约是4.2毫米。420,420420, 420,下面那个前面那个路好像不通,刚刚下来的时候那个有石头。通知消息结尾,稍微小规矩,并控制了稍微多的工资期盘。车车转移,车轮移。请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+This video is not suitable for people with hearing loss. Please do not re-upload this video to your friends or family members. If you have any questions or other problems, please post them in the comments section below. There are 10 people on this road. Don't be afraid to cross the road. Do you want to run away? No, I don't want to run. Don't run so fast. Do you have any foot prints? 120, 120 In the morning, the road ahead seems to be blocked, there is a rock when you just came down. Let's go down and check it out. In this video, I will show you how to install and install the air-conditioning system in your car. First of all, you need to install the air conditioning system.
+
+### 📖 Neural English Translation (Opus-MT)
+The wheels and wheels turn soft, the wheels turn soft, the wheels turn soft, the wheels turn soft, the wheels and the wheels and the wheels and the wheels and the wheels and the wheels of the wheels and the wheels and the wheels and the wheels and the wheels and the wheels and the wheels and the wheels and the wheels and the wheels and the wheels and the wheels and the wheels and the wheels and the wheels and the wheels and the wheels and the wheels of the wheels and the wheels and the wheels and the wheels and the wheels and the wheels and the wheels and the wheels of the wheels and the wheels and the wheels and the wheels and the wheels and the wheels and the rims and the wheels of the wheels and the wheels and the wheels and the wheels and the cobbs and the ricks and the computer of the 4.6 mm space was set up. I don't know. In this space, the space is set at approximately 4.2 mm. 420, 420420, 420, that road down there doesn't seem to be working, and there were stones on the way down. At the end of the announcement, a little rule was taken and a little more pay break was controlled. Car move, wheel move. Please be kind, subscribe, forward, reward for the mirror and dots.
+
+### 🎯 Ground Truth (Translation.docx)
+> 1.1	Caller 1 asked Caller 2, a person codenamed as 420 on 02 Dec 25 to remove the stones at certain site (likely a road segment). Caller 1 further 
+
+1.2	Caller 1 further instructed Caller 3 to not to conduct blasting at No 5 and No 6 lane (roads) as stone removing work has to be conducted there. 
+
+1.3	Caller 1 again informed Caller 2, a person, codenamed as 420 that a road segment near certain location is blocked by the stones which has to be cleared.
+
+---
+
+## Call 08: `8.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 这些设备是为了提供更多的证据,并不仅仅是为了解决任何问题,也为了更加深入地理解决问题,并且是为了帮助人们解决他们的疑问和疑惑。我把对讲机拿给你用半天,你晚上回来的时候还它就完了。小杨小杨小杨小杨
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+In this video, I will show you how to install and install the air-conditioning system in your car. First, you need to install the air conditioning system. If you have any questions or other problems, please post them in the comments section below.
+
+### 📖 Neural English Translation (Opus-MT)
+The equipment is intended to provide more evidence, not only to solve any problems, but also to address them more geographically, and to help people resolve their doubts and doubts. I'll give you the walkie-talkie for half a day and you'll pay it back when you get back at night. Xiao Yang Xiao Yang Xiao Yang Xiao Yang
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 informed Caller 2 on 02 Dec 25 regarding sending of concrete at the construction site. Caller 1 further informed Caller 2 that he is sending the HHRS for Caller 2. Caller 1 further instructed Caller 2 to return the HHRS set by evening after using it during the whole day.
+
+---
+
+## Call 09: `9.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 这些设备是为了提供更多的证据,并且是为了保证车车业的经营和生产能力,并使他们能够运用更多的车轮。在这种情况下,我认为这种设计是非常重要的。因此,我将将它们转移到其他车软件。轮胎开下来,车轮转转,开到前面那个宽洞里面,跑到旁边,爆炮了。开到这边头,管道扔下来,扔下了。一段工程序中,车车轮胎的运行计算机和电脑运行系统的运线计算构图。一般的电脑软件是用电池运行的。一般软件使用的电池软件有电池电池、电脑电池等。一般电脑产业的软件都是用电耳机运行。这种软件可以使用软件。请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+In this video, I will show you how to install and install the system in your car. First, you need to install the system on your car. This is the first time I have seen such a car in my life, and I have never seen a car like this in my life. The car is very fast, and the speed is very fast. The car is fast, but the speed is not fast enough. The speed is very slow, but the car is fast. There is a problem with the power supply in the engine compartment of the engine compartment, and the power supply is not connected to the power supply, so it is difficult to connect the power supply to the engine compartment. If the power supply does not work, the engine compartment will not be able to be connected to the battery, and the battery will not work. 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 📖 Neural English Translation (Opus-MT)
+The equipment was intended to provide additional evidence and to ensure the operation and production capacity of the vehicle industry and to enable them to use more wheels. In this context, I think this design is very important. I will therefore transfer them to other vehicle software. The tires came down, the wheels turned, went into the wide hole in the front, ran to the side, the cannons went off. Drive over here, drop the pipe, drop it. In a working process, car tyres run computer and computer operating system line computing maps. The general computer software is run with batteries. General software uses battery software such as battery cells, computer batteries, etc. Software in the general computer industry is run by electric headphones. This software can be used. Please be kind, subscribe, forward, reward for the mirror and dots.
+
+### 🎯 Ground Truth (Translation.docx)
+> 1.1	Caller 1 informed Caller 2 on 02 Dec 25 that blasting is scheduled to be conducted soon near the duct/channel (likely in inside the duct/channel). In this regard Caller 1 instructed Caller 2 to ask the workers engaged inside the duct to move away.  
+
+1.2	Caller 3 informed Caller 4 that there is power outage at the worksite. Caller 3 further asked Caller 4 if he shall ask the excavator operator to continue digging.  Caller 3 instructed Caller 4 to stop digging is there is power outage.
+
+---
+
+## Call 10: `10.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 这些设施将会使用在各种各样的机构中,例如电脑、电脑机、电子机构、电源机构等各种各种机构,包括电脑和电脑设备,电脑系统设置、电子设计、电子工具设置等。车车跑了,这车转了一下,这个车轮转,这个转了,这是转的,升光升光,你看卡口是不是有,一个一个车呢。广泛发出的消息显示,有数据显示电压器被摔坏了,人们继续要检修。大致电报,我是你呢。在下面卡点了。你到群里面问一下,8369有车的话,赶紧放进去。它是在那个上涨的时候,要看能不能加上线。好的,好的。停车,停车后面那边。
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+This video is not intended to represent the views and opinions of the public, and does not necessarily reflect the views of the public. The video is intended to express the opinions and opinions of all parties involved in the development of the project. This is the first time I've ever seen such a thing, and it's been a long time since I've seen such a big thing like this, and I've never seen anything like this before, and I don't know what to do with it, and I'm not sure if I can do anything about it, but I think it's going to be a lot of work, and I think I'm going to have a lot of trouble with it, so I'm not going to be able to do much about it, because I don't want to waste my time, but I don't think I can do much about this, so I think I'll have to do a lot of things about it, and that's why I'm doing this, because I think I can't do anything about this, but I'm not afraid to do this, I'm afraid I can do this, and then I'm afraid to do it again, so I don't have to worry about it anymore, so I'll do it again and again, and I won't be afraid of it anymore, because I'm afraid of it again, but I won't do it anymore, and I will do it again. This video is not intended to express the opinions of people who have watched this video. Please do not take it as an insult to anyone who has watched it. If you like this video, please like, share, and subscribe to our channel. We dropped a number on the power supply. It's broken. People are going in to check it out. Hello, I'm your man. The car is stuck at the bottom. You go to the area and ask the 8369 car. If there is a car, let's put it in. He is looking at the power supply when he goes up. OK. OK. If you have any questions or other problems, please post them in the comment section below.
+
+### 📖 Neural English Translation (Opus-MT)
+These facilities will be used in a wide variety of institutions, such as computers, computers, electronics, power sources, etc., including computers and computer equipment, computer systems, electronic design, electronic tools, etc. I don't know. The car ran away, the car turned, the wheel turned, the wheel turned, it was turned, lit up, you see, there was a truck, a car, a car, a car. According to widespread information, data indicate that the voltage was broken and people continue to have to repair it. Approximate telegram, I'm you. It's stuck down there. Ask the group if there's a car in 8369, put it in. It's on that rise, depending on the wire. Okay, okay. Stop the car, back there.
+
+### 🎯 Ground Truth (Translation.docx)
+> 1.1	Caller 1 instructed Caller 2 on 02 Dec 25 to shift/load the stones at the construction site.  
+
+1.2	Caller 3 informed Caller 4 that a white colored BJC Jeep (A Jeep manufactured by the Beijing Jeep Corporation) has arrived near the construction site for maintenance of the Power transformer.
+
+---
+
+## Call 11: `11.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目好,好,随道随道。快点,快点。等一下,我去开到弯弯这里嘛。好的,好的。再快死掉吧,这裹街上。死掉了,死掉了。好的,我等一下,马上到了。可以了,可以了。这些车车的车架和车带都会被连接在同一个路上,并且将其连接到相同的路上。这就是为了保证车载车能够运行正常的车轮运行。
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+Weikong, weikong, can you please turn on the AC and check if you should run or not? Hello, I'm running, can you hear me? What's your name? I don't know what your name is. Yes, yes, I'm here running. I'll call you later. Okay, okay. This video is not intended to represent the views and opinions of the public. It is intended for entertainment purposes only and does not express the views of the public in any way. The content of this video does not necessarily reflect the views of public. If you have any questions or other problems, please post them in the comments section below. We will be there in a minute. Let's go. Yes, yes. Don't run, don't run. Don't run. Run! Don't run! Don't run over there. OK, OK.
+
+### 📖 Neural English Translation (Opus-MT)
+Please be kind enough to subscribe to the forwarding and reward for the mirrors and dots well, well, by the way. Come on, come on. Wait a minute. I'll drive to the bend. Okay, okay. Let's die again. It's on the street. Dead, dead. Okay, I'll wait. I'll be right there. All right, all right. The racks and belts of these vehicles are connected to the same road and are connected to the same road. This is in order to ensure that the vehicle is running on a normal wheel.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 asked Caller 2 if blasting is scheduled soon. Caller 2 acknowledged. Caller 1 then replied that he would move away towards the bend/turn (likely of the road) from his current position.
+
+---
+
+## Call 12: `12.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 这段工地辆辆车轮胎的车车软铁转转软转轮转,轮轮的软软轮软的轮轱轱轻轻软轻转轻轱软轱轹轱轰轱转轱轥轱轩轱轷轱载轱轲轱轧轱轿轱轤轱轾轱轭轱车轱轶轱轴轱轔轱轣轱轚轱轺轱轵轱轮轻轰软轹软载软轩软轷软轺软轲软轿软轰轹轰轷轰轰转轰轻轷轷轹轷轻轹轹轻轿轹轿轰轲轹转轹轲轰轿轷转轷轲轷轿转轿轿轲轿轻轲轲转轲轻轮轰轵轰轔轰轣轰轳轰轤轰载轰轶软轵软轣软轤软轔软轪软轸软轚轰轮12点左右放炮,18个18万管,12点左右发炮,要不要?哎,没有,上去。好了。我就说他们那个出租车都不回去,帮我带上来摊上来吧,早上忘了。好久不来,快开关车了,门打开了。关车不到去,不到去吧。
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+请不吝点赞 订阅 转发 打赏支持明镜与点点栏目 It's about 12 o'clock, let's go. Eighteen to eighteen, Guan Er. It's about twelve o'clock. Let's go. Do you want it or not? I don't want it, sir. What's wrong? I'm just saying, they're not going to go back. Help me bring them up here. It's late in the morning. We'll be back in a while. You can open the gate now. Open the door. I don't know if the gate is open or not. Thank you for watching, please subscribe to my channel if you like my videos.
+
+### 📖 Neural English Translation (Opus-MT)
+The wheels of the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the wheels, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door? I don't know. Okay. I told you they didn't go back to that cab. Bring it to the booth. I forgot in the morning. It's been a long time. It's closing. The door's open. We can't close the car. We can't go.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 informed Caller 2 that blasting is scheduled to be conducted at certain construction site at 1200 hrs. Caller 1 further asked Caller 2 if he required 18 x unspecified items. Caller 1 finally instructed Caller 2 to send the tanker at the construction site.
+
+---
+
+## Call 13: `13.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 网友提供了更多评论,关注网友的内容和点赞,并且请不吝点赞 订阅 转发 打赏支持明镜与点点栏目请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+I'm busy, I'm busy. The repairman told me that he has a job to do tomorrow. What did you say? I mean the repairman. He said he still has some work to do today. He's still in Lhasa now. He'll come over tomorrow. Yes, he said there's still a little bit of work to do over there. Is it 5 o'clock tomorrow? OK. Wang Maomao! Why don't you give him a call? All right. I'll wait for him. Wang Maomao, there's another green car there. Come on, come on. Come here, come here. Come here, come here, let's have a look at the fire station. Come, let's pull the fire station out.
+
+### 📖 Neural English Translation (Opus-MT)
+Netizens provide more comments, focus on their content and praises, and please do not hesitate to praise, subscribe, forward, support mirrors and dots, praise, subscribe, forward, support mirrors and dots.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 (Wang peng) asked Caller 2 located on 31 Dec 25 about repair of unspecified thing. In response, Caller 2 replied that repair worker/technician may repair today or some other days. Caller 2 further informed that he presently at Lhasa and he (said person) will reach worksite by tomorrow (01 Dec 26). Caller 2 further added that he (repair worker) is engaged in some other work also. Caller 1 informed Caller 2 to contact over No 07 number. Caller 2 further queried from Caller 1 about location of green colored vehicle. In response, Caller 1 reported that vehicle has arrived recently. Caller 2 confirmed that Vehicle has arrived near mixing plant.
+
+---
+
+## Call 14: `14.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 大厦使用,再来修吧,再叫上去个大厦我们就可以了。回来,回来行,回来回来。认为这些车车上运作用,不仅仅是一辆大型车,也许是更大的车轮。这些轮胎和车身都会有不同的车型。这种车型的车体和车型都会有相似的车身。大车回来,那也行,不像下午让他上去的时候,开上那个黑色飞靠上去吧。飞靴的车上去也是,让零头早点上,现在补开了,补完开就让他拉你这样就上去。
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+This video is only available in English. If you have any questions or other problems, please post them in the comments section below. Thank you for watching this video. This video is not intended to represent the views and opinions of the public. It is intended for entertainment purposes only and does not express the views of the public in any way. The video is intended to provide information for the public to understand. Thank you for watching. In the afternoon, you can take a big car back to work, or in the afternoon you can drive a black car to work. The front of the car needs to be repaired early, so that it can go to work as soon as possible.
+
+### 📖 Neural English Translation (Opus-MT)
+The building will be used, we'll fix it again, and we'll call it up. Come back, come back, come back. The vehicles were thought to be operational, not just a large car, but perhaps a larger wheel. These tyres and body sizes are different. This type of vehicle will have similar body sizes, as well as the type of vehicle. The bus comes back, that's fine. It's not like when he gets up in the afternoon, take the black flight and lean on it. The boots are in the car too, so the change is early, now it's open, then he's gonna pull you up.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 asked Caller 2 that he (Caller 2) that he no need to send the return of excavator. Caller 1 further asked Caller 2 to send the truck and pickup vehicle at the worksite by afternoon.
+
+---
+
+## Call 15: `15.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 大阪市中央电视连续电视台上发布了一篇文章讨论明确的消息,并且提供了更多详细的证据和评论。使用了12个亚载,环境不一定那样的行。嗯。我问一下,不是想留了吗?不想看8个年代行吗?不想了就再给你换。我给你发过去嘛,你看一下。看!
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+This video is not suitable for some audiences. Please do not re-upload it. If you want to buy a new car, you can buy a new one for $20,000, but if you want to get a new car for $80,000, you don't have to pay the same amount of money as the previous one. If you are tired and want to stay at home, you can get a new one at the same time. Let me show you how it works. Thank you for watching, please subscribe if you like my videos.
+
+### 📖 Neural English Translation (Opus-MT)
+An article discussing clear news was published on the central television channel in Osaka city, and more detailed evidence and comments were provided. Twelve sub-loads were used, and the environment was not necessarily the same. Yeah. Let me ask you something, don't you want to stay? Don't want to see the 8th century? I'll change it for you. I'll send it to you. Take a look. Look!
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 informed Caller 2 that he (Caller 1) has already dispatched the Optical Fiber Cable (OFC). Caller 2 acknowledged.
+
+---
+
+## Call 16: `16.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 中午不停了,我一直看想说让老张逛河咱几个人带饭嘞,不想要把那个翻手车C的三个人的饭一个人带上去,不吃那三个人饭,中午不行了。广泛关注,请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+This video is not suitable for some audiences. Please do not try this at home. Uncle, we can't stop at noon. We can't stop. I've been asking Zhang to take us to lunch. I want to have a meal for three people. I don't want to eat that three-person meal. We can't have lunch. In the end, it was a complete failure to get the car out of the way and the car was taken out of the vehicle. The car had to be replaced with a new one. Yes, that's what I mean. I told Zhang to bring five people. I don't want to put three cars in the car and leave them alone. Don't let those walls fall in vain. Thank you for watching, see you in the next video.
+
+### 📖 Neural English Translation (Opus-MT)
+I've been thinking about letting Jang go to the river with a couple of us. I don't want to take the three Cs of the roller coaster alone, without the three, not at noon. A lot of attention, please be nice, subscriptions, forwards, rewards for the mirrors and dots.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 instructed Caller 2 to send 03 x workers, 01 driver and 03 x tipper trucks at the construction site for loading of certain material. Caller 1 also informed Caller 2 that work would continue at the construction site today afternoon.
+
+---
+
+## Call 17: `17.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 车车转向前方,车轮转向后方,轮胎转向上方,转向下方,轻转转向後方,软软转向中央,转直转向右转向左转,转移转向外转向内转向直转,滚动转向高速转向最后转向低速转行,转到最后方向,转至最高位,转入最高位时,转出最高位之后,转进最低位之后转回到最高位。大阪市中央医疗部网络部网红搜索人员的联系人员与网友联系网友,并提供更多详细的资讯和证据,并向网友提供最新的消息。请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+In this video, I will show you how to set up and control a drone in the air. First of all, you need to set up the drone in the right position. This video is not suitable for some people. Please do not re-upload it. OK, got it, got it. Loza, Loza! Go back to your seat, pay attention, don't go down, there's a pit below. No, no, I'm not going down, is there anyone else here? I'm at the bottom. OK, OK, OK. Pay attention.
+
+### 📖 Neural English Translation (Opus-MT)
+The wheels turn to the front, the wheels to the back, the tires to the top, the tires to the bottom, the wheels to the back, the soft to the centre, the right to the left, the outward to the inside, the rolling to the high-speed, the final to the low-speed turn, the final to the highest, when the top turns out, and then the bottom to the highest. I don't know. Contact persons of the Red Searcher Network of the Central Medical Department of Osaka City contact their friends and provide more detailed information and evidence and provide updates to them. Please be kind, subscribe, forward, reward for the mirror and dots.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 informed Caller 2 that he has carried out digging work near a place where molding plates have dumped and small excavator machine has moved downside. Caller 1 further asked Caller 2 to conduct certain work pertaining to stones.
+
+---
+
+## Call 18: `18.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 在这段工地里面,车车的开启和运行方式是相同的。在这段过程中,车子的运行程序是一样的。车车转转,车轮转轮轮软转软软轮轰转轰软轰轰轱轱软轱轻软轻轱载软载轱轮轻轻载轻轥轱轥软轥轻轰轻转轱转轻轮轱轲软车软轲轱车轱轩轱轹轱轷轱轰轹轹软轹轰轲轹转轹轲转轲轰轮轹轻轲轻轹轷轰轥轰轷轻轷软轷转轷轷载轰载轷轹载轹轥轷轥载轥轥轹轮轥转轥轮载转轵转轭转轩轹轩软轩转轤软轪软轚软轣软轵软轧软轳软轿软轴软轔软轟软轺软轾软轸软轤轱轤轰轵轰轤轤轲轤轷轤轮轤轹轤转
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+In this video, I will show you how to install and install the air-conditioning system in your car. First, install the air conditioning system. The air conditioning system is installed in the car. Install the air conditioning unit. The air conditioning unit is connected to the air conditioner unit. The air conditioner unit is also connected to the AC unit. You guys take a look at the outside and let the car go. Next, get this big rock in here. The kid will pull it over.
+
+### 📖 Neural English Translation (Opus-MT)
+In this part of the site, the vehicle was opened and operated in the same way. During this period, the vehicle operated in the same way. The wheels turn and the wheels turn and the wheels and the wheels and the wheels and the wheels and the wheels and the wheels turn and the soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, slow, slow, slow, slow, slow, slow, slow, slow, slow, slow, slow, slow, slow, slow, slow, slow, slow, slow.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 instructed Caller 2 to send the small excavator machine to downside for digging the heavy stones.
+
+---
+
+## Call 19: `19.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 等下啦,等下,动范动范的小王,小王你在哪个位置,你放什么位置啊动范。动范呢动范那小王小王,你在哪个位子啊,汇报一下汇报,我K26加100度要放炮,放炮。好的。等下,我在这儿,丢口挖几下。请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+Wait a minute, wait a minute. Dongfan, Dongfan's little king, little king, where are you? Where are you, Dongfan? Dongfan's... Dongfan's small king, small king. Where are you? Let me report, let me report. I'm K26 plus 100 degrees. I'm going to fire. Okay. Wait a minute. I'm here. This video is only available in English. Please do not re-upload it if you don't want to miss any of our videos. Thank you for watching.
+
+### 📖 Neural English Translation (Opus-MT)
+Wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait. What position are you in? I'm going to fire a gun at K26 and 100 degrees. Okay. Wait a minute, I'm here. Please be kind, subscribe, forward, reward for the mirror and dots.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 asked Caller 2 (Xiao Wang) located whether he (Caller 2) facing any problem at his (Caller 2) location. Caller 1 further asked Caller 2 about his (Caller 2’s) location and also instructed caller 2 to confirm his (Caller 2) location and engagement. Caller 1 further informed that he (Caller 1) will start the blasting at K26+100 road section shortly.
+
+---
+
+## Call 20: `20.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 车车转移,车轮转转,轮胎转轮,轮毯转软软,轮圈转轰,轮带转轱轱轮轱软轱载轱车轱轻轻软轻载软载载轻车软车载车轨软轮软轺软轰软轷轱轰轰轻轰轱轲软轲轱转轻轱轥轱轹轱轩轱轷软轹轰转轷轰轮轰轲轰轷转载转轲转轹转轭转轵转轳转轴转轧转车轰车轻转轤转轶轰轤轰载轰轶轱轤轤轱轶轤载轤软轤轵轰轵轱轵轤轴轱轪轱轿轱轸轱轚轱轾轱轔轱轢轱轣轱轟轱轺轱轴软轵软轿轰轹软轸软轩软轚软在保证你本身是安全的情况下,尽量把这个坡刷缓一点啊。就是再刷缩的话,挖掣都刷不下。到时候你看嘛,你尽量刷缭一点,然后再下去两三米的话,你基本上挖进去就可以。你平平的在坡上面了,就不用太累了,如果刷得太陡的话,到时候这边又会滑,知道吧。这个,我不说这么多的话,我记得不是外面转的,我也是在外面散的,这一天都裂开了。我知道你的意思,我知道他们的意思,就是说,
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+In this video, I will show you how to install the air-conditioning system in your car. First, turn on the air conditioning system. Turn on the air conditioner. Turn on the AC. Turn on the fan. Turn on the radio. Turn on the TV. Turn on the remote control. You can slow it down a little bit, and try to slow it down as much as you can in case you are safe. If you keep slowing it down, you won't be able to dig it all the way down. Try to slow down a little, and if you can't dig it down for another two or three meters, you can just ride on the ice. You don't have to push it too hard. If you turn too much, the other side will slip again, you know? Yes, I don't say so much, I'm not turning outside, I'm also turning outside, these are all broken. I know what you mean, I know what it means, that is to say,
+
+### 📖 Neural English Translation (Opus-MT)
+The wheels shift, the wheels turn, the wheels turn soft, the wheels roll, the wheels roll, the wheels roll, the wheels roll, the wheels roll, the wheels roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel roll, the wheel, the wheel roll, the wheel, the wheel, the wheel, the wheel, the wheel, the wheel, the wheel, the wheel, the wheel, the wheel, the wheel, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door, the door. I don't know. If you brush it again, you won't be able to get rid of it. You'll see, if you try to brush it a little bit, and then you go two or three meters down, you basically dig in. If you're flat on the slope, you don't have to be too tired. If you brush it too steep, it'll slide again, you know. Well, if I don't say so much, I remember it wasn't out there, I was out there, and it was all broken up this day. I know what you mean. I know what they mean.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 instructed Caller 2 to drive his excavator towards the slope at certain construction site and make slope little slower keeping in view the safety. Caller 2 replied that excavator is unable to move at the slope as it is too steep. Caller 1 instructed Caller 2 drive the excavator at least up to 2-3 mtr at the slope and try to mend is otherwise it would become slippery.
+
+---
+
+## Call 21: `21.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 车车开启后,车轮转向前轮,轮胎转向后,轮轮轻轻,轮腰轮软软转转软,轮流转轱轮轱软轱轱载轱车转载转车软载车轱转轻软轺软轻轱轻载软轰轱轰软轷轱轥轱轩轱轹轱轲轱轧轱轚轱轭轱轵轱轴轱轶轱轤轱轪轱轾轱轿轱轣轱轳轱轷软轹轰轰转轰轷轰轻轰轲轰轹软轮轰载轰轵软轲软轵轰轤软轩软轤轰轥软轥轰轭软轪软车轰轩轰轪轰轣软轟软轿软轔软轳软轣轰轿轰轳轰轔轰轟轰轗软轚软轭转轲转轷轷轲轷转�请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+In this video, I will show you how to install the new WD-40 on the WD-41, and how to install WD-42 on a WD-45. First, install the WD system. The WD system is installed in the front and rear of the car. The system is installed on the back of the car, so that the car can move freely. The system is also installed on the rear of the vehicle. If you have a problem with the cable, you need to fix it. Yes, yes, yes. Be careful not to dig too deep over there. Yes, sir. Look, I haven't finished fixing it yet. You can see it. You can fix it by covering it with sand on the pipe. You can't fix it without the sand. 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 📖 Neural English Translation (Opus-MT)
+When the wheels are turned on, the wheels turn to the front wheels, the tires turn soft, the wheels turn soft, the wheels turn soft, the wheels turn soft, the wheels turn soft, the engine rolls soft, the engine rolls soft, the engine rolls, the engine rolls, the engine rolls, the wheels roll, the wheels roll, the wheels roll, the wheels roll, the wheels roll, the wheels rolls, the wheels rolls, the wheels rolls, the wheels rolls, the wheels rolls, the wheels rolls, the wheels rolls, the wheels rolls, the wheels rolls, the wheels rolls, the wheels rolls, the wheels rolls, the wheels rolls roll, the wheels, the wheels rolls, the soft, the soft, the wheels rolls, the soft, the soft, the wheels rolls rolls, the soft, the soft, the soft, the bells, the bells, the bell, the bell, the bene, the bet, the bet, the bet, the bet, the bet, the bet, the bet, the bet, the bet, the reward, the reward, the reward, the be the reward, the reward, the reward, the reward, the reward, the reward, the reward, the be the reward, the reward, the reward, the reward, the reward, the reward, the reward, the reward, the reward, the reward, the reward, the reward, the reward, the reward, the reward, the reward, the reward support, the be the be the be the reward, the reward, the be the be the be the be the reward and the reward, the bet and the be the be the be the reward and the bet and the bet and the bet and the be the be the be the be the bet and thee
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 informed Caller 2 that  a excavator has reached rear location and further instructed Caller 2 to start the caterpillar/crawler excavator for certain work. Caller 1 also instructed Caller 2 to pay attention while working at his (Caller 1) section. Caller 2 also informed that he (Caller 2) will remove the pipes from certain sand covered location.
+
+---
+
+## Call 22: `22.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 开机后,我们两个人在下雨,下了啥雨嘛,现在我要下车,今天就是说,冬日一跳啊,我俩伴,然后什么都同样进行下车的嘛,去打几个游戏吧,等我上来再打第二次。你们打的哪个寒冬?老袁,老袁你打寒军了是吧?没有没有。请不吝点赞 订阅 转发 打赏支持明镜与点点栏目感谢您的收看,请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+In the afternoon, I went fishing with my two friends. I went fishing in the morning, and then I went fishing again in the afternoon. I went fishing on the second day of the third day of the fourth day of the fifth day of the sixth day of the seventh day of the eighth day of the ninth day of the tenth day of the eleventh day of the twelfth day of the thirteenth day of the sixteenth day of the twentieth day of the nineteenth day of the sevent day of the seventeenth day. Which hand-to-gathering did you go to? I went to another place. Did you go to Handong, Yuanyuan? No, I didn't. 要是你打班组,那我去打水桶这边哦。 担忧车没看到,班组车可能要过去嘛,上去等一下嘛。 什么时间过来? 应该没看到啊,你等一下嘛,等一下应该,过来了。 老袁,两个班组的车过来了啊。 这个是三公路啊,三公路上啊。 担护车刚才就过来了,等一会儿嘛。两个班车就过来,他们也差不多到了。 Thanks for watching, please subscribe, like, share and comment.
+
+### 📖 Neural English Translation (Opus-MT)
+When it started, it rained on us. Now I'm going to get out of the car. Today I'm going to say, "At the first winter, we're going to be together, and then I'm going to do the same thing." Go play a few games. I don't know. Which winter did you hit? Yuan, did you fight the cold army? No. Please be kind, subscribe, forward, support the mirrors and dots, thank you for your viewing, please be kind, subscribe, forward, and support the lenses and dots.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 asked Caller 2 on 27 Dec 25 whether they (Caller 2 and his party) have digging at right side of the certain work site. In response Caller 2 asked if he (Caller 1) engaged in culvert digging work and further queried from Caller 1, if Laoyuan has engaged in culvert site. To this, Caller 1 replied in negative. Caller 2 informed that he (Caller 2) will move to water drainage worksite and didn’t seen the movement of dump truck during the day. Caller 2 informed that he (Caller 2) has noticed the movement of Two dump trucks at his (Caller 2) work site.
+
+---
+
+## Call 23: `23.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 这些设计是为了提供更多实际的设备,并不仅仅是为了推广车车,但也为了保证整个车体的质量,并带来更多新的车体和车型。广泛消息指出,新加坡发生火灾事件后,大量人员被迫禁止开车和车车,并且被禁止返回公寓和公寓。在这次火灾之后,大部分人员坚持在公寓或公寓中,以防止人员遭受严重火灾。请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+In this video, we will show you how to install and install the system in your car. First, install the system on your car. The system should be installed on the outside of the car. Install the system outside the car. The system is installed on the inside of the car, not on the outside. Install the system inside the car. The system must be installed on both sides. In this video, I will show you how to install and install the air-conditioning system in your car. First, install the air conditioning system. The air conditioning system is installed in the air conditioner. The air conditioner is connected to the air conditioner and the air conditioner is turned on. The air conditioner can be turned on and off at the same time. 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 📖 Neural English Translation (Opus-MT)
+These designs were designed to provide more practical equipment, not only to promote the vehicle, but also to ensure the quality of the entire body of the vehicle and to bring in more new body and model. It was widely reported that, following the fire in Singapore, a large number of people had been forced to stop driving and cars and to return to apartments and apartments. After the fire, most of the people insisted on staying in the apartment or apartment in order to prevent serious fires. Please be kind, subscribe, forward, reward for the mirror and dots.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 asked Caller 2 on 28 Dec 25 that he (Caller 2) has dispatched the cement to digging work site. Caller 2 replied in affirmative. Caller 2 further informed Caller 1 about arrival of excavator at retaining wall location.
+
+---
+
+## Call 24: `24.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 编吧,编吧。诶,警长,谁叫我?把打装的机开过来一下,小马仔。好的,好的,好的。你短着聊过来嘛,短著聊过来。好的,好的广告广告广告广告广告广告广告广告广告
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+编吧编吧 诶,警长,水酒。 把打装的机开过来一下,小马仔。 好的,好的,好的。 你端着鸟过来嘛,端着鳥过来。 好的好的。 In this video, I will show you how to install and install the air-conditioning system in your car. First, install the air conditioner. Then, turn on the air conditioner and turn it on again. Then, turn the air conditioner on again. Then, turn off the air conditioner again. Next, connect the air conditioner to the car.
+
+### 📖 Neural English Translation (Opus-MT)
+Make it up, make it up. Hey, Sheriff, who told me to bring the machine over here, pony boy? Okay, okay, okay. Come on. Come on. Come on. All right, good ad ad ad ad ad ad ad ad ad ad ad ad ad ad ad ad ad ad ad ad ad ad ad.
+
+### 🎯 Ground Truth (Translation.docx)
+> .     Caller 1 asked Caller 2 (namely Bianbai) about inspection of certain work site. In response, Caller 2 replied that a big loader vehicle and mixing station have arrived at (Caller 2) location. Caller 2 further informed that some materials have also arrived recently
+
+---
+
+## Call 25: `25.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 这段开后期那个下午吃到中午吃到饭的时候,你把这里弄完了,把这个坡,这个坡的这个,我把它抓一下,抓松一点,然后你是看上面它不是那个的吗,然后上面擦土吗,你就站到这个位置,把它推上去,把它弄把坡修好看一点,啊。好好好。在这段工地里面,车车的运行计划是不一样的。在这段工作室内,车子的运用方式是相同的。车子上的运动方式是一般的。当车子运行时,车身的运作方式是适当的。
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+In the afternoon, when you have lunch, you finish this part of the road, and then take this slope, and make it a little loose, and then you look at the top, it's not that one, and then it's dirt on the top, and you stand in this position, and you push it up, and you fix the slope, and it looks good. This video is not intended to represent the views and opinions of any company or organization. It is intended for informational purposes only and does not necessarily reflect the views of the company or the company itself. If you have any questions or other problems, please post them in the comments section below. Thank you for watching.
+
+### 📖 Neural English Translation (Opus-MT)
+At the end of the afternoon, when you had lunch, you finished the place, you took this slope, this one of the slopes, I grabbed it, I grabbed it a little bit, and then you saw it on top, didn't it? I don't know. All right, all right. In this part of the site, the vehicle's operating plan is different. In this room, cars are used in the same way. The way the car moves is normal. When the vehicle is running, the body is operated in an appropriate manner.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 instructed Caller 2 repair the slope and add some sand at the upper side of the slope after lunch. Caller 2 acknowledged
+
+---
+
+## Call 26: `26.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 本期视频就分享到这里,感谢观看,欢迎订阅点赞、转发、打赏支持明镜与点点栏目车车转移,车轮转转,轮胎转轮,轮毯轮轮软转软软,轮圈轮轰转轰软轰轰轮轻转轻软轻轰轻轻轱轱软轱轻载软载轱轮轱轰轱车轱载车载轮车软车轨软轲软轩软轷软轹轱转轱轩轱轥轱轲轱轭轱轧轱轵轱轴轱轤轱轶轱轚轱轿轱轷轱轺轱轹轹轰轹轻轹软轿轰轲轹轲轰轷轰轣轰轳轰轿轲轲转轲轻轲轷轲轵轰轵轲车轰车轲轮轲轳轲载轲轭轲轿
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+This video is not intended to represent the views and opinions of people who are watching this video on YouTube or other social media platforms, and does not necessarily reflect the views of those who are watching it on YouTube. The video is intended to provide information on how to deal with the current situation in China and other parts of the world. This video is not intended to represent the views and opinions of the public. It is intended for entertainment purposes only and does not express the views of the public in any way. If you have any questions or other problems, please post them in the comments section below. Thank you for watching.
+
+### 📖 Neural English Translation (Opus-MT)
+The video was shared here, thanks for viewing, welcoming subscriptions to the pebbles, relays, offers of support for mirrors and point-and-point car transfers, wheels turning, tires turning, wheel wheels turning soft, wheels turning soft, wheeled, soft, soft, light, light, soft, soft, soft, light, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, heavy, heavy, heavy, heavy, heavy.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 informed Caller 2 that the blasting is scheduled to be conducted at K-9 site. Caller 2 acknowledged.
+
+---
+
+## Call 27: `27.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+没看到,没看到,我拍了个照片,我下来再研究研究,我这边没看到有明显的虫沟。 我们就先再等一下。 等一下,等一下,等一下。
+
+### 📖 Neural English Translation (Opus-MT)
+Please be kind, subscribe, forward, reward for the mirror and dots.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 reported Caller 2 on 21 Dec 25 that he (Caller 1) not noticed the survey/research (yanjiu) certain road section in the K series. Caller 1 also informed that nothing clear at his (Caller 1) side.
+
+---
+
+## Call 28: `28.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目发射计则,连续运行,连运行、连返回、返回,返回和返回之后,再返回或返回。返回返回时,使用途径选择适当的选项。返回途中,途中返回是途中的途中途中。请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+This video is not intended to represent any of the following content. Please do not re-upload it as it is not suitable for some audiences. This is the first time I've ever seen this kind of thing in my life. Take it, take it. Don't move that big thing. If you move it, it'll get stuck in your face. Take it. Take it. Okay, okay. Turn it off, turn it off. You can turn it off now. Don't let him pull it out. Turn it off. Did you turn it off?
+
+### 📖 Neural English Translation (Opus-MT)
+Please be kind enough to subscribe To Forward To Support the Sunglasses and Point Columns Launcher, running continuously, running, returning, returning, returning and returning, then returning or returning. returns the return, the path is used to select the appropriate option. On its way back, it is on its way. Please be kind, subscribe, forward, reward for the mirror and dots.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 asked Caller 2 on 22 Dec 25 whether some items have brought at digging and blasting work site located at lower side of the caller 2 location. Caller 1 further queried about arrival of meal at said location. To this, caller 2 confirmed the same. Caller 1 further instructed Caller 2 to start the certain activity after the meal. The duo also discussed about shifting of certain constr machinery.
+
+---
+
+## Call 29: `29.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 本期视频就分享到这里,感谢观看,请不吝点赞 订阅 转发 打赏支持明镜与点点栏目预测器的运行程序是以下。
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+This video is not intended to represent the views and opinions of this channel. If you find it interesting, please like, comment, and share it with your friends on social media. If you have any questions or other problems, please post them in the comments section below. The car is ready to go. Turn the car around. Turn the car over. Turn the car inside out. Turn the car outside out. Turn the car on. Turn the car off. Turn on the engine. Turn the engine on. Turn on the front. Turn on the rear. Turn on the back. Turn on the tail light. Turn on the headlight. See you next time, see you next time. See you in the next video. Bye-bye. OK, OK, I'll wait for you. Got it, got it.
+
+### 📖 Neural English Translation (Opus-MT)
+The video is shared here, thank you for watching, please be kind enough to subscribe to it, forward and reward the operating program that supports the mirror and the point field forecaster as follows.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 asked Caller 2 on 22 Dec 25 about delivery of certain item and further asked the current location of the Caller 2. To this, Caller replied that he (Caller 2) is delay in arrival and further informed that he (Caller 2) has collected the pipes. Caller 1 further instructed Caller 2 to drive the vehicle towards forward location and allow other vehicles to move properly.
+
+---
+
+## Call 30: `30.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 开启车车的启动速度,使用车轮的运行计算机能够更快地运行正常运行。开启机车的运动速度是适当的。开启模型车的顺序是不一样的。预计发射程序,使用电脑运输器,并使用无线网络计划,以确认发射速度和运动速度,并设置相关设备,并提供运动设施,并控制运动程序。
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+If you have any questions or other problems, please post them in the comments section of this video. We are ready for take-off, we are ready to take-off. Take-off, take-off OK, we are taking-off. Take-off now, we will take-off now.
+
+### 📖 Neural English Translation (Opus-MT)
+The start-up speed of the vehicle is such that the running computer using the wheels can function more quickly and properly. The motor speed of the motor vehicle is appropriate. The order in which the model car is opened is different. Prospective launch procedures, the use of computer transporters and the use of wireless network plans to confirm launch speed and speed of movement, and the installation of related equipment, as well as the provision of movement facilities and control of movement procedures.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 informed Caller 2  on 21 Dec 25 that blasting is scheduled to be conducted at the worksite soon. In this regard, Caller 1 further asked Caller 2 to instruct all the workers to pay attention on safety.
+
+---
+
+## Call 31: `31.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 那个挖机已经在挖啰,他已经挖了,他已经在 挖了。等我走路上去,全部七八都挖完了,那个,都已经挖的,有七八分钟啰。那边这个吗?那边那个还是这边这个?一开始问你们,你们又说打这边这个,打这边那个,我现在在这边,你们过来吧。广告请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+The excavator is already digging, he has already dug, he has been digging, wait for me to go up the main road, all of you have dug it, that one has been dug for seven or eight minutes. You guys are playing hot sweat in the lake, are you playing this over there or this over there? I asked you at the beginning, you said you were playing this over here, this over there, and that over there, I'm here now, you guys come over. This video is not intended to represent the views and opinions of the public. It is intended for informational purposes only and does not express the views of the public in any way. If you have any questions or other problems, please post them in the comments section below. Thank you for watching.
+
+### 📖 Neural English Translation (Opus-MT)
+That excavator is digging, he's digging, he's digging. When I walk up there, I'm done digging, that's it. It's been digging for seven or eight minutes. Is this over there? Is this over there or this over here? At first you asked, you said this over here, this over here. I'm over here. Come here. Ads, please. Subscriptions, forwards, awards for mirrors and dots.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 informed Caller 2 on 22 Dec 25 that an excavator has completed digging at higher side main road location and further reported that excavation will complete within seven to eight minute at another location. Caller 2 asked Caller 1 to confirm with third person regarding start of digging work at some other location.
+
+---
+
+## Call 32: `32.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 通话,现在想要去贵族。通话,在那个鹿壳那里,把边上给它堆一下。通话,还落一件。通话,落,落,还落一点。通话,好。请不吝点赞 订阅 转发 打赏支持明镜与点点栏目请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+In this video, I will show you how to install the system in your car. First, install the system on the side of the car. Then install the system at the end of the road. After installing the system, turn the car over to the other side and install the system. The system is now installed on the other side. In this video, I will show you how to install the system on your own car, and how to install it in your own car. First of all, you need to install the control panel on the control panel. The control panel should be installed in the center of the control panel, so that the control panel can be connected to the control panel at the same time. The control panel must be installed in a place where the control panel is located. The control panel needs to be installed at the same place as the control panel's control panel. The plane is about to take off. The plane is taking off now.
+
+### 📖 Neural English Translation (Opus-MT)
+Call, now want to go to the aristocrats. Call, put it on the side of that shell. Call, drop one. Call, drop, drop, drop a little. Call, okay. Please be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be supportive, be kind, be kind, be kind, be supportive, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind,
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 informed Caller 2 on 22 Dec 25 that the vehicle of inspection team is scheduled to arrive at the construction site. In this regard, Caller 1 further instructed Caller 2 to park the vehicle at certain spacious place and keep road clear.
+
+---
+
+## Call 33: `33.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 一段工程中,车车转转时,车子转过来,车头转过去,车身转过去了,车上转过来了,车口转过了,车门转到车上,车面转了转,车道转过,车窗转下,车端转下。车轮转过后,车手转过车,车脚转着车软转着,车的车轱转着。在哪里转车呢吗?下边,呃,堆水泥那儿。啊,你去,车嘞。咱们走着下来上吧,走,去什么地方接他们嘛。这两个机动交路给他过去吧,这两个几种交路。请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+In this video, I will show you how to install a water-cooling system on your car. First, you need to install the water-cooled system. The water-cooler is installed on the bottom of the water tank. The water tank is connected to the water pump. When the water pump is connected, the water pump will be turned off. The water pump is also connected to the lower water tank. This video is not intended to represent the views and opinions of the public, and does not necessarily reflect the views of the public. The video is intended to express the opinions and opinions of all parties involved in the development of the project. Thank you for watching. In the next video, I will show you how to set up and control the engine in the engine room, and how to set it up in the car. In this video, I am going to show you the process of setting up and controlling the engine. Wait for a moment. Don't drive too fast.
+
+### 📖 Neural English Translation (Opus-MT)
+In a piece of work, when the car turned around, the car turned around, the head turned around, the car turned around, the door turned around, the door turned around, the car turned around, the car turned around, the driveway turned around, the window turned down, the car turned down. I don't know. After the wheels turned, the driver turned around, the foot turned soft and the car turned upside down. Where's the car? Down there, uh, pile of cement there. Ah, you go, car. Let's walk down. Let's go and pick them up somewhere. Let's give him these two mobile circuits, these two ones. Please be kind, subscribe, forward, reward for the mirror and dots.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 informed Caller 2 on 20 Dec 25 that 02 x workers are arriving near the cement dump at the construction site. Caller 2 said ok and further asked Caller 1 to send reinforcement steel bars at the construction site.
+
+---
+
+## Call 34: `34.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 连续运行,连连远远的运行都能够做到,不仅仅是运行方式,也能够运行运行的方式。连运行时,运行人员都可以运行。运行后面的工具全都在这里调过工具。这段工地运行计划是为了保护人员的健康和健康,以保护他们的身体和身体健康。这段工程是为了帮助人员保护自己的身体、健康、保护他人的身体。订阅频道,点赞,转发,打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+In this video, I will show you how to install and install the air-conditioning system in your car. First, you need to install the air conditioning system in the rear of the car. This video is not intended to represent the opinions of the public. It is intended for entertainment purposes only and does not express the views of the public in any way. The video is intended to provide information for the public to understand. Please subscribe to our channel for more videos.
+
+### 📖 Neural English Translation (Opus-MT)
+Run continuously, even far away can be done, not only in the way it works, but also in the way it works. Runners can run even when running. All the tools running behind are here to adjust the tools. The purpose of this project is to protect the health and health of persons in order to protect their physical and mental health. The purpose of this project is to help persons to protect their bodies, their health and the health of others. Subscribe the channel, cheer up, forward and reward the mirrors and dots.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 instructed Caller 2 on 20 Dec 25 to send reinforcement steel bars near No 10 building (likely under construction building).
+
+---
+
+## Call 35: `35.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 电报,电报,这厂一厂施工下来嘞。电报上边喊不上来,喊不起来就下边厂嘞。现在这里装干净。车车开启后,车轮转向外面,轮胎转向前方,转向转向后,轮连转向後,轮带转向下,轮旋转向上,轮回转向中央,转转向左转向右转向直转向内转向高速转向最后转向,转到最后,转至最后。车车的运行程序是以下。1. 车轮转移。2. 轮轮移动。3. 运行计划。4. 开启运行。5. 转车。6. 关门。7. 开门。8. 开车。9. 开路。10. 开入。11. 开出。12. 开到。13. 开了。
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+This video is not intended to represent the opinions of the public. It is intended for entertainment purposes only and does not necessarily reflect the views of the public and the people of the community. The video is intended to provide information for the public to understand. This video is not intended to represent the opinions of the public. It is intended to express the views of the public, and not the opinions of those who are concerned about the safety and safety of their vehicles and vehicles. The video is intended to provide information on the safety and security of vehicles and vehicles in the area. 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 📖 Neural English Translation (Opus-MT)
+Telegraph, telegram, construction work at the factory. The telegrams cannot be shouted, and they cannot be shouted down the factory. Now it's clean here. When the car opened, the wheels turned outside, the tires turned forward, the tires turned, the wheels turned, the wheels turned down, the wheels turned up, the wheels turned back to the centre, the left turned to the right, the inside turned to the high-speed turn, the last to the end, the last to the end. I don't know. The vehicle's operating procedures are as follows. 1. Wheel transfer. 2. Wheel movements. 3. Operational plan. 4. Opening of operations. 5. Transfer of vehicles. 6. Close the door. 7. Open the door. 8. Drive. 9. Opening of the road. 10. Entry. 11. Opening. 12. Arrival. 13. Open.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 instructed Caller 2 on 20 Dec 25 to make one trip of vehicle to deliver stones at the construction site. Caller 1 further demanded reinforcement steel bars.
+
+---
+
+## Call 36: `36.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 车车开启了,车子开起来,车枪开出,车门关上,车窗关上,驾驶机开启,车端关上,汽车关上,铁路关上,线路关上。您在这儿等几分钟,您老板把这儿稍微扫一下,你再上来。您老板,接着这个斗篷,让冰棒上来,把这石头,这一层石头铺来再扫来。
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+In this video, we are going to show you how to install the air conditioner system in your car. First, you need to install a new air conditioner system. The air conditioner system is installed in the air conditioner unit. The air conditioner unit has been installed in this unit for a long time. You can see that the air-conditioning system has been installed for a while. In the next video, I will show you how to install the system and how to make the system work in real-time. Thank you for watching and see you in the next video.
+
+### 📖 Neural English Translation (Opus-MT)
+The car was opened, the car was opened, the gun was opened, the door was closed, the window was closed, the driver was open, the end was closed, the car was closed, the railway was closed, the line was closed. You wait here for a few minutes, your boss cleans up a little bit, you come up. Your boss, take this cape and let the popsicles up, put this rock, this layer of stone on the floor and clean it up again.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 instructed Caller 2, a person named Bina Ba on 20 Dec 25 to wait for few minutes as person is coming to deliver concrete and stones at the site.
+
+---
+
+## Call 37: `37.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 广告本期视频就分享到这里,感谢观看,请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+This is the first time I've ever been to a place like this, and I'm so happy to be able to show you guys what I've been up to so far. I'm so glad to be here, and I can't wait to show you all of the things that I've been working on. In this video, I will show you how to install and install the air-conditioning system in your car. First, you need to install the air conditioning system. The air conditioning system can be installed in any car. You can install it in any car, whether it is a small car or a large car. You can install air conditioning system in any car as long as you want. 广泛认识,有限公司,有限商务人员,有限货车,有限车产业,有限汽车,无限车车业,无限电车专门设计,无限工程师,无限技术专项,无限销售,无限设施,无限开发,无限生产,无限制作,无限装饰,无限配套,无限购物,无限服装,无限衣服,无限品购,无限化,无限套,無限装飾,无限造型,无限价格,无限优惠,无限零件,无限产品,无限系列,无限新产品.
+
+### 📖 Neural English Translation (Opus-MT)
+This is where the video from the commercial is shared. Thank you for watching. Please be kind. Subscriptions, forwards, rewards for the mirrors and dots.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 instructed Caller 2 on 15 Dec 2025 to shift the stones from the construction site. Caller 1 further discussed with Caller 2 about movement of a vehicles and excavator machine to the construction site.
+
+---
+
+## Call 38: `38.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 数量带尽量埋在下面,尽量不要让它裸露在外面了。车车转移,车轮转,轮胎转轮轮软转转软轮轰软软轰转轰轱轱轮轱软轱载轱轻软轻轻载软载轻轱车软车轱轰车轻车轰轻轰轰轲车载车轵车轩车轨软轲软轩轱轲轱轹轱转轱轥轱轷轱轤轱轾轱轿轱轺轱轶轱轴轱轧轱轭轱轵轱轪轱轣轱轚轱轠轱轟轰轩轰轷轰轹轰轳轰轵轰载轰轤轰轿轰轔轰轣轰轾轰轟软轷轷软轹软轿软轵软轤软轸软轥软轺软轣软轔软轗软轭软轪软轚软轨轰轥轰轭轰轮轷轲轰轪轰轝软轳�请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+Please do not try this at home or anywhere else in the world. Please do not do this at home and anywhere else. Please don't do it at home and everywhere else. Please do not use plastic bags or plastic bags. Please don't use plastic bags and plastic bags. Please try to bury the plastic bags underneath. Please try not to let the plastic bags roll around outside. Please try that. Please don't throw the plastic bags outside. Please don't put the plastic bags under the plastic bags. Please don't leave the plastic bags on the floor. Please don't move the plastic bags over the floor. Please don't touch the plastic bags with your hands. Please don't push the plastic bags against the floor. This video is not intended to represent the views and opinions of the public. Any resemblance to actual persons, living or dead, is purely coincidental and unintentional.
+
+### 📖 Neural English Translation (Opus-MT)
+Quantum belts are buried below as much as possible, and as much as possible not to leave them naked. The wheels and wheels and the wheels and the wheels and the wheels and the wheels and the soft and the wheels and the wheels and the soft and the soft and the soft and the soft and the light, the light and the light, the light and the light, the light and the light, the car and the wheel and the soft and the soft and the soft and the soft and the soft and the soft, the soft and the soft, the soft and the soft, the soft and the soft, the soft and the soft, the soft and the soft, the soft and the soft, the soft and the soft, the soft and the soft, the soft and the soft, the soft and the soft, the soft and the soft, the soft and the soft, the soft, the soft and the soft, the soft, the soft and the soft, the soft, the soft, the soft, the soft, the soft, the soft, the soft, the soft, the soft, the soft, the soft and the soft, the soft, the soft, the soft, the soft, the soft, the soft, the soft, the soft, thee, the sweet, thee, the warm, thee, the warm, thee, thee, thee, thee.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 instructed Caller 2 on 14 Dec 25 to bury the plastic bags of cement under the ground and don’t leave them naked outside. Caller 1 further instructed Caller 2 to carryout digging work at the construction site.
+
+---
+
+## Call 39: `39.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 车车转向中央,车轮转向下,轮胎转向后,轮毯转向前,轮椅转向後,轮圈转向上,轮带轮到车软软,轮扣转到软轱软转到坡轱轱转,轮移转转轮到坡,轮轱轮轮到砰轱轰轱,轮换转软轰轰转轱轻软轻轻轰软轷软轮软轺软载软轹软轲软轩软轥软轵软轳软轭软轿软轪软轤软轴软轧软轚轰轻轱轷轱轹轱轲轱轩轱载轱轵轱轤轱轸轱轶轱轴轱车轱轾轱轿轱轔轱轧轱轂轱轭轱轺轱轣轱轚轱轥轱轗轱轖轱轪轱轋轱轊轱轙轱轳轱轝轱轍轱大阪!这个白色的围岛,是吧?这个围栏,掉在下面来啊。这不是上这个板网,刚刚掉在这个板,板网。然后放在板网的侧边。一般的油放在车子上面,一键油,一般的管拿上来,上不来,你把车子叫它停在下面,就停在下面。就停在那块。它把子弹也丢到我池子里。我把它摔下来,我把它搬上去,放炮,上面有油。计时计时,车车上启动,车子上下降,车上下降后,车头上下降。在车上上下降前,车身上上下下下下,车面上下下上下下。订阅我们的频道,点赞,转发,打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+In this video, I will show you how to install the system in your car and how to install it in your car. First, install the system on your car. The system is installed on the car. The system is connected to the computer. The system is also connected to the phone. In this video, we are going to show you how to set up and install a system that can be used to control the power supply of your car. First of all, you need to install the power supply. The power supply will be installed on the side of the board. This video is not intended to express the opinions of the owners of this channel. Please do not take it as a personal opinion and are not suitable for the use of the content of this video. If you have any questions or other problems, please post them in the comments section below. In this video, I will show you how to install and install the air-conditioning system in your car. First, you need to install the air conditioning system. The air conditioning system is installed in the front of the car. You need to install it in the back of the car, so that the air condition can be controlled by the air conditioner. The air conditioners are installed in the rear of the car and the air conditioners in the back. When the air conditioner is installed, the air conditioner is turned off. In this video, I will show you how to install and install the air-conditioning system in your car. First, turn on the air conditioning system.
+
+### 📖 Neural English Translation (Opus-MT)
+The wheels turn to the center, the wheels to the centre, the wheels to the centre, the tires to the back, the wheels to the back, the wheels to the back, wheels to the back, wheels to the back, wheels to the back, wheels to the back, wheels to the back, wheels to the back, wheels to the back, wheels to the back, wheels to the back, wheels to the back, wheels to the back, wheels to the back, wheels to the back, wheels to the back, wheels to the back, wheels to the bottom, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, soft, white, white, low, white, low, right? I don't know. It's not on the board. It just fell on the board. It's on the board. Then put it on the side of the net. The usual oil is on top of the car, one key, the normal pipe comes up, doesn't come up, you tell it to park down there, it's parked down there. Stop right there. It threw the bullet in my pool. I fell it off, I moved it up, fired it, and there was oil on it. The car was activated, the vehicle was down, and when it fell, the head fell. Before the vehicle was down, it was down and down and down and down and down and down. Subscribe to our channel, cheer up, forward and reward the mirrors and dots.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 instructed Caller 2 on 14 Dec 25 to asked the third person to send vehicle inside at the construction site as digging work has been completed there. Caller 2 acknowledged. Caller 2 further instructed Caller 1 to send a pipe and FOL at his location. Caller 2 further informed Caller 1 that he is moving to certain worksite to conduct blasting.
+
+---
+
+## Call 40: `40.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 二十天 二十天二十天把图倒了 我来把这边数据收了 收了 把那啥都给它搬去算了 算了先把这两个图往后面倒吧倒吧 倒吧好的 好的领工之旅 领工自旅三马 国民军队三号车四号车轮车进攻发射三小舟后面那个墙上有 有那个漂泡线啊广东市中央消防网络组队发布了一项计划,指向全国各地的消防部门战略部署人员提供证据,广东医疗部门联络部门组组织人员领导与联网部门团队联合联合医学部门协议部门的联合研究部门。请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+Zhang Zhiting, Zhang Zhiting. Zhang Zhiting! I've got the data. Come and get the data. When you get it, send it to him. Forget it, forget it. Let's talk about it. Let's get these two data back first. We'll do it when we get there. Okay, okay. This is Lin Hongzhi. Lin Hongzhili. We're going to take a look at the situation. You can go ahead if you have any questions. Take a look. There's a drift line on the wall behind us. It might be ahead of us. This is the first time I've seen such a thing in my life, and I've never seen anything like it before. I've never been to a place like this before. I've been to a lot of places like this before, but I've only been here once. It's been a long time since I've been here. It's been about 20 years since I came here last year. In the next video, I will show you how to install the air-conditioning system in the front of the car.
+
+### 📖 Neural English Translation (Opus-MT)
+Twenty days, twenty days, twenty days, twenty days, twenty days, 20 days, and I'll take the data from here, and I'll take it, and I'll put it all away, and I'll put it on the back. I don't know. Please be kind, subscribe, forward, reward for the mirror and dots.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 instructed Caller 2, a person named Zhao Dejian on 14 Dec 2025 to receive the consignment of cement and send to the construction site. Caller 2 replied that there is sufficient cement at the construction site currently.
+
+---
+
+## Call 41: `41.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+‎‐‐‥‥‧‧‬‬‧‥‬‥‣‧‭‬‣‬※‬″‬‼‬›※※‼‼※″‼″※‵‼‵‵″‵※‶※›‼‸※‹※‸‼›‵‸‵›‸››‿※‽›‹›‽※‾※′※‥※‰※‱※․※‮※‷※ ※‴※‿‼‽‸‸‬‵‽‵‶›‾›‱›‬‽‼‹‼‿›‶‼‾‵‬‸‽‬‶‵‿‽‶‬‾‽‾‸‾‾‿‾‹‽‽‹‾‬‿‵‾‼‶‾‮‽‿‬‮› ›‴›‮‵‹‵ ‵‴‽‴‬‹‬ ‽ ‼‴‵‮� I have to take one person down, two people, I help you, I take one, and then I take one person, two people. Okay, okay, I'll send it to you. Okay, I'll take one, I'll wait here. Come on, come on, there's a car here.
+
+### 📖 Neural English Translation (Opus-MT)
+Please be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be supportive, be kind, be kind, be kind, be supportive, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind,
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 instructed Caller 2 on 12 Dec 25 to send the water tanker and two workers at K3 construction site. Caller 1 further added that he has arranged one worker for an unspecified task and two more workers are needed for it.
+
+---
+
+## Call 42: `42.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 同时,其他车车都被违反了,并且被违法判决。在这个情况下,我们的工作人员是否能够使用这种技术?一般的车车上运行时,其他车项都会被违反,因此车轮转是必须得到的。在这种情况下,如果您想要违反车软件,您需要使用一种方式来违反它。如果您希望使用一个方式,您需要选择一种方法。如果您想使用另一个方法,您需要违反其他方法。
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+This video is not suitable for some people. Please do not try this at home. I don't want to talk about it, but the stone will come down in a moment. I'm going to turn it over and see if it works.
+
+### 📖 Neural English Translation (Opus-MT)
+At the same time, other vehicles were violated and sentenced in violation of the law. In this case, is it possible for our staff to use this technology? When the normal car runs, the rest of the car is broken, so the wheeling is necessary. In this case, if you want to violate the car software, you need to use a way to violate it. If you want to use a method, you need to choose a method. If you want to use another method, you need to violate another method.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 instructed Caller 2 on 11 Dec 25 to dispatch the excavator machine at the site near the retaining wall and clear/dig the stone so that (the likely blocked road could get clear) and the tipper truck could pass through.
+
+---
+
+## Call 43: `43.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 这次的运动是为了提供运动设备,并且为了保证人员能够运动好运动。在运动中,运动员必须使用运动方式,例如运动手段、运动模式。有人过来了就到这个桥这里吧,他们那里有人。作为一辆车的主要设备,其中一辆是一辆飞行器,其中一个是飞行机,其二辆是飞机,其三辆就是飞机和飞机之间的飞机。这些飞机是用来飞行的,飞机的飞行程序是一样的。
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+In this video, I will show you how to install the air-conditioning system in your car. First, turn on the air conditioning system. Then, turn the air conditioner on. Turn on the air conditioner. The air conditioner will be turned on when the air conditioner is turned on. In this video, I will show you how to install the air-conditioning system in your car. First, turn on the air conditioning system. 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 📖 Neural English Translation (Opus-MT)
+The purpose of the campaign was to provide sports equipment and to ensure that personnel were able to exercise well. In sports, athletes must use sports methods, such as sports methods, sports models. Someone's coming. Get to the bridge. There's someone there. As the main equipment of a vehicle, one of them was an aircraft, one was an aircraft, the other two were aircraft, and the other three were aircraft between aircraft and aircraft. These aircraft are used to fly and the flight procedures of the aircraft are the same.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 instructed Caller 2 on 11 Dec 25 to help a person named Wen Jing to shift the molding plates at the construction site. Caller 1 further instructed Caller 2 to send the workers to the site near bridge (likely the under-construction bridge) when they would arrive at Caller 2’s location.
+
+---
+
+## Call 44: `44.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 本期视频就分享到这里,感谢观看,请不吝点赞 订阅 转发 打赏支持明镜与点点栏目这段视频有点大呀,我没大呢,有些火车舱。有一些石头压起来,那个挖机,他说,我看到他也好像死相。我说他在石头里面压起了,上面有个大石头,把下面压着了,那个我不太明白。广告广告广告广告广告广告广告广告广告广告广告广告广告广告广告广告广告广告广告广告广告广告广告广告广告广告广告广告
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+We are in Shenyang, Shenyang. You go, you go. The Pika behind you should be on the top. Where is it? I won't go down then. Let it come up. It's coming up. OK. 320. I'm looking at this stone. Is there a barrel that was blown up? Right? This video was made with the support of the Chinese Ministry of Defense and the Ministry of Defense of the People's Republic of China, and is not intended to represent the views and opinions of the Chinese government or the Chinese government in general, and does not express the views of the Chinese Government or the Chinese Government in general. There were some rocks that were pressed up, and the excavator said he saw something like a rock. I said he was in the rock, and he pressed the rock down. I don't know about that. The boss is going to come back, isn't he? 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 📖 Neural English Translation (Opus-MT)
+And the video was shared here, thank you for watching it, and please be kind enough to subscribe to it, forward it, reward the video in support of the mirror and the dots, which is a little big, I'm not big, there's some train cabins. There was some rock, the excavator, and he said that I saw him dead too. I told him he was under a rock, and there was a big rock on it, and I didn't get it. Advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising advertising
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 instructed Caller 2, on 11 Dec 2025 to send the pickup truck from rear location to his (Caller 1’s) location. Caller 1 further instructed to explode the rocks/stone at the construction site. Caller 1 finally asked Caller 2 to send the excavator machine at the construction site for digging work.
+
+---
+
+## Call 45: `45.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 车车转移,车轮转转,轮胎转轮轮软软转软轰转轰软,轮圈转轱软轱轱轮轱轻轻软轻轱载软载轱车软车轱轰轱轥轱轩轱轹轱轧轱轲轱转轻转载轮轻载轻轮载车轻车载载转车轰轮轰轻轰轰轲软轲转轲轻轲轮轲轰车轲轲车轭转轵转轴转轾轱轾载轾轾车轾轿轾轤轾轹轾轰轾轣轾轷轾软轾转轹轹载轹软轹轰轹转轷轱轷轹轷软轷轰轷轷转轿软轿轷轲轷轿轱轿轹轲轹轿轰轿轿轲轿转轔轱轔软轔轰轵软轩软轵轱发射程序是一般的,只需要使用一段机通话和一段运行计划来解决这些问题。在这种情况下,如果您想使用这种机通话,您必须使用其他机通话。请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+In this video, I will show you how to install and install the system in your car. First, you need to install the system on your car. You can install the system by pressing the button on the right side of the screen. Then, press the button to start the system. Press the button to turn on the system. Press the button again to turn off the system. Press the button one more time. This video is not intended to express the opinions and opinions of those who do not believe in science and technology, and does not necessarily reflect the views and opinions of all parties involved in the production of this video. If you have any questions or other problems, please post them in the comments section below. In this video, I'm going to show you how to install and install the air-conditioning system in your car. First, you need to install the air conditioning system. The air conditioning system is installed in the engine compartment of the car. You can see that the air conditioners are installed on the engine compartment.
+
+### 📖 Neural English Translation (Opus-MT)
+The transfer of cars, the turn of wheels, the turn of tires, the turn of wheels, the turn of wheels, the turn of wheels, the turn of wheels, the turn of wheels, the turn of wheels, the turn of wheels, the light of wheels, the light of wheels, the roll of wheels, the blow of wheels, the blow of wheels, the roll of wheels, the turn of wheels, the turn of wheels, the turn of wheels, the turn of wheels, the turn of wheels, the turn of wheels, the roll of wheels, the roll of wheels, the turn of wheels, the turn of wheels, the turn of wheels, the roll of wheels, the turn of wheels, the roll of wheels, the roll of wheels, the roll of wheels, the roll of the car, the roll of the car, the roll of the car, the roll of the car, the roll of the car, the roll of the car, the roll of the car, the roll of the car, the day, the day, the day, the day, the day of the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the day, the I don't know. In this case, if you want to use this type of phone, you must use another type of phone. Please be kind, subscribe, forward, reward for the mirror and dots.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 instructed Caller 2 on 10 Dec 25 to fix/replace the backboard (of the basketball court) at Caller 2’s location.  Caller 2 then informed Caller 1 that they (Caller 2 and other person) are moving to the lower side location.
+
+---
+
+## Call 46: `46.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 车车在上边装小张外级开箱机和装拨音框,下边拉的只有一个。请不吝点赞 订阅 转发 打赏支持明镜与点点栏目请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+This video is not intended to represent the views and opinions of the public. It is intended for informational purposes only and does not express the views of the public in any way. This video is intended for entertainment purposes only. Let's go to the front and wait for a while. The car is installed on the top, the small machine is installed on top, and the windscreen is also installed on the bottom, there is only one in the bottom. I don't care if you want to fall down or fall down. Don't worry, don't worry. Don't worry. It's okay. It's okay, it's okay. It's fine, it's fine. What the hell are you talking about? This video is not intended to represent the opinions of the author. Any resemblance to actual persons, living or dead, is purely coincidental and unintentional.
+
+### 📖 Neural English Translation (Opus-MT)
+The vehicle is equipped with a small external opener and a sound frame on top of the vehicle, and only one is pulled down. Please be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be supportive, be kind, be kind, be kind, be supportive, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind,
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 inquired Caller 2 on 10 Dec 2025 that a vehicle loaded with unspecified material and an excavator has moved towards the retaining wall construction site.
+
+---
+
+## Call 47: `47.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+We are now at the airport, and we are going to take off from the airport. We are about to take off. We are taking off now. We are going to the airport. We are going back to the airport now. Take off now, take off. Take off, take off now. This video is not suitable for people with disabilities. Please do not re-upload this video to your friends or family members. Let's go down and take a look at the other cars.
+
+### 📖 Neural English Translation (Opus-MT)
+Please be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be supportive, be kind, be kind, be kind, be supportive, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind, be kind,
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 informed Caller 2 on 10 Dec 2025 about certain task at K13 and K14 sites. Caller 1 further informed caller 2 regarding digging work and requirement of stones at the construction site. Caller 1 further informed Caller 2 that a person named Lao Wang has moved to the retaining wall construction site.
+
+---
+
+## Call 48: `48.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 领导人员说:"这些车车都没用了,我都不想买了。我只想买个小型车,就像你一样。我还想买一个小型的车,但我没有钱。我只是想买一辆车。我可以买一个车,但是我没有钱,所以我不想买这个车,我只想要一个车和一个车的汽车。889,889,882,883,4次过来不?过不来。4次过不到,我问,我问你说什么?收到,收到。好,好,好。4次过来了。好好好,个几小时,我才过来,我还看着,累成什么?累成什么,兄弟?连续电话和电脑通话都可以通过电脑计算机的电脑传输数据,并且使用电脑输入数据来测试电脑的运作效果。
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+This video is not intended to represent the views and opinions of the public. It is intended for informational purposes only and does not express the views of the public in any way. If you have any questions or other problems, please post them in the comments section below. 2829, 2829, 3829, can you hear me? I can't hear you. Can't you hear me, Wei Weng? Wei Weng, what did you say? Call the police, call the police! Roger that! Roger that! Okay, okay, okay. Who are you calling? I'm calling the police. What are you doing here? What are you talking about? We are now in the city of Shenzhen, China, and we are going to have a test drive to see if there are any problems with the K14 and K15. Hello, is there any problem with the K15? I don't know, but it's raining outside. Mr. Wang, please come over here and take a look. OK, OK, OK.
+
+### 📖 Neural English Translation (Opus-MT)
+The leader said, "These cars are useless. I don't want to buy them. I just want to buy a car, just like you. I'd like to buy a small car, but I don't have the money. I just want to buy a car. I can buy a car, but I don't have the money, so I don't want to buy this car. I just want a car and a car. 889,889,882,883,four times? No. Four times I can't, I ask, I ask. What do you say? Copy. Okay, okay, okay. Four times. Yeah, yeah, yeah, yeah, I'm just here for a couple of hours, and I'm watching, what's tired? What's tired, bro? Continuous phones and computer calls can transmit data through computer computers and use computer input data to test computer performance. I don't know.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 informed Caller 2, code named as 8819 on 10 Dec 2025 that the blasting activity would start shortly at his (caller 1) location. Caller 1 further asked Caller 2 if the workers arrived at the worksite. Caller 2 replied workers have not arrived as the vehicle is unable to reach at his location (likely due to road block). 
+1.2	Caller 3 informed Caller 4 to load concrete.
+
+---
+
+## Call 49: `49.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 大阪市中央医疗卫生网络组组织人员和联邦医院医生联合联合医生专业医生和医生医生的联合研究人员与医生训练医生。大阪医学院医学研究科医生、医务医师、医药医生等人员、医生健康病患者、医療医生等等人员。车车上运动时,车上会出现不正确的消息,例如,发射阻挡计划,或是发射弯弯的动作。车上发射的动作是不正常的。车上开启的速度是适当的,因为车上的速度比较稳定。这些设计都可以使用在各种各样的机构中,不仅仅是开启无人机,还可以使用其他机构,例如电脑、电脑机、电子机构等。如果您想要更多的设备,您可以订阅我们的频道,并且关注我们的微信公众账户。每个无人机就送上来了。
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+This video is not intended to represent the views and opinions of the public. It is intended to express the opinions and opinions of those who think it is appropriate for the public to understand the situation in China. This video does not express the opinions, opinions, or opinions of anyone who thinks it is appropriate to say it in this way. This video is not suitable for people with hearing loss. Please do not try this at home. In the future, if you have a rope, I'll pull you up on the rope. You don't have to do this. It's all a mess. What are you doing in the middle of the road? I'm going to drink tea. I don't recommend buying a drone. If you buy a drone, it will be delivered today.
+
+### 📖 Neural English Translation (Opus-MT)
+The Central Health Network Group of Osaka City has co-researchers and doctors who train together in the joint doctors and doctors of the federal hospital. Personnel such as medical doctors, medical doctors, medical doctors, medical doctors, medical patients, medical doctors, etc., at Osaka Medical School. When the vehicle moves, incorrect information appears on the vehicle, such as the firing block plan or the firing of bending movements. It's not normal to fire in the car. The speed at which the vehicle was opened was adequate, as the speed at which the vehicle was opened was relatively stable. These designs can be used in a variety of institutions, not only to open drones, but also in other institutions, such as computers, computers, electronics, etc. If you want more devices, you can subscribe to our channels and follow our micro-credit public accounts. Every drone's on its way.
+
+### 🎯 Ground Truth (Translation.docx)
+> 1.1	Caller 1 instructed Caller 2 on 08 Dec 25 to alert the workers as blasting is being conducted at an area between K4 Site and K7 Site. Caller 1 further instructed Caller 2 to fasten certain thing by rope. 
+
+1.2	Caller 1 further asked Caller 2 to suggest to the third person to procure UAV for the construction site and dispatch it directly at the construction site at Caller 1’s location.
+
+---
+
+## Call 50: `50.mp3`
+
+### 🇨🇳 Chinese Transcription (Verbatim)
+> 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目成功有滑石,成功的滑石啊,注意注意,线锋。包子强,你们这人先不要到松鸥那儿去啊。好嘞,好嘞。1025,我们家就把起爆完毕,起爆了完毕。人家松鸟不听到声音了,你们稍微再挺一会儿就可以工作了啊。
+
+### 🌐 Direct English Translation (Whisper Large-v3)
+You need to change lane 25. Come here, come here, on the ramp, on the bridge over there. Can you drive faster? K25 plus 80, get ready to change lane. 27 seconds, there's a car. Just add this gate, and I'll let you pass. There's a flower on the bridge of the bridge. Wait a minute, wait a minute, work. Stay away from the bridge. Tell everyone, they're just below the bridge. In the next video, I will show you how to install the air-to-air missile system in the aircraft carrier and how to use it in real-time.
+
+### 📖 Neural English Translation (Opus-MT)
+Please be kind enough to subscribe to it, forward to it, reward the slides that support the mirrors and dots, and the slides that succeed. Attention, liner. Bobo, don't go to the pine gulls. Okay, okay. 1025, we're going to blow up. We're going to blow up. The pinebirds don't hear the sound. You can work a little longer.
+
+### 🎯 Ground Truth (Translation.docx)
+> Caller 1 instructed Caller 2 on 08 Dec 25 to come fast toward the tent at K25. Caller 1 further instructed Caller 2, Chong Gong to drive his excavator machines towards the retaining wall. Caller 1 further instructed Caller 2 to pass the instructions to all the workers and excavator operators to be alert as blasting is being conducted at the construction site at K25+900.
+
+---
+
